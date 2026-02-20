@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2502815-23",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2502815-23",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T14:39:11",
+      "siglaOrgao": "CCOM",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539385",
+      "idOrgao": 539385,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80772",
+      "idEvento": 80772,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-10T11:33:11",
+        "descricao": "Parecer do Relator, Dep. Julio Cesar Ribeiro (REPUBLIC-DF), pela aprovação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601840"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601840,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601840",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Julio Cesar Ribeiro (REPUBLIC-DF), pela aprovação.",
+          "dataApresentacao": "2026-02-09T20:27"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2502815,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2502815",
+          "siglaTipo": "TVR",
+          "codTipo": 428,
+          "numero": 292,
+          "ano": 2025,
+          "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.908, de 16 de outubro de 2024, publicada no Diário Oficial da União de 7 de novembro de 2024, que renova, a partir de 22 de abril de 2016, a permissão outorgada à Rádio Regente Ltda., posteriormente transferida à Fundação Maranata de Comunicação Social, para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Sapiranga, Estado do Rio Grande do Sul.",
+          "dataApresentacao": "2025-04-29T16:42"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2502815-23"
+      }
+    ]
+  }
+}

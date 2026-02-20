@@ -1,0 +1,81 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2597312-7",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2597312-7",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T18:48:39",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2592030",
+          "tituloProposicao": "PL 6140/2025",
+          "descResultado": "Aprovado o requerimento nº 5919/2025,da Sra. Talíria Petrone, que solicita urgência (art. 155) para o PL 6140/2025.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": "Apresentação do PL n. 6140/2025 (Projeto de Lei), pela Deputado(a)a Talíria Petrone (PSOL-RJ), que: \"Acrescenta dispositivo à Lei nº 10.714, de 13 de agosto de 2003, para tornar obrigatória a divulgação do serviço Ligue 180 em notícias e informações relativas à violência contra a mulher veiculadas em qualquer meio de comunicação\".",
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2592030",
+          "tituloProposicao": "PL 6140/2025",
+          "descResultado": "Realizar o encaminhamento do PL-6140/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2597312,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597312",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 5919,
+          "ano": 2025,
+          "ementa": "Requer, nos termos do Artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei nº 6140/2025, que acrescenta dispositivo à Lei nº 10.714, de 13 de agosto de 2003, para tornar obrigatória a divulgação do serviço Ligue 180 em notícias e informações relativas à violência contra a mulher veiculada em qualquer meio de comunicação.",
+          "dataApresentacao": "2025-12-16T14:54"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2592030,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2592030",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6140,
+          "ano": 2025,
+          "ementa": "Acrescenta dispositivo à Lei nº 10.714, de 13 de agosto de 2003, para tornar obrigatória a divulgação do serviço Ligue 180 em notícias e informações relativas à violência contra a mulher veiculadas em qualquer meio de comunicação.",
+          "dataApresentacao": "2025-12-03T14:34"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2597312-7"
+      }
+    ]
+  }
+}

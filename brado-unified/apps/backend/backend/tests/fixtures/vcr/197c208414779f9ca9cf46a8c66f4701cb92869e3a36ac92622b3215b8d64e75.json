@@ -1,0 +1,236 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2591970-30",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2591970-30",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T22:43:49",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81011",
+      "idEvento": 81011,
+      "descricao": "Aprovado o Projeto de Lei nº 6.132, de 2025.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação em turno único.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-10T22:42:21",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-10T22:18:18",
+        "descricao": "Parecer proferido em Plenário pela Relatora, Dep. Célia Xakriabá (PSOL-MG) pela:\r\n• Comissão da Amazônia e dos Povos Originários e Tradicionais, que conclui pela aprovação do Projeto de Lei nº 6.132, de 2025.\r\n• Comissão de Educação, que conclui pela aprovação do Projeto de Lei nº 6.132, de 2025.\r\n• Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação orçamentária e financeira do Projeto de Lei nº 6.132, de 2025.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 6.132, de 2025.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602340"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2602308,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602308",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 15,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 6132/2025",
+          "dataApresentacao": "2026-02-10T20:15"
+        },
+        {
+          "id": 2602300,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602300",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 14,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-10T20:07"
+        },
+        {
+          "id": 2602340,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602340",
+          "siglaTipo": "PPP",
+          "codTipo": 192,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer proferido em Plenário pela Relatora, Dep. Célia Xakriabá (PSOL-MG) pela: • Comissão da Amazônia e dos Povos Originários e Tradicionais, que conclui pela aprovação do Projeto de Lei nº 6.132, de 2025. • Comissão de Educação, que conclui pela aprovação do Projeto de Lei nº 6.132, de 2025. • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação orçamentária e financeira do Projeto de Lei nº 6.132, de 2025. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 6.132, de 2025.",
+          "dataApresentacao": "2026-02-10T16:00"
+        },
+        {
+          "id": 2601962,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601962",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 13,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 6132/2025",
+          "dataApresentacao": "2026-02-10T14:19"
+        },
+        {
+          "id": 2601956,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601956",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 12,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-10T14:19"
+        },
+        {
+          "id": 2601860,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601860",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-10T11:33"
+        },
+        {
+          "id": 2601861,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601861",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 11,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6132/2025-Requerimento de Retirada de Matéria da Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-10T11:33"
+        },
+        {
+          "id": 2601668,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601668",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T17:19"
+        },
+        {
+          "id": 2601670,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601670",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6132/2025-Requerimento de Retirada de Matéria da Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T17:19"
+        },
+        {
+          "id": 2601604,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601604",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T16:33"
+        },
+        {
+          "id": 2601605,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601605",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - PL 6132/2025-Requerimento de Adiamento da Discussão Matéria Urgente - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T16:33"
+        },
+        {
+          "id": 2601606,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601606",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T16:33"
+        },
+        {
+          "id": 2601607,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601607",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - PL 6132/2025-Requerimento de Adiamento da Votação Matéria Urgente - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T16:33"
+        },
+        {
+          "id": 2601608,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601608",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T16:33"
+        },
+        {
+          "id": 2601609,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601609",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6132/2025-Requerimento de Retirada de Matéria da Pauta - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T16:33"
+        },
+        {
+          "id": 2601610,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601610",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 6132/2025",
+          "dataApresentacao": "2026-02-09T16:33"
+        },
+        {
+          "id": 2601544,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601544",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Cria a Universidade Federal Indígena.",
+          "dataApresentacao": "2026-02-09T13:24"
+        },
+        {
+          "id": 2600277,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600277",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 95,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei nº 6.132, de 2025.",
+          "dataApresentacao": "2026-02-02T18:39"
+        },
+        {
+          "id": 2592011,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2592011",
+          "siglaTipo": "MSC",
+          "codTipo": 134,
+          "numero": 1798,
+          "ano": 2025,
+          "ementa": "Submete à deliberação do Congresso Nacional o texto do projeto de lei que \"Cria a Universidade Federal Indígena.\".",
+          "dataApresentacao": "2025-12-03T14:12"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2591970,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6132,
+          "ano": 2025,
+          "ementa": "Cria a Universidade Federal Indígena.",
+          "dataApresentacao": "2025-12-03T12:53"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2591970-30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 218086,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/218086",
+      "nomeCivil": "ELIANE DE SOUSA ALVES",
+      "ultimoStatus": {
+        "id": 218086,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/218086",
+        "nome": "Ely Santos",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": null,
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/218086.jpg",
+        "email": null,
+        "data": "2023-07-05",
+        "nomeEleitoral": "Ely Santos",
+        "gabinete": {
+          "nome": "926",
+          "predio": "4",
+          "sala": "926",
+          "andar": "9",
+          "telefone": "3215-5926",
+          "email": "dep.elysantos@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "16810770860",
+      "sexo": "F",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://instagram.com/deputadafederal_elysantos?utm_medium=copy_link",
+        "https://pt-br.facebook.com/oficialelysantos/"
+      ],
+      "dataNascimento": "1977-01-13",
+      "dataFalecimento": null,
+      "ufNascimento": "SP",
+      "municipioNascimento": "São Paulo",
+      "escolaridade": "Ensino Médio"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/218086"
+      }
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2585316-47",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2585316-47",
+      "data": "2026-02-03",
+      "dataHoraRegistro": "2026-02-03T15:53:29",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80928",
+      "idEvento": 80928,
+      "descricao": "Aprovada a Redação Final assinada pelo relator, Dep. Átila Lira (PP/PI).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação da Redação Final.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-03T15:53:13",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-03T15:38:40",
+        "descricao": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Átila Lira (PP-PI) pela:\r\n• Comissão de Educação, que conclui pela rejeição das Emendas de Plenário.\r\n• Comissão de Administração e Serviço Público, que conclui pela rejeição das Emendas de Plenário.\r\n• Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária das Emendas de Plenário.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa das Emendas de Plenário.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600555"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2600557,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600557",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 5874/2025",
+          "dataApresentacao": "2026-02-03T15:42"
+        },
+        {
+          "id": 2600554,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600554",
+          "siglaTipo": "PRLE",
+          "codTipo": 1001,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T15:32"
+        },
+        {
+          "id": 2600548,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600548",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 27,
+          "ano": 0,
+          "ementa": "Inclua-se à seguinte seção e ao seguinte artigo:\n\n\n“CAPÍTULO V\n\n\nDO PLANO ESPECIAL DE CARGOS DA CULTURA\n\n\nArt. 27. A Lei nº 11.233, de 22 de dezembro de 2005, passa a vigorar com as seguintes alterações:\n\nArt. 2º-F. A partir de 1º de janeiro de 2009, a estrutura remuneratória dos cargos integrantes do Plano Especial de Cargos da Cultura será composta de: (Incluído pela Lei nº 11,784, de 2008)\nI - Vencimento Básico; (Incluído pela Lei nº 11,784, de 2008)\nII - Gratificação de Desempenho de Atividade Cultural - GDAC; e (Incluído pela Lei nº 11,784, de 2008)\nIII - Gratificação Específica de Atividades Auxiliares da Cultura - GEAAC, observado o disposto no art. 2º-D desta Lei. (Incluído pela Lei nº 11,784, de 2008)\nIV - Gratificação por Localização – GL, devida aos servidores integrantes do Plano Especial de Cargos da Cultura que será concedida para as seguintes localidades de exercício: \nI - Banda II: unidades situadas nas seguintes localidades: \na) Amazônia Legal; \nb) faixa de fronteira do território nacional; e \nc) Estado de Mato Grosso do Sul. II - \nBanda I: unidades não situadas em capitais de unidades federativas ou em suas regiões metropolitanas e que estejam fora da Amazônia Legal, da faixa de fronteira do território nacional e do Estado de Mato Grosso do Sul.",
+          "dataApresentacao": "2026-02-03T15:20"
+        },
+        {
+          "id": 2600544,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600544",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 26,
+          "ano": 0,
+          "ementa": "Acrescenta nova redação ao PL 1/2026, que altera a Lei nº 11.892, de 29 de dezembro de 2008, que institui a Rede Federal de Educação Profissional, Científica e Tecnológica, para criar o Instituto Federal do Sertão Paraibano",
+          "dataApresentacao": "2026-02-03T15:15"
+        },
+        {
+          "id": 2600542,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600542",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 25,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T15:07"
+        },
+        {
+          "id": 2600539,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600539",
+          "siglaTipo": "DTQ",
+          "codTipo": 846,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Destaque para Votação em Separado - PL 5874/2025",
+          "dataApresentacao": "2026-02-03T15:02"
+        },
+        {
+          "id": 2600540,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600540",
+          "siglaTipo": "RPD",
+          "codTipo": 1053,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque para Votação em Separado - PL 5874/2025-Destaque para Votação em Separado - PL 5874/2025",
+          "dataApresentacao": "2026-02-03T15:02"
+        },
+        {
+          "id": 2600533,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600533",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 21,
+          "ano": 0,
+          "ementa": "Emenda ao Substitutivo ao PL 5874/2025 e apensados para disciplinar o RSC.",
+          "dataApresentacao": "2026-02-03T14:55"
+        },
+        {
+          "id": 2600535,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600535",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 22,
+          "ano": 0,
+          "ementa": "Emenda ao Substitutivo ao PL 5874/2025 e apensados para incluir aposentados e pensionistas no RSC.",
+          "dataApresentacao": "2026-02-03T14:55"
+        },
+        {
+          "id": 2600537,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600537",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 23,
+          "ano": 0,
+          "ementa": "Emenda ao Substitutivo ao PL 5874/2025 para dispor sobre a paridade na escolha dos dirigentes das Universidades Federais.",
+          "dataApresentacao": "2026-02-03T14:55"
+        },
+        {
+          "id": 2600538,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600538",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 24,
+          "ano": 0,
+          "ementa": "Emenda ao Substitutivo ao PL 5874/2025 manutenção da GEATA Quadro de Pessoal da AGU não integrantes das carreiras jurídicas.",
+          "dataApresentacao": "2026-02-03T14:55"
+        },
+        {
+          "id": 2600528,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600528",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 20,
+          "ano": 0,
+          "ementa": "Dê-se ao art. 89 da Lei nº 15.141/2025 e cria-se o parágrafo único do mesmo artigo com a seguinte redação:\n\n“Art. 89. Incidem sobre as tabelas do Plano Especial de cargos do Ministério do Meio Ambiente e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA os mesmos percentuais de reajustes dados para a Carreira de Especialista em Meio Ambiente, respeitados pareamentos de classes, padrões, níveis de cada cargo (superior, intermediário e auxiliar) e componente de remuneração para fins de aplicabilidade de reajuste.",
+          "dataApresentacao": "2026-02-03T14:50"
+        },
+        {
+          "id": 2600527,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600527",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "",
+          "dataApresentacao": "2026-02-03T14:49"
+        },
+        {
+          "id": 2600523,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600523",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 19,
+          "ano": 0,
+          "ementa": "Acrescenta dispositivo para incluir os servidores da Fundação Nacional dos Povos Indígenas (Funai) entre os beneficiários da indenização de fronteira.",
+          "dataApresentacao": "2026-02-03T14:40"
+        },
+        {
+          "id": 2600522,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600522",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 18,
+          "ano": 0,
+          "ementa": "Dê-se ao Projeto de Lei nº 5874, de 2025, a seguinte alteração:\n\n Art. ___. A Lei nº 10.486, de 4 de julho de 2002, passa a vigorar com as seguintes modificações:\nCAPÍTULO X\nDAS DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS\nSeção II-A\nDa Revisão Administrativa de Processos Anteriores à Constituição da Corregedoria",
+          "dataApresentacao": "2026-02-03T14:40"
+        },
+        {
+          "id": 2600521,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600521",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 17,
+          "ano": 0,
+          "ementa": "Dê-se nova redação ao § 4º do Art. 32 da Lei nº 11.344, de 8 de setembro de 2006, \n\nCAPÍTULO XXII\nDA ÁREA DE AUDITORIA DO SISTEMA ÚNICO DE SAÚDE\n\nArt. .... A Lei nº 11.344, de 8 de setembro de 2006, passa a vigorar com as seguintes alterações:\n “Art. 32. A GDASUS será paga observando-se os seguintes limites:",
+          "dataApresentacao": "2026-02-03T14:39"
+        },
+        {
+          "id": 2600520,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600520",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 16,
+          "ano": 0,
+          "ementa": "(Novos servidores do IBAMA)\n\nDê-se ao art. 211 da Lei nº 15.141, de 2025, a seguinte redação:\n\n“Art. 211. Os candidatos aprovados em concursos públicos autorizados até 31 de dezembro de 2024 ingressarão na classe e no padrão da estrutura do cargo vigente naquela data, assegurado o reenquadramento nas tabelas de correlação previstas nos Anexos desta Lei.”",
+          "dataApresentacao": "2026-02-03T14:39"
+        },
+        {
+          "id": 2600519,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600519",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 15,
+          "ano": 0,
+          "ementa": "Inclua-se onde couber no PL 5874/2025:\n\n\n“Art. .... Fica criada a Carreira do Componente Federal de Auditoria do Sistema Nacional de Auditoria do Sistema Único de Saúde, composta pelo Cargo de Auditor Federal do SUS, de nível superior, e de Técnico Federal de Auditoria do SUS, de nível intermediário. “ (NR)",
+          "dataApresentacao": "2026-02-03T14:38"
+        },
+        {
+          "id": 2600514,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600514",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 12,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T14:31"
+        },
+        {
+          "id": 2600516,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600516",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 13,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T14:31"
+        },
+        {
+          "id": 2600517,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600517",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 14,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T14:31"
+        },
+        {
+          "id": 2600513,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600513",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 11,
+          "ano": 0,
+          "ementa": "Art.  Fica instituída a Art.  Fica instituída a Gratificação Específica de Apoio Técnico-Administrativo às Administrações Tributária e Aduaneira – GEATA/RFB, destinada, exclusivamente, aos servidores integrantes do Plano Especial de Cargos do Ministério da Fazenda – PECFAZ, de que trata a Lei nº 11.907, de 2 de fevereiro de 2009, quando em exercício na Secretaria da Receita Federal do Brasil – RFB, e não integrantes da Carreira de Auditoria da Receita Federal do Brasil, instituída pela Lei nº 11.457, de 16 de março de 2.007., destinada, exclusivamente, aos servidores integrantes do Plano Especial de Cargos do Ministério da Fazenda – PECFAZ, de que trata a Lei nº 11.907, de 2 de fevereiro de 2009, quando em exercício na Secretaria da Receita Federal do Brasil – RFB, e não integrantes da Carreira de Auditoria da Receita Federal do Brasil, instituída pela Lei nº 11.457, de 16 de março de 2.007.",
+          "dataApresentacao": "2026-02-03T14:22"
+        },
+        {
+          "id": 2600512,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600512",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Dispõe sobre a estrutura a Carreira de Suporte às Atividades Tributárias e Aduaneiras da Secretaria da Receita Federal do Brasil",
+          "dataApresentacao": "2026-02-03T14:21"
+        },
+        {
+          "id": 2600510,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600510",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Acrescente-se, onde couber, o seguinte dispositivo:\n\nArtigo XX. A Lei n° 11.890, de 24 de dezembro de 2008, passa a vigorar acrescido pelo Artigo 18-D, nos seguintes termos: \n\n“Art. 18-D. O desenvolvimento na Carreira de Auditoria Federal de Finanças e Controle, na forma do Anexo IV-D a esta Lei, dar-se-á mediante progressão funcional e promoção.?",
+          "dataApresentacao": "2026-02-03T14:20"
+        },
+        {
+          "id": 2600509,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600509",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Art. XX. O Art. 11-A da Lei nº 9.625, de 7 de abril de 1998, passa a vigorar com as seguintes alterações:\n\n“Art. 11-A ............................................................................................\n............................................................................................................\n§ 1º O ingresso nos cargos da Carreira Finanças e Controle exige diploma de graduação em nível superior, devidamente reconhecido pelo Ministério da Educação, podendo o concurso público ser realizado por áreas de conhecimento ou de especialização e requerer habilitação específica. ” (NR)",
+          "dataApresentacao": "2026-02-03T14:20"
+        },
+        {
+          "id": 2600508,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600508",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Acrescente-se novo artigo ao PL 5874/2025, renumerando-se os demais, com a seguinte redação:\n\n“Art. 84. A Lei nº 9.650, de 27 de maio de 1998, passa a vigorar com as seguintes alterações:\n\nArt. 1º-B A partir de 1º de janeiro de 2026, o cargo de Técnico do Banco Central do Brasil, da Carreira de Especialista do Banco Central do Brasil, passa a ser de nível superior.” (NR)",
+          "dataApresentacao": "2026-02-03T14:20"
+        },
+        {
+          "id": 2600507,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600507",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Acrescentem-se os seguintes artigos ao Projeto de Lei nº 5874, de 2025\n\n\nArt. X. Passam a integrar o quadro de pessoal do Ministério Público da União – MPU os servidores ocupantes de cargos de provimento efetivo",
+          "dataApresentacao": "2026-02-03T14:19"
+        },
+        {
+          "id": 2600506,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600506",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos",
+          "dataApresentacao": "2026-02-03T14:19"
+        },
+        {
+          "id": 2600455,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600455",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T13:30"
+        },
+        {
+          "id": 2600454,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600454",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Emenda ao PL 5874/2025 que dispõe sobre vantagem pessoal denominada “V.P. Parecer FC 03/89”, percebida pelos servidores ativos, aposentados e pensionistas do Quadro em Extinção dos ex-Territórios Federais.",
+          "dataApresentacao": "2026-02-03T13:27"
+        },
+        {
+          "id": 2600453,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600453",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Dispõe sobre os servidores oriundos do Quadro em Extinção dos ex-Territórios do Amapá e Roraima que aderiram ao programa instituído pela Lei n.º 9.468 de 10 de junho de 1997, e medida provisória n.º 1.917-1, de 27 de agosto de 1999, estão amparados pelo disposto na Emenda constitucional n.º 98, de 6 de dezembro de 2017, e  poderão integrar o quadro em extinção da administração pública federal.",
+          "dataApresentacao": "2026-02-03T13:27"
+        },
+        {
+          "id": 2600452,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600452",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Assegura aos professores integrantes das Carreiras do Magistério de 1º e 2º graus, do Ensino Básico dos Ex-Territórios, e do Ensino Básico, Técnico e Tecnológico, vinculados ao Quadro em Extinção da União, oriundos dos extintos Territórios Federais do Amapá, de Rondônia e de Roraima, o reposicionamento equivalente em classe e nível, utilizando como critério o tempo de efetivo exercício no magistério.",
+          "dataApresentacao": "2026-02-03T13:27"
+        },
+        {
+          "id": 2600446,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600446",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T13:21"
+        },
+        {
+          "id": 2600468,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600468",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 137,
+          "ano": 2026,
+          "ementa": "Requer a tramitação conjunta do Projeto de Lei nº 173/2026 ao Projeto de Lei nº 5874/2025, por tratarem de matérias correlatas e se encontram em fase em que se permite apensamento, nos termos regimentais.",
+          "dataApresentacao": "2026-02-03T13:11"
+        },
+        {
+          "id": 2600525,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600525",
+          "siglaTipo": "PPP",
+          "codTipo": 192,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Átila Lira (PP-PI) pela: • Comissão de Educação, que conclui pela aprovação do Projeto de Lei nº 5.874/2025, do Projeto de Lei nº 5.893/2025, do Projeto de Lei nº 6.170/2025 e do Projeto de Lei nº 1/2026, na forma do Substitutivo adotado pelo relator da Comissão de Administração e Serviço Público. • Comissão de Administração e Serviço Público, que conclui pela aprovação do Projeto de Lei nº 5.874/2025, do Projeto de Lei nº 5.893/2025, do Projeto de Lei nº 6.170/2025 e do Projeto de Lei nº 1/2026, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação orçamentária e financeira do Projeto de Lei nº 5.874/2025, do Projeto de Lei nº 5.893/2025, do Projeto nº 6.170/2025, do Projeto de Lei nº 1/2026 e do Substitutivo adotado pelo relator da Comissão de Administração e Serviço Público, dada a não implicação das matérias em aumento ou diminuição da receita e da despesa pública. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 5.874/2025, do Projeto de Lei nº 5.893/2025, do Projeto de Lei nº 6.170/2025, do Projeto de Lei nº 1/2026 e do Substitutivo adotado pelo relator da Comissão de Administração e Serviço Público.",
+          "dataApresentacao": "2026-02-03T12:00"
+        },
+        {
+          "id": 2600555,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600555",
+          "siglaTipo": "PEP",
+          "codTipo": 442,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Átila Lira (PP-PI) pela: • Comissão de Educação, que conclui pela rejeição das Emendas de Plenário. • Comissão de Administração e Serviço Público, que conclui pela rejeição das Emendas de Plenário. • Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária das Emendas de Plenário. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa das Emendas de Plenário.",
+          "dataApresentacao": "2026-02-03T12:00"
+        },
+        {
+          "id": 2600331,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600331",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2026-02-03T09:30"
+        },
+        {
+          "id": 2596245,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596245",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 5748,
+          "ano": 2025,
+          "ementa": "Requer a apensação, para tramitação conjunta, do Projeto de Lei nº 6.237/2025 e do Projeto de Lei nº 2.338/2023.",
+          "dataApresentacao": "2025-12-11T17:31"
+        },
+        {
+          "id": 2585318,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2585318",
+          "siglaTipo": "MSC",
+          "codTipo": 406,
+          "numero": 1677,
+          "ano": 2025,
+          "ementa": "Nos termos do art. 64, § 1º, da Constituição, submeto à elevada deliberação de Vossas Excelências o texto do projeto de lei que “Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.”.",
+          "dataApresentacao": "2025-11-17T11:30"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2585316,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2585316",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 5874,
+          "ano": 2025,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2025-11-17T11:08"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2585316-47"
+      }
+    ]
+  }
+}

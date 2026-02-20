@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601503-3",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601503-3",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:48:22",
+      "siglaOrgao": "CPD",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+      "idOrgao": 537480,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80998",
+      "idEvento": 80998,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 3/2026 (Requerimento de Audiência Pública), pelo Deputado Rodrigo Rollemberg (PSB/DF), que \"Requer-se, nos termos regimentais, que seja formulado convite à Senhora Zara Figueiredo, Secretária da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (SECADI) do Ministério da Educação,  a representantes do Fundo Nacional de Desenvolvimento da Educação (FNDE), bem como à representante da Associação Brasileira da Indústria, Comércio e Serviços de Tecnologia Assistiva (Abridef), para comparecerem a esta Comissão, em audiência pública, a fim de prestar esclarecimentos e dialogar sobre a execução das políticas de educação inclusiva voltadas a estudantes com deficiência visual, especialmente no que se refere ao fornecimento de livros didáticos acessíveis no âmbito do Programa Nacional do Livro e do Material Didático (PNLD), sob gestão do FNDE\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601503,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601503",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 3,
+          "ano": 2026,
+          "ementa": "Requer-se, nos termos regimentais, que seja formulado convite à Senhora Zara Figueiredo, Secretária da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (SECADI) do Ministério da Educação,  a representantes do Fundo Nacional de Desenvolvimento da Educação (FNDE), bem como à representante da Associação Brasileira da Indústria, Comércio e Serviços de Tecnologia Assistiva (Abridef), para comparecerem a esta Comissão, em audiência pública, a fim de prestar esclarecimentos e dialogar sobre a execução das políticas de educação inclusiva voltadas a estudantes com deficiência visual, especialmente no que se refere ao fornecimento de livros didáticos acessíveis no âmbito do Programa Nacional do Livro e do Material Didático (PNLD), sob gestão do FNDE.",
+          "dataApresentacao": "2026-02-09T13:40"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601503-3"
+      }
+    ]
+  }
+}

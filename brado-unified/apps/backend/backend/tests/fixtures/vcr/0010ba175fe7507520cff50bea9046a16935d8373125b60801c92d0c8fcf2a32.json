@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 220658,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220658",
+      "nomeCivil": "LUIZ GASTÃO BITTENCOURT DA SILVA",
+      "ultimoStatus": {
+        "id": 220658,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220658",
+        "nome": "Luiz Gastão",
+        "siglaPartido": "PSD",
+        "uriPartido": null,
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
+        "email": null,
+        "data": "2023-02-01",
+        "nomeEleitoral": "Luiz Gastão",
+        "gabinete": {
+          "nome": "709",
+          "predio": "4",
+          "sala": "709",
+          "andar": "7",
+          "telefone": "3215-5709",
+          "email": "dep.luizgastao@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": null
+      },
+      "cpf": "67163696787",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1962-08-19",
+      "dataFalecimento": null,
+      "ufNascimento": "RJ",
+      "municipioNascimento": "Petrópolis",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220658"
+      }
+    ]
+  }
+}

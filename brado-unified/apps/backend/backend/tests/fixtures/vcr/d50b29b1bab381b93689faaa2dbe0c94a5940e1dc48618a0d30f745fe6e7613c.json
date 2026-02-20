@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 227310,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227310",
+      "nomeCivil": "SILVIO ANTONIO GUIMARAES MACHADO",
+      "ultimoStatus": {
+        "id": 227310,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227310",
+        "nome": "Silvio Antonio",
+        "siglaPartido": "PL",
+        "uriPartido": null,
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227310.jpg",
+        "email": null,
+        "data": "2026-02-06",
+        "nomeEleitoral": "Silvio Antonio",
+        "gabinete": {
+          "nome": "714",
+          "predio": "4",
+          "sala": "714",
+          "andar": "7",
+          "telefone": "3215-5714",
+          "email": "dep.silvioantonio@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "40450619320",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1969-08-06",
+      "dataFalecimento": null,
+      "ufNascimento": "MA",
+      "municipioNascimento": "São Luís",
+      "escolaridade": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/227310"
+      }
+    ]
+  }
+}

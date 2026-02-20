@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2591970-23",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2591970-23",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T22:15:46",
+      "siglaOrgao": "CCP",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+      "idOrgao": 186,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Realizar o encaminhamento do PL-6132/2025 à CPOVOS (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [],
+      "proposicoesAfetadas": [
+        {
+          "id": 2591970,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6132,
+          "ano": 2025,
+          "ementa": "Cria a Universidade Federal Indígena.",
+          "dataApresentacao": "2025-12-03T12:53"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2591970-23"
+      }
+    ]
+  }
+}

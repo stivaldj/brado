@@ -1,0 +1,13 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+sqlalchemy==2.0.42
+alembic==1.16.4
+psycopg[binary]==3.2.9
+httpx==0.28.1
+neo4j==5.28.2
+typer==0.16.0
+python-dotenv==1.1.1
+pytest==8.4.1
+pytest-cov==6.2.1
+ruff==0.12.8
+black==25.1.0

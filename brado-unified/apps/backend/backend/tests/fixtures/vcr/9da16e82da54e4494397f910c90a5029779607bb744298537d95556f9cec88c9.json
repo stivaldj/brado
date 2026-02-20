@@ -1,0 +1,81 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601013-9",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601013-9",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T20:21:02",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81011",
+      "idEvento": 81011,
+      "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600838",
+          "tituloProposicao": "PL 278/2026",
+          "descResultado": "Aprovado o requerimento nº 226/2026,do Sr. José Guimarães e outros, que solicita urgência (art. 155) para o PL 278/2026.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600838",
+          "tituloProposicao": "PL 278/2026",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 226/2026.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2601013,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601013",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 226,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei nº 278, de 2026.",
+          "dataApresentacao": "2026-02-04T18:25"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2600838,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600838",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 278,
+          "ano": 2026,
+          "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+          "dataApresentacao": "2026-02-04T14:32"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601013-9"
+      }
+    ]
+  }
+}

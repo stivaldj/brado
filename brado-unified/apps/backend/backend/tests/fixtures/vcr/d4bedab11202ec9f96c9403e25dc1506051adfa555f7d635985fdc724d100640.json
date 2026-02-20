@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601256-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601256-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:38:07",
+      "siglaOrgao": "CTRAB",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "idOrgao": 2015,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80995",
+      "idEvento": 80995,
+      "descricao": "Aprovado o Requerimento, com inclusão de convidado (Associação Nacional dos Procuradores e Procuradoras do Trabalho - ANPT).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 3/2026 (Requerimento de Audiência Pública), pela Deputada Flávia Morais (PDT/GO), que \"Requer a realização de Audiência Pública em conjunto com a Comissão de Previdência, Assistência Social, Infância, Adolescência e Família para debater o Trabalho Infantil Digital, no intuito de promover e qualificar as discussões sobre o referido tema, bem como encaminhar possíveis soluções e proposituras cabíveis\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601256,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601256",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 3,
+          "ano": 2026,
+          "ementa": "Requer a realização de Audiência Pública em conjunto com a Comissão de Previdência, Assistência Social, Infância, Adolescência e Família para debater o Trabalho Infantil Digital, no intuito de promover e qualificar as discussões sobre o referido tema, bem como encaminhar possíveis soluções e proposituras cabíveis.",
+          "dataApresentacao": "2026-02-05T09:22"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601256-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2477790-24",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2477790-24",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T18:24:53",
+      "siglaOrgao": "CREDN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+      "idOrgao": 2018,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80990",
+      "idEvento": 80990,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-10-22T12:58:36",
+        "descricao": "Parecer do Relator, Dep. Sargento Fahur (PSD-PR), pela aprovação, com Emenda.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2574771"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2602033,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602033",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2602034,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602034",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2602038,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602038",
+          "siglaTipo": "RPD",
+          "codTipo": 329,
+          "numero": 11,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão - PL 4790/2024",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2602039,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602039",
+          "siglaTipo": "RPD",
+          "codTipo": 336,
+          "numero": 12,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2594824,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594824",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2594849,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594849",
+          "siglaTipo": "RPD",
+          "codTipo": 329,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão - PL 4790/2024",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2594859,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594859",
+          "siglaTipo": "RPD",
+          "codTipo": 336,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2594861,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594861",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2588186,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588186",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2588188,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588188",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2588190,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588190",
+          "siglaTipo": "RPD",
+          "codTipo": 336,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2588191,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588191",
+          "siglaTipo": "RPD",
+          "codTipo": 329,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão - PL 4790/2024",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2574775,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2574775",
+          "siglaTipo": "EMR",
+          "codTipo": 257,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Dispõe sobre hipóteses de aposentadoria ou seguro por acidente em serviço ou no exercício da função para policiais federais, policiais civis dos Estados, membros das polícias militares e dos corpos de bombeiros militares, policiais penais e guardas municipais, bem como estabelece forma de custeio.",
+          "dataApresentacao": "2025-10-22T12:05"
+        },
+        {
+          "id": 2574771,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2574771",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Sargento Fahur (PSD-PR), pela aprovação, com Emenda.",
+          "dataApresentacao": "2025-10-22T12:05"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2477790,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2477790",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 4790,
+          "ano": 2024,
+          "ementa": "Dispõe sobre hipóteses de aposentadoria ou seguro por acidente em serviço ou no exercício da função para policiais federais, para policiais civis dos Estados, para os membros das polícias militares e dos corpos de bombeiros militares, para policiais penais e para guardas municipais, bem como estabelece forma de custeio.",
+          "dataApresentacao": "2024-12-10T16:05"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2477790-24"
+      }
+    ]
+  }
+}

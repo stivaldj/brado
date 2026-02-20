@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 227433,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227433",
+      "nomeCivil": "DOUGLAS DE PAULO VIEGAS",
+      "ultimoStatus": {
+        "id": 227433,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227433",
+        "nome": "Douglas Viegas",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": null,
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227433.jpg",
+        "email": null,
+        "data": "2025-11-03",
+        "nomeEleitoral": "Douglas Viegas",
+        "gabinete": {
+          "nome": "841",
+          "predio": "4",
+          "sala": "841",
+          "andar": "8",
+          "telefone": "3215-5841",
+          "email": "dep.douglasviegas@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "25519061807",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1979-06-19",
+      "dataFalecimento": null,
+      "ufNascimento": "SP",
+      "municipioNascimento": "São Paulo",
+      "escolaridade": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/227433"
+      }
+    ]
+  }
+}

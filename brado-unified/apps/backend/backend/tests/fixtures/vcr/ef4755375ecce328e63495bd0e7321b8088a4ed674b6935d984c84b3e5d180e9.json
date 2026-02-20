@@ -1,0 +1,106 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2593628-30",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2593628-30",
+      "data": "2026-02-03",
+      "dataHoraRegistro": "2026-02-03T14:23:37",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80928",
+      "idEvento": 80928,
+      "descricao": "Mantido o texto.",
+      "aprovacao": null,
+      "descUltimaAberturaVotacao": "Votação do DTQ 1 (Fdr PSOL-REDE): Destaque para Votação em Separado do(a) § 5° do art. 9-A, apresentado ao PL 6070/2025 (161, I).",
+      "dataHoraUltimaAberturaVotacao": "2026-02-03T14:17:51",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-03T14:05:53",
+        "descricao": "Parecer proferido em Plenário pelo Relator, Dep. Alberto Fraga (PL-DF) pela:\r\n• Comissão de Administração e Serviço Público, que conclui pela aprovação do Projeto de Lei nº 6.070, de 2025. \r\n• Comissão de Finanças e Tributação, que conclui pela adequação orçamentária e financeira do Projeto de Lei nº 6.070, de 2025. \r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 6.070, de 2025, com emenda de redação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600491"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2600503,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600503",
+          "siglaTipo": "DTQ",
+          "codTipo": 846,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Destaque para Votação em Separado - PL 6070/2025",
+          "dataApresentacao": "2026-02-03T14:13"
+        },
+        {
+          "id": 2600459,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600459",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 6070/2025",
+          "dataApresentacao": "2026-02-03T13:35"
+        },
+        {
+          "id": 2600444,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600444",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Altera a Lei n. 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+          "dataApresentacao": "2026-02-03T12:59"
+        },
+        {
+          "id": 2600441,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600441",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 136,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime de urgência do Projeto de Lei n° 6.070, de 2025.",
+          "dataApresentacao": "2026-02-03T12:54"
+        },
+        {
+          "id": 2600491,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600491",
+          "siglaTipo": "PPP",
+          "codTipo": 192,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Alberto Fraga (PL-DF) pela: • Comissão de Administração e Serviço Público, que conclui pela aprovação do Projeto de Lei nº 6.070, de 2025.  • Comissão de Finanças e Tributação, que conclui pela adequação orçamentária e financeira do Projeto de Lei nº 6.070, de 2025.  • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 6.070, de 2025, com emenda de redação.",
+          "dataApresentacao": "2026-02-03T12:00"
+        },
+        {
+          "id": 2600857,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600857",
+          "siglaTipo": "RDF",
+          "codTipo": 197,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Redação Final ao PL 6070/2025",
+          "dataApresentacao": "2026-02-03T00:00"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2593628,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593628",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6070,
+          "ano": 2025,
+          "ementa": "Altera a Lei nº 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+          "dataApresentacao": "2025-12-08T14:53"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2593628-30"
+      }
+    ]
+  }
+}

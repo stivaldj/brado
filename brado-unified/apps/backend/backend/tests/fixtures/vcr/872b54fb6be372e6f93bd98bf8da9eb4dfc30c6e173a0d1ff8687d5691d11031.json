@@ -1,0 +1,1066 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2432865-65",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2432865-65",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T22:21:48",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovada a Redação Final assinada pela relatora, Dep. Antônia Lúcia (REPUBLIC-AC).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação da Redação Final.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-09T22:21:25",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-09T21:52:38",
+        "descricao": "Parecer às Emendas de Plenário proferido pela Relatora, Dep. Antônia Lúcia (REPUBLIC-AC) pela:\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa das Emendas de Plenário nº 1 e nº 2; e, no mérito, pela rejeição de ambas as emendas; e pela inconstitucionalidade das Emendas de Plenário nº 3 e nº 4.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601795"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601801,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601801",
+          "siglaTipo": "RPD",
+          "codTipo": 1054,
+          "numero": 83,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque de Emenda - PL 1743/2024-Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T21:59"
+        },
+        {
+          "id": 2601800,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601800",
+          "siglaTipo": "DTQ",
+          "codTipo": 1011,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T21:59"
+        },
+        {
+          "id": 2601798,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601798",
+          "siglaTipo": "RPD",
+          "codTipo": 1054,
+          "numero": 82,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque de Emenda - PL 1743/2024-Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T21:55"
+        },
+        {
+          "id": 2601797,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601797",
+          "siglaTipo": "DTQ",
+          "codTipo": 1011,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T21:55"
+        },
+        {
+          "id": 2601796,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601796",
+          "siglaTipo": "RPD",
+          "codTipo": 486,
+          "numero": 81,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T21:47"
+        },
+        {
+          "id": 2601794,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601794",
+          "siglaTipo": "REC",
+          "codTipo": 375,
+          "numero": 2,
+          "ano": 2026,
+          "ementa": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+          "dataApresentacao": "2026-02-09T21:45"
+        },
+        {
+          "id": 2601793,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601793",
+          "siglaTipo": "PRLE",
+          "codTipo": 1001,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Parecer Preliminar às Emendas de Plenário ao Projeto de Lei nº 1743, de 2024.",
+          "dataApresentacao": "2026-02-09T21:37"
+        },
+        {
+          "id": 2601790,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601790",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+          "dataApresentacao": "2026-02-09T20:59"
+        },
+        {
+          "id": 2601743,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601743",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 80,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T19:15"
+        },
+        {
+          "id": 2601667,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601667",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 79,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T17:19"
+        },
+        {
+          "id": 2601666,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601666",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 78,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T17:19"
+        },
+        {
+          "id": 2601795,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601795",
+          "siglaTipo": "PEP",
+          "codTipo": 442,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer às Emendas de Plenário proferido pela Relatora, Dep. Antônia Lúcia (REPUBLIC-AC) pela: • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa das Emendas de Plenário nº 1 e nº 2; e, no mérito, pela rejeição de ambas as emendas; e pela inconstitucionalidade das Emendas de Plenário nº 3 e nº 4.",
+          "dataApresentacao": "2026-02-09T17:00"
+        },
+        {
+          "id": 2601633,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601633",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 77,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T16:58"
+        },
+        {
+          "id": 2601632,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601632",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 76,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024-Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T16:58"
+        },
+        {
+          "id": 2601631,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601631",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 75,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024-Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T16:58"
+        },
+        {
+          "id": 2601627,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601627",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 74,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T16:58"
+        },
+        {
+          "id": 2601620,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601620",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 73,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T16:58"
+        },
+        {
+          "id": 2601618,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601618",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 72,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T16:58"
+        },
+        {
+          "id": 2601615,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601615",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 71,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2026-02-09T16:58"
+        },
+        {
+          "id": 2578797,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578797",
+          "siglaTipo": "RPD",
+          "codTipo": 899,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 1743/2024",
+          "dataApresentacao": "2025-10-29T14:48"
+        },
+        {
+          "id": 2578794,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578794",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 70,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 1743/2024",
+          "dataApresentacao": "2025-10-29T14:43"
+        },
+        {
+          "id": 2578662,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578662",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 69,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-29T11:41"
+        },
+        {
+          "id": 2578659,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578659",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 68,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-29T11:41"
+        },
+        {
+          "id": 2578071,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578071",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 67,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-28T15:56"
+        },
+        {
+          "id": 2578069,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2578069",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 66,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-28T15:56"
+        },
+        {
+          "id": 2577543,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2577543",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 64,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-28T10:47"
+        },
+        {
+          "id": 2577544,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2577544",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 65,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-28T10:47"
+        },
+        {
+          "id": 2577457,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2577457",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 63,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-28T10:18"
+        },
+        {
+          "id": 2577450,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2577450",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 62,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-28T10:18"
+        },
+        {
+          "id": 2576860,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2576860",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 61,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-27T18:10"
+        },
+        {
+          "id": 2576858,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2576858",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 60,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-27T18:10"
+        },
+        {
+          "id": 2576732,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2576732",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 59,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-27T17:04"
+        },
+        {
+          "id": 2576731,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2576731",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 58,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-27T17:04"
+        },
+        {
+          "id": 2569980,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2569980",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 57,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-08T15:00"
+        },
+        {
+          "id": 2569979,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2569979",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 56,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 1743/2024",
+          "dataApresentacao": "2025-10-08T15:00"
+        },
+        {
+          "id": 2569978,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2569978",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 55,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-08T15:00"
+        },
+        {
+          "id": 2569619,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2569619",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 54,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-08T13:03"
+        },
+        {
+          "id": 2569617,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2569617",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 53,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-10-08T13:03"
+        },
+        {
+          "id": 2569526,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2569526",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 52,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 1743/2024",
+          "dataApresentacao": "2025-10-08T11:38"
+        },
+        {
+          "id": 2537770,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537770",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 51,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T20:48"
+        },
+        {
+          "id": 2537769,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537769",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 50,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024-Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T20:48"
+        },
+        {
+          "id": 2537768,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537768",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 49,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024-Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T20:48"
+        },
+        {
+          "id": 2537767,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537767",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 48,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T20:48"
+        },
+        {
+          "id": 2537766,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537766",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 47,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T20:48"
+        },
+        {
+          "id": 2537765,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537765",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 46,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T20:48"
+        },
+        {
+          "id": 2537764,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537764",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 45,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T20:48"
+        },
+        {
+          "id": 2537586,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537586",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 44,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T17:42"
+        },
+        {
+          "id": 2537576,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537576",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 43,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T17:35"
+        },
+        {
+          "id": 2537574,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537574",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 42,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T17:35"
+        },
+        {
+          "id": 2537264,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537264",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 41,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T12:17"
+        },
+        {
+          "id": 2537263,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537263",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 40,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T12:17"
+        },
+        {
+          "id": 2537093,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537093",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 39,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T10:50"
+        },
+        {
+          "id": 2537091,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537091",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 38,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-16T10:50"
+        },
+        {
+          "id": 2536731,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536731",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 37,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T16:07"
+        },
+        {
+          "id": 2536730,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536730",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 36,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T16:07"
+        },
+        {
+          "id": 2536321,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536321",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 35,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T13:01"
+        },
+        {
+          "id": 2536320,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536320",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 34,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024-Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T13:01"
+        },
+        {
+          "id": 2536317,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536317",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 33,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024-Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T13:01"
+        },
+        {
+          "id": 2536316,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536316",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 32,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T13:01"
+        },
+        {
+          "id": 2536313,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536313",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 31,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T13:01"
+        },
+        {
+          "id": 2536312,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536312",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 30,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-15T13:01"
+        },
+        {
+          "id": 2535920,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535920",
+          "siglaTipo": "RPD",
+          "codTipo": 1054,
+          "numero": 29,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque de Emenda - PL 1743/2024-Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2025-07-14T21:42"
+        },
+        {
+          "id": 2535913,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535913",
+          "siglaTipo": "DTQ",
+          "codTipo": 1011,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2025-07-14T21:42"
+        },
+        {
+          "id": 2535536,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535536",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 28,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-14T16:24"
+        },
+        {
+          "id": 2535535,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535535",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 27,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-14T16:24"
+        },
+        {
+          "id": 2535511,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535511",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 26,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-14T15:53"
+        },
+        {
+          "id": 2535510,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535510",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 25,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 1743/2024",
+          "dataApresentacao": "2025-07-14T15:53"
+        },
+        {
+          "id": 2535509,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2535509",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 24,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2025-07-14T15:53"
+        },
+        {
+          "id": 2468483,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2468483",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 23,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-12T16:33"
+        },
+        {
+          "id": 2468482,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2468482",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 22,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-12T16:33"
+        },
+        {
+          "id": 2467104,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467104",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 21,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-05T12:11"
+        },
+        {
+          "id": 2467103,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467103",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 20,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-05T12:11"
+        },
+        {
+          "id": 2466861,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466861",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 19,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-04T17:56"
+        },
+        {
+          "id": 2466860,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466860",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 18,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-04T17:56"
+        },
+        {
+          "id": 2466844,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466844",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 17,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-04T17:42"
+        },
+        {
+          "id": 2466843,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2466843",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 16,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-11-04T17:42"
+        },
+        {
+          "id": 2463109,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463109",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "",
+          "dataApresentacao": "2024-10-17T12:43"
+        },
+        {
+          "id": 2463107,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463107",
+          "siglaTipo": "PRLE",
+          "codTipo": 1001,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57. \nAutor: Deputado DOUTOR LUIZINHO\nRelator: Deputada ANTÔNIA LÚCIA",
+          "dataApresentacao": "2024-10-17T12:34"
+        },
+        {
+          "id": 2463096,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463096",
+          "siglaTipo": "RPD",
+          "codTipo": 1054,
+          "numero": 15,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque de Emenda - PL 1743/2024-Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:45"
+        },
+        {
+          "id": 2463095,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463095",
+          "siglaTipo": "RPD",
+          "codTipo": 1054,
+          "numero": 14,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque de Emenda - PL 1743/2024-Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:45"
+        },
+        {
+          "id": 2463094,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463094",
+          "siglaTipo": "RPD",
+          "codTipo": 1054,
+          "numero": 13,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque de Emenda - PL 1743/2024-Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:45"
+        },
+        {
+          "id": 2463093,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463093",
+          "siglaTipo": "DTQ",
+          "codTipo": 1011,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:45"
+        },
+        {
+          "id": 2463092,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463092",
+          "siglaTipo": "DTQ",
+          "codTipo": 1011,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:45"
+        },
+        {
+          "id": 2463091,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463091",
+          "siglaTipo": "DTQ",
+          "codTipo": 1011,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Destaque de Emenda - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:45"
+        },
+        {
+          "id": 2463087,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463087",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+          "dataApresentacao": "2024-10-17T11:27"
+        },
+        {
+          "id": 2463084,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463084",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+          "dataApresentacao": "2024-10-17T11:26"
+        },
+        {
+          "id": 2463082,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463082",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+          "dataApresentacao": "2024-10-17T11:26"
+        },
+        {
+          "id": 2463083,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463083",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 12,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 1743/2024-Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:24"
+        },
+        {
+          "id": 2463078,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463078",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 11,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação (matéria urgente) - PL 1743/2024-Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:18"
+        },
+        {
+          "id": 2463077,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463077",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:18"
+        },
+        {
+          "id": 2463073,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463073",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T11:18"
+        },
+        {
+          "id": 2463051,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463051",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T10:57"
+        },
+        {
+          "id": 2463050,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463050",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-10-17T10:57"
+        },
+        {
+          "id": 2463108,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2463108",
+          "siglaTipo": "PPP",
+          "codTipo": 192,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer proferido em Plenário pela Relatora, Dep. Antônia Lúcia (REPUBLIC-AC) pela: • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade, boa técnica legislativa; e, no mérito, pela aprovação do Projeto de Lei nº 1.743, de 2024, na forma do Substitutivo apresentado.",
+          "dataApresentacao": "2024-10-17T09:00"
+        },
+        {
+          "id": 2462823,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462823",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Altera os artigos 55 e 57 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB) -, para modificar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e facultar aos Conselhos Seccionais a criação de diretorias regimentais temporárias.",
+          "dataApresentacao": "2024-10-16T16:11"
+        },
+        {
+          "id": 2462797,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462797",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 1743/2024",
+          "dataApresentacao": "2024-10-16T15:47"
+        },
+        {
+          "id": 2462792,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462792",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação (matéria urgente) - PL 1743/2024-Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2024-10-16T15:19"
+        },
+        {
+          "id": 2462791,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462791",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1743/2024-Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-10-16T15:19"
+        },
+        {
+          "id": 2462790,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462790",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2024-10-16T15:19"
+        },
+        {
+          "id": 2462789,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462789",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 1743/2024",
+          "dataApresentacao": "2024-10-16T15:19"
+        },
+        {
+          "id": 2462788,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462788",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1743/2024",
+          "dataApresentacao": "2024-10-16T15:19"
+        },
+        {
+          "id": 2462532,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2462532",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 4232,
+          "ano": 2024,
+          "ementa": "Requer urgência para apreciação do Projeto de Lei 1743/2024, que “altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao  artigo 57",
+          "dataApresentacao": "2024-10-15T15:43"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2432865,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2432865",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 1743,
+          "ano": 2024,
+          "ementa": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+          "dataApresentacao": "2024-05-10T13:00"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2432865-65"
+      }
+    ]
+  }
+}

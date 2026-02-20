@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2592030-18",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2592030-18",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T18:48:41",
+      "siglaOrgao": "CCP",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+      "idOrgao": 186,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Realizar o encaminhamento do PL-6140/2025 à CMULHER (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [],
+      "proposicoesAfetadas": [
+        {
+          "id": 2592030,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2592030",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6140,
+          "ano": 2025,
+          "ementa": "Acrescenta dispositivo à Lei nº 10.714, de 13 de agosto de 2003, para tornar obrigatória a divulgação do serviço Ligue 180 em notícias e informações relativas à violência contra a mulher veiculadas em qualquer meio de comunicação.",
+          "dataApresentacao": "2025-12-03T14:34"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2592030-18"
+      }
+    ]
+  }
+}

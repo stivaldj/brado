@@ -1,0 +1,116 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2320232-73",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2320232-73",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T15:25:43",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Iniciada a Votação da Matéria.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-10T15:25:03",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-12-17T11:01:27",
+        "descricao": "Parecer do Relator, Dep. General Pazuello (PL-RJ), pela aprovação deste e do PL 607/2023, apensado, com substitutivo.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598108"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2598109,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598109",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Normatiza a blindagem do teto solar de veículo automotor blindado de categoria particular e dá outras providências.",
+          "dataApresentacao": "2025-12-16T13:50"
+        },
+        {
+          "id": 2598108,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598108",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. General Pazuello (PL-RJ), pela aprovação deste e do PL 607/2023, apensado, com substitutivo.",
+          "dataApresentacao": "2025-12-16T13:50"
+        },
+        {
+          "id": 2542723,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2542723",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 982/2022",
+          "dataApresentacao": "2025-08-12T13:50"
+        },
+        {
+          "id": 2542740,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2542740",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 982/2022-Requerimento de Retirada de Matéria da Pauta - PL 982/2022",
+          "dataApresentacao": "2025-08-12T13:50"
+        },
+        {
+          "id": 2542761,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2542761",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 982/2022",
+          "dataApresentacao": "2025-08-12T13:48"
+        },
+        {
+          "id": 2530792,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2530792",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Normatiza a blindagem do teto solar de veículo automotor blindado de categoria particular e dá outras providências.",
+          "dataApresentacao": "2025-07-01T13:36"
+        },
+        {
+          "id": 2530769,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2530769",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Alfredo Gaspar (UNIÃO-AL), pela aprovação deste, e do PL 607/2023, apensado, com substitutivo.",
+          "dataApresentacao": "2025-07-01T13:36"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2320232,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320232",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 982,
+          "ano": 2022,
+          "ementa": "Normatiza a blindagem do teto solar de veículo automotor blindado de categoria particular e dá outras providências.",
+          "dataApresentacao": "2022-04-20T13:48"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2320232-73"
+      }
+    ]
+  }
+}

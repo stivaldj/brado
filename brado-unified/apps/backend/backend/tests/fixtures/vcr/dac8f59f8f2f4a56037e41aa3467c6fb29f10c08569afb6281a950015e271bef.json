@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 160629,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160629",
+      "nomeCivil": "ROMERO RODRIGUES VEIGA",
+      "ultimoStatus": {
+        "id": 160629,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160629",
+        "nome": "Romero Rodrigues",
+        "siglaPartido": "PODE",
+        "uriPartido": null,
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
+        "email": null,
+        "data": "2023-02-01",
+        "nomeEleitoral": "Romero Rodrigues",
+        "gabinete": {
+          "nome": "610",
+          "predio": "4",
+          "sala": "610",
+          "andar": "6",
+          "telefone": "3215-5610",
+          "email": "dep.romerorodrigues@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": null
+      },
+      "cpf": "45107793487",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/romeropelapb",
+        "https://www.facebook.com/romerorodriguespb",
+        "https://www.instagram.com/romerorodriguespb",
+        "https://youtube.com/romerorodriguespb"
+      ],
+      "dataNascimento": "1966-01-09",
+      "dataFalecimento": null,
+      "ufNascimento": "PB",
+      "municipioNascimento": "Campina Grande",
+      "escolaridade": "Mestrado"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/160629"
+      }
+    ]
+  }
+}

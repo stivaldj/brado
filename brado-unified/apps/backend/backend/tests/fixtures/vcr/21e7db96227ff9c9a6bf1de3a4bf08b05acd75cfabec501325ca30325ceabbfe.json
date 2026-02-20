@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601559-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601559-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:27:44",
+      "siglaOrgao": "CDU",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006",
+      "idOrgao": 2006,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80997",
+      "idEvento": 80997,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 2/2026 (Requerimento (Outros)), pelo Deputado Keniston Braga (MDB/PA), que \"Requer seja convidado o Ministro de Estado das Cidades, o Senhor Jader Fontenelle Barbalho Filho, para explanar quais as metas, programas e prioridades do Ministério para 2026\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601559,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601559",
+          "siglaTipo": "REQ",
+          "codTipo": 448,
+          "numero": 2,
+          "ano": 2026,
+          "ementa": "Requer seja convidado o Ministro de Estado das Cidades, o Senhor Jader Fontenelle Barbalho Filho, para explanar quais as metas, programas e prioridades do Ministério para 2026.",
+          "dataApresentacao": "2026-02-09T16:36"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601559-2"
+      }
+    ]
+  }
+}

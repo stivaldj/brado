@@ -1,0 +1,146 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2431791-29",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2431791-29",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T15:40:09",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Iniciada a Votação da Matéria.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-10T15:39:57",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-09-09T12:15:34",
+        "descricao": "Parecer do Relator, Dep. Delegado Bruno Lima (PP-SP), pela aprovação deste, com substitutivo.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2557788"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2557822,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2557822",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Dispõe sobre a criação da Brigada de Mobilização Nacional para prevenção e contenção a desastres naturais e emergências e dá outras providências.",
+          "dataApresentacao": "2025-09-08T14:05"
+        },
+        {
+          "id": 2557788,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2557788",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Delegado Bruno Lima (PP-SP), pela aprovação deste, com substitutivo.",
+          "dataApresentacao": "2025-09-08T14:05"
+        },
+        {
+          "id": 2552344,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2552344",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1634/2024",
+          "dataApresentacao": "2025-08-26T13:40"
+        },
+        {
+          "id": 2552217,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2552217",
+          "siglaTipo": "RPD",
+          "codTipo": 336,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação - PL 1634/2024",
+          "dataApresentacao": "2025-08-26T13:08"
+        },
+        {
+          "id": 2552277,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2552277",
+          "siglaTipo": "RPD",
+          "codTipo": 1042,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação - PL 1634/2024-Requerimento de Adiamento da Votação - PL 1634/2024",
+          "dataApresentacao": "2025-08-26T13:08"
+        },
+        {
+          "id": 2552232,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2552232",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 1634/2024",
+          "dataApresentacao": "2025-08-26T13:04"
+        },
+        {
+          "id": 2552242,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2552242",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 1634/2024-Requerimento de Retirada de Matéria da Pauta - PL 1634/2024",
+          "dataApresentacao": "2025-08-26T13:04"
+        },
+        {
+          "id": 2552280,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2552280",
+          "siglaTipo": "RPD",
+          "codTipo": 876,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento de Inversão da Pauta - PL 1634/2024",
+          "dataApresentacao": "2025-08-26T13:00"
+        },
+        {
+          "id": 2552283,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2552283",
+          "siglaTipo": "RPD",
+          "codTipo": 1049,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Inversão da Pauta - PL 1634/2024-Requerimento de Inversão da Pauta - PL 1634/2024",
+          "dataApresentacao": "2025-08-26T13:00"
+        },
+        {
+          "id": 2551146,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2551146",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Delegado Bruno Lima (PP-SP), pela aprovação.",
+          "dataApresentacao": "2025-08-19T12:55"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2431791,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2431791",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 1634,
+          "ano": 2024,
+          "ementa": "Dispõe sobre a criação da Brigada de Mobilização Nacional para prevenção e contenção a desastres naturais e emergências e dá outras providências.",
+          "dataApresentacao": "2024-05-07T19:25"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2431791-29"
+      }
+    ]
+  }
+}

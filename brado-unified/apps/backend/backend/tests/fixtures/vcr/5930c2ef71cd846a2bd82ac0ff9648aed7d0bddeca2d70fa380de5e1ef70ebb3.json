@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2579047-4",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2579047-4",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:28:02",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 135/2025 (Requerimento de Audiência Pública), pelo Deputado Alceu Moreira (MDB/RS), que \"Requer a realização de Audiência Pública para debater a operações Cadeia de Carbono e Carbono Oculto, deflagrada pela RFB e órgãos parceiros para combate à sonegação e outras irregularidades no setor de combustíveis. \".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2588262,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588262",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - REQ 135/2025 CME",
+          "dataApresentacao": "2025-11-26T09:56"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2579047,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579047",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 135,
+          "ano": 2025,
+          "ementa": "Requer a realização de Audiência Pública para debater a operações Cadeia de Carbono e Carbono Oculto, deflagrada pela RFB e órgãos parceiros para combate à sonegação e outras irregularidades no setor de combustíveis.",
+          "dataApresentacao": "2025-10-29T17:43"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2579047-4"
+      }
+    ]
+  }
+}

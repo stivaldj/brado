@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2490326-23",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2490326-23",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T14:39:11",
+      "siglaOrgao": "CCOM",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539385",
+      "idOrgao": 539385,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80772",
+      "idEvento": 80772,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-12-10T17:20:22",
+        "descricao": "Parecer do Relator, Dep. Gervásio Maia (PSB-PB), pela aprovação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2595636"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2595636,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2595636",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Gervásio Maia (PSB-PB), pela aprovação.",
+          "dataApresentacao": "2025-12-10T10:47"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2490326,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2490326",
+          "siglaTipo": "TVR",
+          "codTipo": 428,
+          "numero": 186,
+          "ano": 2025,
+          "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.158, de 12 de agosto de 2024, publicada no Diário Oficial da União de 2 de setembro de 2024, que renova, a partir de 15 de setembro de 2018, a permissão outorgada à Art Studio Rádio Difusão Ltda., posteriormente transferida à VIP Rádio e Televisão Ltda., para executar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Itanhaém, Estado de São Paulo.",
+          "dataApresentacao": "2025-03-26T10:36"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2490326-23"
+      }
+    ]
+  }
+}

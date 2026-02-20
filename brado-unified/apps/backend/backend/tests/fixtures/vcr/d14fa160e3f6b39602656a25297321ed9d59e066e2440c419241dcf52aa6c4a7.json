@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601474-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601474-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:46:55",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 16/2026 (Requerimento de Voto de regozijo ou louvor), pelo Deputado Coronel Assis (UNIÃO/MT), que \"Requer a concessão de Moção de Aplauso e Louvor ao Cabo Wanderson César Fatiga, da Polícia Militar do Estado de Mato Grosso, em reconhecimento à atuação heroica no resgate de cinco integrantes de uma família, incluindo três crianças, após veículo ser arrastado por enxurrada e submergir durante fortes chuvas no município de Matupá\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601474,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601474",
+          "siglaTipo": "REQ",
+          "codTipo": 354,
+          "numero": 16,
+          "ano": 2026,
+          "ementa": "Requer a concessão de Moção de Aplauso e Louvor ao Cabo Wanderson César Fatiga, da Polícia Militar do Estado de Mato Grosso, em reconhecimento à atuação heroica no resgate de cinco integrantes de uma família, incluindo três crianças, após veículo ser arrastado por enxurrada e submergir durante fortes chuvas no município de Matupá.",
+          "dataApresentacao": "2026-02-09T11:47"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601474-2"
+      }
+    ]
+  }
+}

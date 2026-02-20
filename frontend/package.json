@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "dev:clean": "bash ./scripts/dev-clean-start.sh",
+    "build": "next build --webpack",
+    "start": "next start",
+    "smoke:e2e": "bash ./scripts/smoke-playwright.sh"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.574.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "tailwind-merge": "^3.4.1",
+    "zod": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.0",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "latest"
+  }
+}

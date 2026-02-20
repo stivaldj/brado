@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2555417-29",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2555417-29",
+      "data": "2026-02-02",
+      "dataHoraRegistro": "2026-02-02T18:29:57",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80872",
+      "idEvento": 80872,
+      "descricao": "Aprovada a Medida Provisória nº 1.312, de 2025.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação, quanto ao mérito, em turno único.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-02T18:34:12",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2600556,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600556",
+          "siglaTipo": "RDF",
+          "codTipo": 197,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Redação Final ao MPV 1312/2025",
+          "dataApresentacao": "2026-02-02T00:00"
+        },
+        {
+          "id": 2592069,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2592069",
+          "siglaTipo": "PAR",
+          "codTipo": 187,
+          "numero": 25,
+          "ano": 2025,
+          "ementa": "Recebido PARECER (CN) Nº 25, DE 2025, da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre a Medida Provisória n° 1312, de 2025, que Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, no valor de R$ 83.500.000,00, para o fim que especifica.",
+          "dataApresentacao": "2025-12-03T15:49"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2555417,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2555417",
+          "siglaTipo": "MPV",
+          "codTipo": 291,
+          "numero": 1312,
+          "ano": 2025,
+          "ementa": "Abre crédito extraordinário, em favor do Ministério da Agricultura e Pecuária, no valor de R$ 83.500.000,00, para o fim que especifica.",
+          "dataApresentacao": "2025-09-02T00:00"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2555417-29"
+      }
+    ]
+  }
+}

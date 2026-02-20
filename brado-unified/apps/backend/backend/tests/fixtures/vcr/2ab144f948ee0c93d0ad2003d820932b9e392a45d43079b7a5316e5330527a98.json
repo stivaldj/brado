@@ -1,0 +1,146 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2562173-27",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562173-27",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T21:34:09",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação preliminar em turno único.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-09T21:33:31",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601728,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601728",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T18:55"
+        },
+        {
+          "id": 2601660,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601660",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T17:19"
+        },
+        {
+          "id": 2601662,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601662",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - MPV 1317/2025-Requerimento de Retirada de Matéria da Pauta - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T17:19"
+        },
+        {
+          "id": 2601590,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601590",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T16:56"
+        },
+        {
+          "id": 2601592,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601592",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T16:56"
+        },
+        {
+          "id": 2601593,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601593",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T16:56"
+        },
+        {
+          "id": 2601594,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601594",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T16:56"
+        },
+        {
+          "id": 2601596,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601596",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - MPV 1317/2025-Requerimento de Adiamento da Discussão Matéria Urgente - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T16:56"
+        },
+        {
+          "id": 2601598,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601598",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - MPV 1317/2025-Requerimento de Adiamento da Votação Matéria Urgente - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T16:56"
+        },
+        {
+          "id": 2601600,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601600",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - MPV 1317/2025-Requerimento de Retirada de Matéria da Pauta - MPV 1317/2025",
+          "dataApresentacao": "2026-02-09T16:56"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2562173,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2562173",
+          "siglaTipo": "MPV",
+          "codTipo": 291,
+          "numero": 1317,
+          "ano": 2025,
+          "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para tratar da Agência Nacional de Proteção de Dados, a Lei nº 10.871, de 20 de maio de 2004, para criar a Carreira de Regulação e Fiscalização de Proteção de Dados, transforma cargos no âmbito do Poder Executivo federal, e dá outras providências.",
+          "dataApresentacao": "2025-09-18T00:00"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562173-27"
+      }
+    ]
+  }
+}

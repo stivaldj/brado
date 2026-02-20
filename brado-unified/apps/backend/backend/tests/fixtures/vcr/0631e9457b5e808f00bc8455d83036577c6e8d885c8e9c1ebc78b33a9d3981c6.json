@@ -1,0 +1,136 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2600426-42",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600426-42",
+      "data": "2026-02-03",
+      "dataHoraRegistro": "2026-02-03T14:47:43",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80928",
+      "idEvento": 80928,
+      "descricao": "Aprovada a Redação Final assinada pelo relator, Dep. Alberto Fraga (PL/DF).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação da Redação Final.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-03T14:47:27",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-03T14:50:28",
+        "descricao": "Parecer à Emenda de Plenário proferido pelo Relator, Dep. Alberto Fraga (PL-DF) pela:\r\n• Comissão de Administração e Serviço Público, que conclui pela rejeição da Emenda de Plenário nº 1.\r\n• Comissão de Finanças e Tributação, que conclui pela não implicação sobre as despesas ou receitas públicas da Emenda de Plenário.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa da Emenda de Plenário.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600526"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2600524,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600524",
+          "siglaTipo": "PRLE",
+          "codTipo": 1001,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Dispõe sobre a modernização da Carreira Legislativa da Câmara dos Deputados, sobre a reestruturação da remuneração com base em critérios de desempenho, competências, metas, resultados, qualificação, crescimento profissional e dedicação contínua e dá outras providências.",
+          "dataApresentacao": "2026-02-03T14:44"
+        },
+        {
+          "id": 2600504,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600504",
+          "siglaTipo": "DTQ",
+          "codTipo": 846,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Destaque para Votação em Separado - PL 179/2026",
+          "dataApresentacao": "2026-02-03T14:13"
+        },
+        {
+          "id": 2600469,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600469",
+          "siglaTipo": "EMP",
+          "codTipo": 870,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Dispõe sobre a modernização da Carreira Legislativa da Câmara dos Deputados, sobre a reestruturação da remuneração com base em critérios de desempenho, competências, metas, resultados, qualificação, crescimento profissional e dedicação contínua e dá outras providências.",
+          "dataApresentacao": "2026-02-03T13:45"
+        },
+        {
+          "id": 2600458,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600458",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 179/2026",
+          "dataApresentacao": "2026-02-03T13:35"
+        },
+        {
+          "id": 2600443,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600443",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Dispõe sobre a modernização da Carreira Legislativa da Câmara dos Deputados, sobre a reestruturação da remuneração com base em critérios de desempenho, competências, metas, resultados, qualificação, crescimento profissional e dedicação contínua e dá outras providências.",
+          "dataApresentacao": "2026-02-03T12:56"
+        },
+        {
+          "id": 2600436,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600436",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 131,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime de urgência do Projeto de Lei n° 179 , de 2026.",
+          "dataApresentacao": "2026-02-03T12:46"
+        },
+        {
+          "id": 2600456,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600456",
+          "siglaTipo": "PPP",
+          "codTipo": 192,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Alberto Fraga (PL-DF) pela: • Comissão de Administração e Serviço Público, que conclui pela aprovação do Projeto de Lei n. 179, de 2026. • Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária do Projeto de Lei n. 179, de 2026. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei n. 179, de 2026.",
+          "dataApresentacao": "2026-02-03T12:00"
+        },
+        {
+          "id": 2600526,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600526",
+          "siglaTipo": "PEP",
+          "codTipo": 442,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Alberto Fraga (PL-DF) pela: • Comissão de Administração e Serviço Público, que conclui pela rejeição da Emenda de Plenário nº 1. • Comissão de Finanças e Tributação, que conclui pela não implicação sobre as despesas ou receitas públicas da Emenda de Plenário. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa da Emenda de Plenário.",
+          "dataApresentacao": "2026-02-03T12:00"
+        },
+        {
+          "id": 2602328,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602328",
+          "siglaTipo": "RDF",
+          "codTipo": 197,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Redação Final ao PL 179/2026",
+          "dataApresentacao": "2026-02-03T00:00"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2600426,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600426",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 179,
+          "ano": 2026,
+          "ementa": "Dispõe sobre a modernização da Carreira Legislativa da Câmara dos Deputados, sobre a reestruturação da remuneração com base em critérios de desempenho, competências, metas, resultados, qualificação, crescimento profissional e dedicação contínua e dá outras providências.",
+          "dataApresentacao": "2026-02-03T12:41"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600426-42"
+      }
+    ]
+  }
+}

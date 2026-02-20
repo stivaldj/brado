@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 225730,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+      "nomeCivil": "ANA PAULA BRANDÃO DA SILVA FARIAS",
+      "ultimoStatus": {
+        "id": 225730,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+        "nome": "Enfermeira Ana Paula",
+        "siglaPartido": "PODE",
+        "uriPartido": null,
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+        "email": null,
+        "data": "2025-11-19",
+        "nomeEleitoral": "Enfermeira Ana Paula",
+        "gabinete": {
+          "nome": "936",
+          "predio": "4",
+          "sala": "936",
+          "andar": "9",
+          "telefone": "3215-5936",
+          "email": "dep.enfermeiraanapaula@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "00114139300",
+      "sexo": "F",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1983-11-17",
+      "dataFalecimento": null,
+      "ufNascimento": "CE",
+      "municipioNascimento": "Fortaleza",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730"
+      }
+    ]
+  }
+}

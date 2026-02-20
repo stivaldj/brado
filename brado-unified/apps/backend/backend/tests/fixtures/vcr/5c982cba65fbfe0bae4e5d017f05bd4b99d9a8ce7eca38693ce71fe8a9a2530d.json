@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601504-4",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601504-4",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:48:22",
+      "siglaOrgao": "CPD",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+      "idOrgao": 537480,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80998",
+      "idEvento": 80998,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 4/2026 (Requerimento para envio de Requerimento de Informação pela Comissão), pelo Deputado Rodrigo Rollemberg (PSB/DF), que \"Requeiro, nos termos regimentais, que esta Comissão aprove Requerimento de Informação a ser encaminhado:\nI – ao Senhor Leonardo Osvaldo Barchini Rosa, Secretário-Executivo do Ministério da Educação, bem como à Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (SECADI);\nII – e que seja expedido ofício da Comissão à Associação Brasileira da Indústria, Comércio e Serviços de Tecnologia Assistiva (Abridef),\nacerca da execução da política de fornecimento de livros didáticos acessíveis a estudantes com deficiência visual no âmbito do Programa Nacional do Livro e do Material Didático (PNLD), sob gestão do FNDE\n\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601504,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601504",
+          "siglaTipo": "REQ",
+          "codTipo": 1017,
+          "numero": 4,
+          "ano": 2026,
+          "ementa": "Requer informações ao Ministério da Educação sobre a execução da política de fornecimento de livros didáticos acessíveis a estudantes com deficiência visual no âmbito do Programa Nacional do Livro e do Material Didático (PNLD).",
+          "dataApresentacao": "2026-02-09T13:40"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601504-4"
+      }
+    ]
+  }
+}

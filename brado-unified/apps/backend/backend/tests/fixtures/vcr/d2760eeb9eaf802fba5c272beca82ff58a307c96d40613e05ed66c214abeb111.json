@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 220644,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220644",
+      "nomeCivil": "ROSANGELA MARIA WOLFF DE QUADROS MORO",
+      "ultimoStatus": {
+        "id": 220644,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220644",
+        "nome": "Rosangela Moro",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": null,
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220644.jpg",
+        "email": null,
+        "data": "2023-02-01",
+        "nomeEleitoral": "Rosangela Moro",
+        "gabinete": {
+          "nome": "434",
+          "predio": "4",
+          "sala": "434",
+          "andar": "4",
+          "telefone": "3215-5434",
+          "email": "dep.rosangelamoro@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": null
+      },
+      "cpf": "92260055915",
+      "sexo": "F",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/rosangelawm",
+        "https://www.facebook.com/rosangelawolffmoro",
+        "https://www.instagram.com/rosangelawmoro",
+        "https://youtube.com/channel/UC5X-86dz8GEf6QGMm95ZoAA"
+      ],
+      "dataNascimento": "1974-05-28",
+      "dataFalecimento": null,
+      "ufNascimento": "PR",
+      "municipioNascimento": "Curitiba",
+      "escolaridade": "Pós-Graduação"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220644"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601542-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601542-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:40:43",
+      "siglaOrgao": "CTRAB",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "idOrgao": 2015,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80995",
+      "idEvento": 80995,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 6/2026 (Requerimento), pelo Deputado Max Lemos (PDT/RJ), que \"Requer a realização de seminário no Estado do Rio Janeiro, para debater o fim da escala de trabalho 6 x 1 (seis dias de trabalho por um dia de descanso), considerando seus impactos sociais, físicos, psicológicos, econômicos e familiares sobre os trabalhadores brasileiros\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601542,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601542",
+          "siglaTipo": "REQ",
+          "codTipo": 147,
+          "numero": 6,
+          "ano": 2026,
+          "ementa": "Requer a realização de seminário no Estado do Rio Janeiro, para debater o fim da escala de trabalho 6 x 1 (seis dias de trabalho por um dia de descanso), considerando seus impactos sociais, físicos, psicológicos, econômicos e familiares sobre os trabalhadores brasileiros.",
+          "dataApresentacao": "2026-02-09T15:54"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601542-2"
+      }
+    ]
+  }
+}

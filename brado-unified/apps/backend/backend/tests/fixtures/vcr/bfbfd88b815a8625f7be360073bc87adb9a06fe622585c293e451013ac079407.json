@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601524-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601524-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:40:33",
+      "siglaOrgao": "CTRAB",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "idOrgao": 2015,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80995",
+      "idEvento": 80995,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 5/2026 (Requerimento (Outros)), pelo Deputado Max Lemos (PDT/RJ), que \"Requer a realização de mesas redondas ou eventos afins, destinados à discussão de assuntos atinentes ao campo temático ou área de atuação desta Comissão\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601524,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601524",
+          "siglaTipo": "REQ",
+          "codTipo": 448,
+          "numero": 5,
+          "ano": 2026,
+          "ementa": "Requer a realização de mesas redondas ou eventos afins, destinados à discussão de assuntos atinentes ao campo temático ou área de atuação desta Comissão.",
+          "dataApresentacao": "2026-02-09T14:47"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601524-2"
+      }
+    ]
+  }
+}

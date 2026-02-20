@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2473101-36",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2473101-36",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T15:08:28",
+      "siglaOrgao": "SECAP(SGM)",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100001",
+      "idOrgao": 100001,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Deferido o requerimento REQ 5277/2025 , nos termos do artigo 104, caput, do RICD",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [],
+      "proposicoesAfetadas": [
+        {
+          "id": 2473101,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2473101",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 4584,
+          "ano": 2024,
+          "ementa": "Reconhece a Romaria da Penha de João Pessoa como Patrimônio Cultural Imaterial do Brasil",
+          "dataApresentacao": "2024-11-28T12:15"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2473101-36"
+      }
+    ]
+  }
+}

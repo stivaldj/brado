@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601216-3",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601216-3",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:46:55",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 8/2026 (Requerimento de Audiência Pública), pelo Deputado Lincoln Portela (PL/MG), que \"Requer a realização de audiência pública para debater sobre o crescente número de suicídios entre policiais penais no Brasil\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601216,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601216",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 8,
+          "ano": 2026,
+          "ementa": "Requer a realização de audiência pública para debater sobre o crescente número de suicídios entre policiais penais no Brasil.",
+          "dataApresentacao": "2026-02-05T17:08"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601216-3"
+      }
+    ]
+  }
+}

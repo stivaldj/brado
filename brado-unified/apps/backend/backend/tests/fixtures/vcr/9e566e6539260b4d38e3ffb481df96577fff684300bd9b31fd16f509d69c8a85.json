@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601092-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601092-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:48:22",
+      "siglaOrgao": "CPD",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+      "idOrgao": 537480,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80998",
+      "idEvento": 80998,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 2/2026 (Requerimento para realização ou participação em Seminário, Visita Técnica ou outro Evento), pelo Deputado Rodrigo Rollemberg (PSB/DF), que \"Requeiro a realização de Seminário com representações da sociedade civil, movimentos sociais e agentes públicos com atuação na área das pessoas com deficiência para debater uma agenda comum, de modo a subsidiar a elaboração do plano de trabalho deste Colegiado\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601092,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601092",
+          "siglaTipo": "REQ",
+          "codTipo": 686,
+          "numero": 2,
+          "ano": 2026,
+          "ementa": "Requeiro a realização de Seminário com representações da sociedade civil, movimentos sociais e agentes públicos com atuação na área das pessoas com deficiência para debater uma agenda comum, de modo a subsidiar a elaboração do plano de trabalho deste Colegiado.",
+          "dataApresentacao": "2026-02-05T12:18"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601092-2"
+      }
+    ]
+  }
+}

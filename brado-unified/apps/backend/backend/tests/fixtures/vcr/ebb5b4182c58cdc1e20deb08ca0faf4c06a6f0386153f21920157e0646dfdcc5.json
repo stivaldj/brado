@@ -1,0 +1,94 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2600138-14",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600138-14",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T19:08:36",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Aprovado o requerimento nº 55/2026,do Sr. Antonio Brito, que solicita urgência (art. 155) para o PRC 80/2025.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582523",
+          "tituloProposicao": "PRC 80/2025",
+          "descResultado": "Realizar o encaminhamento do PRC-80/2025 à MESA (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582523",
+          "tituloProposicao": "PRC 80/2025",
+          "descResultado": "Realizar o encaminhamento do PRC-80/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582523",
+          "tituloProposicao": "PRC 80/2025",
+          "descResultado": "Realizar o encaminhamento do PRC-80/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582523",
+          "tituloProposicao": "PRC 80/2025",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 55/2026.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2600138,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600138",
+          "siglaTipo": "PRC",
+          "codTipo": 444,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Altera o art. 13-A do Regimento Interno da Câmara dos Deputados, para dispor sobre a data de eleição da Coordenação da Bancada Negra, limitar a recondução durante a legislatura e disciplinar o procedimento de escolha dos coordenadores.",
+          "dataApresentacao": "2026-02-02T13:48"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600138-14"
+      }
+    ]
+  }
+}

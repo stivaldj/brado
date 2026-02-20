@@ -1,0 +1,367 @@
+<html lang="pt-BR" vid="0"><head vid="1">
+    <meta charset="UTF-8" vid="2">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" vid="3">
+    <title vid="4">Dashboard Legislativo - João Mendes</title>
+    <style vid="5">
+        :root {
+            --bg-body: #000000;
+            --bg-surface: #0a0c0e;
+            --bg-surface-elevated: #161a1d;
+            --border-dark: #000000;
+            --border-light: #2d3439;
+            --accent-cyan: #ffffff; 
+            --accent-glow: 0 0 12px rgba(255, 255, 255, 0.4);
+            --accent-warning: #ff4d4d;
+            --text-main: #ffffff;
+            --text-muted: #8e9ba5;
+            --text-label: #5e6d78; 
+            --radius-sm: 6px;
+            --radius-md: 12px;
+            --radius-lg: 18px;
+            --font-stack: 'SF Mono', 'Roboto Mono', 'Menlo', monospace;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.03'/%3E%3C/svg%3E");
+        }
+
+        .label {
+            font-family: var(--font-stack);
+            color: var(--text-label);
+            text-transform: uppercase;
+            font-size: 0.65rem;
+            letter-spacing: 0.12em;
+            font-weight: 600;
+            margin-bottom: 6px;
+            display: block;
+        }
+
+        
+        .top-nav {
+            height: 72px;
+            background: rgba(10, 12, 14, 0.95);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border-light);
+            display: flex;
+            align-items: center;
+            padding: 0 40px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            justify-content: space-between;
+        }
+
+        .nav-brand {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .logo-box {
+            width: 36px;
+            height: 36px;
+            background: var(--bg-surface-elevated);
+            border: 1px solid var(--border-light);
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.7rem;
+            color: var(--accent-cyan);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .nav-item {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            text-decoration: none;
+            font-family: var(--font-stack);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .nav-item.active {
+            color: var(--text-main);
+            border-bottom: 2px solid var(--accent-cyan);
+            padding-bottom: 4px;
+        }
+
+        
+        .hero-section {
+            background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-body) 100%);
+            padding: 48px 40px;
+            border-bottom: 1px solid var(--border-light);
+        }
+
+        .hero-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1.5fr;
+            gap: 40px;
+            align-items: center;
+        }
+
+        .metric-card {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .percentage-large {
+            font-size: 3.5rem;
+            font-weight: 800;
+            color: var(--accent-cyan);
+            text-shadow: var(--accent-glow);
+            margin: 8px 0;
+        }
+
+        .distribution-bar {
+            height: 10px;
+            background: #1a1e22;
+            border-radius: 5px;
+            overflow: hidden;
+            margin: 16px 0;
+            display: flex;
+        }
+
+        
+        .content-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 48px 40px;
+            width: 100%;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            margin-bottom: 32px;
+        }
+
+        .voting-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+        }
+
+        .vote-card {
+            background-color: var(--bg-surface-elevated);
+            border-radius: var(--radius-md);
+            padding: 28px;
+            border: 1px solid var(--border-light);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .vote-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--text-label);
+        }
+
+        .vote-card.controversial {
+            border-top: 4px solid var(--accent-warning);
+        }
+
+        .timeline-date {
+            font-family: var(--font-stack);
+            font-size: 0.7rem;
+            color: var(--text-label);
+            margin-bottom: 12px;
+        }
+
+        .bill-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            margin-bottom: 12px;
+            min-height: 2.8em;
+        }
+
+        .bill-desc {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            line-height: 1.6;
+            margin-bottom: 24px;
+            flex-grow: 1;
+        }
+
+        .vote-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+        }
+
+        .vote-badge {
+            font-family: var(--font-stack);
+            font-size: 0.7rem;
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-weight: 700;
+        }
+
+        .badge-favor { background: #ffffff; color: #000000; }
+        .badge-contra { background: transparent; color: #ffffff; border: 1px solid #ffffff; }
+
+        .search-input {
+            background: var(--bg-surface-elevated);
+            border: 1px solid var(--border-light);
+            padding: 10px 16px;
+            border-radius: var(--radius-sm);
+            color: #ffffff;
+            font-family: var(--font-stack);
+            font-size: 0.75rem;
+            width: 300px;
+        }
+
+        .mini-tag {
+            font-family: var(--font-stack);
+            font-size: 0.6rem;
+            color: var(--accent-warning);
+            border: 1px solid var(--accent-warning);
+            padding: 2px 6px;
+            border-radius: 3px;
+            vertical-align: middle;
+            margin-left: 8px;
+        }
+    </style>
+</head>
+<body vid="6">
+
+    <nav class="top-nav" vid="7">
+        <div class="nav-brand" vid="8">
+            <div class="logo-box" vid="9">M_BR</div>
+            <div vid="10">
+                <span class="label" style="margin:0;" vid="11">PARLAMENTAR</span>
+                <div style="font-weight: 700;" vid="12">João Mendes</div>
+            </div>
+        </div>
+        <div class="nav-links" vid="13">
+            <a href="#" class="nav-item active" vid="14">Histórico de Votos</a>
+            <a href="#" class="nav-item" vid="15">Projetos</a>
+            <a href="#" class="nav-item" vid="16">Gastos</a>
+            <a href="#" class="nav-item" vid="17">Biografia</a>
+        </div>
+        <input type="text" class="search-input" placeholder="BUSCAR NA ATIVIDADE..." vid="18">
+    </nav>
+
+    <header class="hero-section" vid="19">
+        <div class="hero-grid" vid="20">
+            <div class="metric-card" vid="21">
+                <span class="label" vid="22">ALINHAMENTO PARTIDÁRIO</span>
+                <div class="percentage-large" vid="23">92%</div>
+                <p class="label" style="text-transform:none; color: var(--text-muted);" vid="24">Vota com a liderança do NOVO</p>
+            </div>
+            
+            <div class="metric-card" style="border-left: 1px solid var(--border-light); border-right: 1px solid var(--border-light);" vid="25">
+                <span class="label" vid="26">ÍNDICE DE POLÊMICA</span>
+                <div class="percentage-large" style="color: var(--accent-warning); text-shadow: 0 0 10px rgba(255,77,77,0.3);" vid="27">14.5</div>
+                <p class="label" style="text-transform:none; color: var(--text-muted);" vid="28">Divergência da opinião pública</p>
+            </div>
+
+            <div class="metric-card" style="text-align: left;" vid="29">
+                <span class="label" vid="30">DISTRIBUIÇÃO DE VOTOS</span>
+                <div class="distribution-bar" vid="31">
+                    <div style="width: 75%; background: #ffffff;" vid="32"></div>
+                    <div style="width: 20%; background: #444;" vid="33"></div>
+                    <div style="width: 5%; background: var(--accent-warning);" vid="34"></div>
+                </div>
+                <div style="display:flex; justify-content: space-between;" vid="35">
+                    <span class="label" style="font-size:0.55rem;" vid="36">75% FAVOR</span>
+                    <span class="label" style="font-size:0.55rem;" vid="37">20% CONTRA</span>
+                    <span class="label" style="font-size:0.55rem;" vid="38">5% ABS</span>
+                </div>
+                <div style="display:flex; flex-wrap: wrap; gap: 6px; margin-top:16px;" vid="39">
+                    <span style="background: rgba(255,255,255,0.05); border: 1px solid var(--border-light); padding: 4px 8px; border-radius: 4px; font-size: 0.6rem; color: var(--text-muted);" vid="40">Economia</span>
+                    <span style="background: rgba(255,255,255,0.05); border: 1px solid var(--border-light); padding: 4px 8px; border-radius: 4px; font-size: 0.6rem; color: var(--text-muted);" vid="41">Agronegócio</span>
+                    <span style="background: rgba(255,255,255,0.05); border: 1px solid var(--border-light); padding: 4px 8px; border-radius: 4px; font-size: 0.6rem; color: var(--text-muted);" vid="42">Transparência</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="content-container" vid="43">
+        <div class="section-header" vid="44">
+            <div vid="45">
+                <span class="label" vid="46">ATIVIDADE RECENTE</span>
+                <h2 style="font-size: 1.5rem;" vid="47">Votos em Plenário</h2>
+            </div>
+            <div class="label" vid="48">MOSTRANDO 4 DE 156 PROJETOS</div>
+        </div>
+
+        <div class="voting-grid" vid="49">
+            <div class="vote-card controversial" vid="50">
+                <div class="timeline-date" vid="51">14 OUT 2023 • 14:32</div>
+                <h3 class="bill-title" vid="52">PL 2633/20 - Regularização Fundiária <span class="mini-tag" vid="53">CONTROVERSO</span></h3>
+                <p class="bill-desc" vid="54">Estabelece novos critérios para a regularização fundiária de terras da União, alterando normas sobre ocupações em áreas florestais e limites de módulos fiscais.</p>
+                <div class="vote-footer" vid="55">
+                    <div style="display:flex; align-items:center; gap:12px;" vid="56">
+                        <span class="label" style="margin:0;" vid="57">VOTO:</span>
+                        <span class="vote-badge badge-favor" vid="58">FAVORÁVEL</span>
+                    </div>
+                    <div class="label" style="margin:0; color: var(--accent-warning);" vid="59">DIVERGENTE DO PARTIDO</div>
+                </div>
+            </div>
+
+            <div class="vote-card" vid="60">
+                <div class="timeline-date" vid="61">05 SET 2023 • 18:10</div>
+                <h3 class="bill-title" vid="62">PEC 45/19 - Reforma Tributária</h3>
+                <p class="bill-desc" vid="63">Altera o Sistema Tributário Nacional para unificar impostos sobre o consumo (IBS e CBS), simplificando a arrecadação e extinguindo tributos como IPI, PIS e Cofins.</p>
+                <div class="vote-footer" vid="64">
+                    <div style="display:flex; align-items:center; gap:12px;" vid="65">
+                        <span class="label" style="margin:0;" vid="66">VOTO:</span>
+                        <span class="vote-badge badge-favor" vid="67">FAVORÁVEL</span>
+                    </div>
+                    <div class="label" style="margin:0; color: var(--text-muted);" vid="68">ALINHADO AO PARTIDO</div>
+                </div>
+            </div>
+
+            <div class="vote-card" vid="69">
+                <div class="timeline-date" vid="70">22 AGO 2023 • 11:45</div>
+                <h3 class="bill-title" vid="71">PL 490/07 - Marco Temporal</h3>
+                <p class="bill-desc" vid="72">Propõe que povos indígenas só tenham direito a terras que ocupavam em 5 de outubro de 1988, data da promulgação da Constituição Federal.</p>
+                <div class="vote-footer" vid="73">
+                    <div style="display:flex; align-items:center; gap:12px;" vid="74">
+                        <span class="label" style="margin:0;" vid="75">VOTO:</span>
+                        <span class="vote-badge badge-contra" vid="76">CONTRÁRIO</span>
+                    </div>
+                    <div class="label" style="margin:0; color: var(--text-muted);" vid="77">ALINHADO AO PARTIDO</div>
+                </div>
+            </div>
+
+            <div class="vote-card controversial" vid="78">
+                <div class="timeline-date" vid="79">12 JUL 2023 • 20:05</div>
+                <h3 class="bill-title" vid="80">PL 2630/20 - Lei das Fake News <span class="mini-tag" vid="81">CONTROVERSO</span></h3>
+                <p class="bill-desc" vid="82">Institui a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet, criando regras para moderação de conteúdo em redes sociais.</p>
+                <div class="vote-footer" vid="83">
+                    <div style="display:flex; align-items:center; gap:12px;" vid="84">
+                        <span class="label" style="margin:0;" vid="85">VOTO:</span>
+                        <span class="vote-badge badge-contra" vid="86">CONTRÁRIO</span>
+                    </div>
+                    <div class="label" style="margin:0; color: var(--text-muted);" vid="87">ALINHADO AO PARTIDO</div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+</body></html>

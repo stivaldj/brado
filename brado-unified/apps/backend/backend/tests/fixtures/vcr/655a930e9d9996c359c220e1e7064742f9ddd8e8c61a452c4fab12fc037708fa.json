@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 222565,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/222565",
+      "nomeCivil": "NOELIO DA ROCHA OLIVEIRA",
+      "ultimoStatus": {
+        "id": 222565,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/222565",
+        "nome": "Soldado Noelio",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": null,
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/222565.jpg",
+        "email": null,
+        "data": "2026-02-11",
+        "nomeEleitoral": "Soldado Noelio",
+        "gabinete": {
+          "nome": "711",
+          "predio": "4",
+          "sala": "711",
+          "andar": "7",
+          "telefone": "3215-5711",
+          "email": "dep.soldadonoelio@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "00049446312",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1985-04-16",
+      "dataFalecimento": null,
+      "ufNascimento": "CE",
+      "municipioNascimento": "Caucaia",
+      "escolaridade": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/222565"
+      }
+    ]
+  }
+}

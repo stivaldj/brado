@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 77003,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/77003",
+      "nomeCivil": "SERGIO AUGUSTO SANTOS RODRIGUES",
+      "ultimoStatus": {
+        "id": 77003,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/77003",
+        "nome": "Sergio Santos Rodrigues",
+        "siglaPartido": "PODE",
+        "uriPartido": null,
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/77003.jpg",
+        "email": null,
+        "data": "2025-11-18",
+        "nomeEleitoral": "Sergio Santos Rodrigues",
+        "gabinete": {
+          "nome": "943",
+          "predio": "4",
+          "sala": "943",
+          "andar": "9",
+          "telefone": "3215-5943",
+          "email": "dep.sergiosantosrodrigues@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "01403754659",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1982-09-16",
+      "dataFalecimento": null,
+      "ufNascimento": "MG",
+      "municipioNascimento": "Carangola",
+      "escolaridade": "Doutorado Incompleto"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/77003"
+      }
+    ]
+  }
+}

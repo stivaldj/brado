@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2484224-23",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2484224-23",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T14:39:10",
+      "siglaOrgao": "CCOM",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539385",
+      "idOrgao": 539385,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80772",
+      "idEvento": 80772,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-12-10T17:19:54",
+        "descricao": "Parecer do Relator, Dep. Gervásio Maia (PSB-PB), pela aprovação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2595648"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2595648,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2595648",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Gervásio Maia (PSB-PB), pela aprovação.",
+          "dataApresentacao": "2025-12-10T10:48"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2484224,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484224",
+          "siglaTipo": "TVR",
+          "codTipo": 425,
+          "numero": 116,
+          "ano": 2025,
+          "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 408, de 4 de maio de 2010, publicada no Diário Oficial da União de 7 de maio de 2010, que outorga permissão à Som da Ilha Comércio e Produções Ltda-ME, para explorar, pelo prazo de dez anos, sem direito de exclusividade, o serviço de radiodifusão sonora em frequência modulada, no Município de Palmares Paulista, Estado de São Paulo.",
+          "dataApresentacao": "2025-02-17T16:45"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2484224-23"
+      }
+    ]
+  }
+}

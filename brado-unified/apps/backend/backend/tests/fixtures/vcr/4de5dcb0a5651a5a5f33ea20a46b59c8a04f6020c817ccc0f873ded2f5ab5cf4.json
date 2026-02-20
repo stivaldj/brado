@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 234388,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234388",
+      "nomeCivil": "FABIANO LOPES FERREIRA CAZECA",
+      "ultimoStatus": {
+        "id": 234388,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234388",
+        "nome": "Fabiano Cazeca",
+        "siglaPartido": "PRD",
+        "uriPartido": null,
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234388.jpg",
+        "email": null,
+        "data": "2025-10-30",
+        "nomeEleitoral": "Fabiano Cazeca",
+        "gabinete": {
+          "nome": "323",
+          "predio": "4",
+          "sala": "323",
+          "andar": "3",
+          "telefone": "3215-5323",
+          "email": "dep.fabianocazeca@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "27576965649",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1954-11-06",
+      "dataFalecimento": null,
+      "ufNascimento": "MG",
+      "municipioNascimento": "Itapecerica",
+      "escolaridade": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/234388"
+      }
+    ]
+  }
+}

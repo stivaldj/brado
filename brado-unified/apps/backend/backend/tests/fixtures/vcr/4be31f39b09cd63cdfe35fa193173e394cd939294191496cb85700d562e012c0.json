@@ -1,0 +1,53 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 80815,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80815",
+      "nomeCivil": "LEONARDO SILVA PRATES",
+      "ultimoStatus": {
+        "id": 80815,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/80815",
+        "nome": "Leo Prates",
+        "siglaPartido": "PDT",
+        "uriPartido": null,
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/80815.jpg",
+        "email": null,
+        "data": "2023-02-01",
+        "nomeEleitoral": "Leo Prates",
+        "gabinete": {
+          "nome": "646",
+          "predio": "4",
+          "sala": "646",
+          "andar": "6",
+          "telefone": "3215-5646",
+          "email": "dep.leoprates@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": null
+      },
+      "cpf": "94328145568",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/LeonardoPrates4",
+        "https://www.facebook.com/leo.prates.7",
+        "https://www.instagram.com/leoprates"
+      ],
+      "dataNascimento": "1978-04-05",
+      "dataFalecimento": null,
+      "ufNascimento": "BA",
+      "municipioNascimento": "Salvador",
+      "escolaridade": "Pós-Graduação"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/80815"
+      }
+    ]
+  }
+}

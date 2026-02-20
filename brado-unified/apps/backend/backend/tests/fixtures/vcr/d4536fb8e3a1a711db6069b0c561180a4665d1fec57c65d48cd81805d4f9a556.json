@@ -1,0 +1,81 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2600436-6",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600436-6",
+      "data": "2026-02-03",
+      "dataHoraRegistro": "2026-02-03T13:30:59",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80928",
+      "idEvento": 80928,
+      "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600426",
+          "tituloProposicao": "PL 179/2026",
+          "descResultado": "Aprovado o requerimento nº 131/2026,do Sr. Antonio Brito, que solicita urgência (art. 155) para o PL 179/2026.",
+          "dataHoraResultado": "2026-02-03T12:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600426",
+          "tituloProposicao": "PL 179/2026",
+          "descResultado": "Realizar o encaminhamento do PL-179/2026 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-03T12:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2600436,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600436",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 131,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime de urgência do Projeto de Lei n° 179 , de 2026.",
+          "dataApresentacao": "2026-02-03T12:46"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2600426,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600426",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 179,
+          "ano": 2026,
+          "ementa": "Dispõe sobre a modernização da Carreira Legislativa da Câmara dos Deputados, sobre a reestruturação da remuneração com base em critérios de desempenho, competências, metas, resultados, qualificação, crescimento profissional e dedicação contínua e dá outras providências.",
+          "dataApresentacao": "2026-02-03T12:41"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600436-6"
+      }
+    ]
+  }
+}

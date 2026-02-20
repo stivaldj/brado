@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601107-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601107-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:46:54",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 3/2026 (Requerimento de Voto de regozijo ou louvor), pelo Deputado Cabo Gilberto Silva (PL/PB), que \"Voto de Louvor ao Soldado Josivan Soares da Silva Júnior, matrícula 529969-1, da Polícia Militar da Paraíba, em reconhecimento à sua atuação diligente, corajosa e exemplar no combate ao crime e na pronta resposta à sociedade\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601107,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601107",
+          "siglaTipo": "REQ",
+          "codTipo": 354,
+          "numero": 3,
+          "ano": 2026,
+          "ementa": "Voto de Louvor ao Soldado Josivan Soares da Silva Júnior, matrícula 529969-1, da Polícia Militar da Paraíba, em reconhecimento à sua atuação diligente, corajosa e exemplar no combate ao crime e na pronta resposta à sociedade.",
+          "dataApresentacao": "2026-02-04T13:36"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601107-2"
+      }
+    ]
+  }
+}

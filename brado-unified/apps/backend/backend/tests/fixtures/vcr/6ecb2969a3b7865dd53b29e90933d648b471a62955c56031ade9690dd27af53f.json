@@ -1,0 +1,136 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2485911-29",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2485911-29",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T20:59:48",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 756, de 2025, adotado pelo relator da Comissão de Cultura.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação em turno único.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-09T20:59:21",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-09T20:52:22",
+        "descricao": "Parecer proferido em Plenário pelo Relator, Dep. Romero Rodrigues (PODE-PB) pela:\r\n• Comissão de Cultura, que conclui pela aprovação do Projeto de Lei nº 756, de 2025, na forma do Substitutivo adotado.\r\n• Comissão de Turismo, que conclui pela aprovação do Projeto de Lei nº 756, de 2025, na forma do Substitutivo adotado pelo relator da Comissão de Cultura.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 756, de 2025 e do Substitutivo adotado pelo relator da Comissão de Cultura.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601788"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601787,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601787",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "",
+          "dataApresentacao": "2026-02-09T20:51"
+        },
+        {
+          "id": 2601738,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601738",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 756/2025",
+          "dataApresentacao": "2026-02-09T18:55"
+        },
+        {
+          "id": 2601724,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601724",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 756/2025",
+          "dataApresentacao": "2026-02-09T18:44"
+        },
+        {
+          "id": 2601726,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601726",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - PL 756/2025",
+          "dataApresentacao": "2026-02-09T18:44"
+        },
+        {
+          "id": 2601664,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601664",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 756/2025",
+          "dataApresentacao": "2026-02-09T17:20"
+        },
+        {
+          "id": 2601665,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601665",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 756/2025-Requerimento de Retirada de Matéria da Pauta - PL 756/2025",
+          "dataApresentacao": "2026-02-09T17:20"
+        },
+        {
+          "id": 2601788,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601788",
+          "siglaTipo": "PPP",
+          "codTipo": 192,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Romero Rodrigues (PODE-PB) pela: • Comissão de Cultura, que conclui pela aprovação do Projeto de Lei nº 756, de 2025, na forma do Substitutivo adotado. • Comissão de Turismo, que conclui pela aprovação do Projeto de Lei nº 756, de 2025, na forma do Substitutivo adotado pelo relator da Comissão de Cultura. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 756, de 2025 e do Substitutivo adotado pelo relator da Comissão de Cultura.",
+          "dataApresentacao": "2026-02-09T17:00"
+        },
+        {
+          "id": 2601539,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601539",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Institui e reconhece o município de Campina Grande, no Estado da Paraíba, como a cidade que reúne o maior número de famílias cristãs no período do Carnaval no Brasil, em razão de eventos cristãos.",
+          "dataApresentacao": "2026-02-09T15:19"
+        },
+        {
+          "id": 2601246,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601246",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 289,
+          "ano": 2026,
+          "ementa": "Requer urgência para o PL 756/2025, que institui e reconhece o município de Campina Grande, no Estado da Paraíba, como a cidade que reúne o maior número de famílias cristãs no período do Carnaval no Brasil, em razão de eventos cristãos.",
+          "dataApresentacao": "2026-02-06T12:48"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2485911,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2485911",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 756,
+          "ano": 2025,
+          "ementa": "Institui e reconhece o município de Campina Grande, no Estado da Paraíba, como a cidade que reúne o maior número de famílias cristãs no período do Carnaval no Brasil, em razão de eventos cristãos.",
+          "dataApresentacao": "2025-03-06T13:02"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2485911-29"
+      }
+    ]
+  }
+}

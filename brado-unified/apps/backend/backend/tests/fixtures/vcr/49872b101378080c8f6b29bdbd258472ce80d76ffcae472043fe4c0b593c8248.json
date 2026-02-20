@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601254-4",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601254-4",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:38:26",
+      "siglaOrgao": "CTRAB",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "idOrgao": 2015,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80995",
+      "idEvento": 80995,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 1/2026 (Requerimento de Audiência Pública), pela Deputado(a)a Erika Kokay (PT-DF), que: \"Requer a realização de audiência pública para discutir a reestruturação em curso no Banco do Brasil e seus  impactos sobre os(as) bancários (as) e serviços da instituição\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601254,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601254",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Requer a realização de audiência pública para discutir a reestruturação em curso no Banco do Brasil e seus  impactos sobre os(as) bancários (as) e serviços da instituição.",
+          "dataApresentacao": "2026-02-05T17:44"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601254-4"
+      }
+    ]
+  }
+}

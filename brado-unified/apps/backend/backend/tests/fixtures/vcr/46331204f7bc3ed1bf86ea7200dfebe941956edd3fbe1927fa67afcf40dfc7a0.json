@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2540857-26",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2540857-26",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:59:39",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-12-02T15:38:34",
+        "descricao": "Parecer do Relator, Dep. Coronel Chrisóstomo (PL-RO), pela aprovação deste, com substitutivo.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2590145"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2590146,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2590146",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Minas), e a Lei nº 9.605, de 12 de fevereiro de 1998, para vedar a destruição de bens de alto valor apreendidos em ilícitos ambientais relacionados à mineração ilegal e estabelecer critérios para sua destinação social e econômica.",
+          "dataApresentacao": "2025-12-02T13:26"
+        },
+        {
+          "id": 2590145,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2590145",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Coronel Chrisóstomo (PL-RO), pela aprovação deste, com substitutivo.",
+          "dataApresentacao": "2025-12-02T13:26"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2540857,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2540857",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 3758,
+          "ano": 2025,
+          "ementa": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1976 (Código de Mineração), e o Decreto nº 6.514, 22 de julho de 2008, para vedar a destruição de bens de alto valor apreendidos em ilícitos ambientais relacionados à mineração ilegal e estabelecer critérios para sua destinação social e econômica.",
+          "dataApresentacao": "2025-08-06T12:20"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2540857-26"
+      }
+    ]
+  }
+}

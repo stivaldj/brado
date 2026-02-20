@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2537342-23",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2537342-23",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T16:15:17",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Iniciada a Votação da Matéria.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-10T16:15:03",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-05T14:51:01",
+        "descricao": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601146"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601146,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601146",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Delegado Paulo Bilynskyj (PL-SP), pela aprovação.",
+          "dataApresentacao": "2025-12-20T12:50"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2537342,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2537342",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 3471,
+          "ano": 2025,
+          "ementa": "Dispõe sobre a criação de incentivos fiscais às empresas de segurança privada que invistam em capacitação continuada, atualização tecnológica e boas práticas de governança, e sobre sua inclusão em políticas públicas de segurança e formação profissional.",
+          "dataApresentacao": "2025-07-16T14:48"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2537342-23"
+      }
+    ]
+  }
+}

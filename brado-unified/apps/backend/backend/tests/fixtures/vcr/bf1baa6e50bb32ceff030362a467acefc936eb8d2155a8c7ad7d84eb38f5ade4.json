@@ -1,0 +1,128 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2600277-9",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600277-9",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T22:15:45",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81011",
+      "idEvento": 81011,
+      "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "tituloProposicao": "PL 6132/2025",
+          "descResultado": "Aprovado o requerimento nº 95/2026,do Sr. José Guimarães, que solicita urgência (art. 155) para o PL 6132/2025.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "tituloProposicao": "PL 6132/2025",
+          "descResultado": "Realizar o encaminhamento do PL-6132/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "tituloProposicao": "PL 6132/2025",
+          "descResultado": "Realizar o encaminhamento do PL-6132/2025 à CE (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "tituloProposicao": "PL 6132/2025",
+          "descResultado": "Realizar o encaminhamento do PL-6132/2025 à CFT (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "tituloProposicao": "PL 6132/2025",
+          "descResultado": "Realizar o encaminhamento do PL-6132/2025 à CPOVOS (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "tituloProposicao": "PL 6132/2025",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 95/2026.",
+          "dataHoraResultado": "2026-02-10T16:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [],
+      "proposicoesAfetadas": [
+        {
+          "id": 2591970,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591970",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6132,
+          "ano": 2025,
+          "ementa": "Cria a Universidade Federal Indígena.",
+          "dataApresentacao": "2025-12-03T12:53"
+        },
+        {
+          "id": 2600277,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600277",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 95,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei nº 6.132, de 2025.",
+          "dataApresentacao": "2026-02-02T18:39"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600277-9"
+      }
+    ]
+  }
+}

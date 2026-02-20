@@ -1,0 +1,105 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601680-7",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601680-7",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T19:33:40",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484092",
+          "tituloProposicao": "PL 481/2025",
+          "descResultado": "Aprovado o requerimento nº 314/2026,da Sra. Jack Rocha, que solicita urgência (art. 155) para o PL 481/2025.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484092",
+          "tituloProposicao": "PL 481/2025",
+          "descResultado": "Realizar o encaminhamento do PL-481/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484092",
+          "tituloProposicao": "PL 481/2025",
+          "descResultado": "Realizar o encaminhamento do PL-481/2025 à CFT (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484092",
+          "tituloProposicao": "PL 481/2025",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 314/2026.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2601680,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601680",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 314,
+          "ano": 2026,
+          "ementa": "Com base no art. 155 do Regimento Interno, requeremos regime de urgência para a apreciação do PL 481/2025.",
+          "dataApresentacao": "2026-02-09T18:01"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2484092,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484092",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 481,
+          "ano": 2025,
+          "ementa": "Dispõe sobre a obrigatoriedade de campanhas informativas e educativas permanentes sobre Violência Doméstica e Familiar contra a Mulher, nos termos da Lei nº 11.340, de 2006 (Lei Maria da Penha), e dá outras providências.",
+          "dataApresentacao": "2025-02-17T13:38"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601680-7"
+      }
+    ]
+  }
+}

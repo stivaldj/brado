@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2345500-48",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2345500-48",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T22:31:04",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado o Projeto de Lei nº 509, de 2020.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Votação em turno único.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-09T22:27:59",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do Projeto de Lei n. 509/2020, pelo Senado Federal, que \"Institui a Semana Nacional de Retiros Culturais\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601672,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601672",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 509/2020",
+          "dataApresentacao": "2026-02-09T17:20"
+        },
+        {
+          "id": 2601674,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601674",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 509/2020-Requerimento de Retirada de Matéria da Pauta - PL 509/2020",
+          "dataApresentacao": "2026-02-09T17:20"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2345500,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2345500",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 509,
+          "ano": 2020,
+          "ementa": "Institui a Semana Nacional de Retiros Culturais.",
+          "dataApresentacao": "2023-01-03T13:05"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2345500-48"
+      }
+    ]
+  }
+}

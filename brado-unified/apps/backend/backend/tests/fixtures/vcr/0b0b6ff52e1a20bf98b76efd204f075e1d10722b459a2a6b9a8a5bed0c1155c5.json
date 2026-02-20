@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601425-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601425-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:46:55",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 15/2026 (Requerimento para envio de Indicação pela Comissão), pelo Deputado Evair Vieira de Melo (PP/ES), que \"Requer o encaminhamento de Indicação à Procuradoria-Geral da República para sugerir a adoção de providências destinadas à apuração da regularidade dos protocolos de segurança e de assistência à saúde aplicados ao ex-Presidente da República Jair Messias Bolsonaro na unidade prisional do Distrito Federal\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601425,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601425",
+          "siglaTipo": "REQ",
+          "codTipo": 1016,
+          "numero": 15,
+          "ano": 2026,
+          "ementa": "Requer o encaminhamento de Indicação à Procuradoria-Geral da República para sugerir a adoção de providências destinadas à apuração da regularidade dos protocolos de segurança e de assistência à saúde aplicados ao ex-Presidente da República Jair Messias Bolsonaro na unidade prisional do Distrito Federal.",
+          "dataApresentacao": "2026-02-09T10:19"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601425-2"
+      }
+    ]
+  }
+}

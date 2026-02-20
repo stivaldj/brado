@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2596244-3",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2596244-3",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:28:15",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 140/2025 (Requerimento de Audiência Pública), pelo Deputado Paulo Guedes (PT/MG -Fdr PT-PCdoB-PV), que \"Requer a realização de audiência pública na Comissão de Minas e Energia da Câmara dos Deputados para tratar da busca por alternativas de financiamento ao setor de energia renovável em virtude do curtailment\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2596244,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596244",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 140,
+          "ano": 2025,
+          "ementa": "Requer a realização de audiência pública na Comissão de Minas e Energia da Câmara dos Deputados para tratar da busca por alternativas de financiamento ao setor de energia renovável em virtude do curtailment.",
+          "dataApresentacao": "2025-12-11T17:19"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2596244-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601419-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601419-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:46:55",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 11/2026 (Requerimento de Voto de regozijo ou louvor), pelo Deputado Coronel Meira (PL/PE), que \"Requer a aprovação de Moção de Louvor e Aplausos ao Desembargador Francisco José dos Anjos Bandeira de Mello, Presidente do Tribunal de Justiça de Pernambuco, pela continuidade e fortalecimento do Núcleo de Informações Estratégicas e Cumprimento de Ordens Judiciais (NIOJ)\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601419,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601419",
+          "siglaTipo": "REQ",
+          "codTipo": 354,
+          "numero": 11,
+          "ano": 2026,
+          "ementa": "Requer a aprovação de Moção de Louvor e Aplausos ao Desembargador Francisco José dos Anjos Bandeira de Mello, Presidente do Tribunal de Justiça de Pernambuco, pela continuidade e fortalecimento do Núcleo de Informações Estratégicas e Cumprimento de Ordens Judiciais (NIOJ).",
+          "dataApresentacao": "2026-02-06T20:07"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601419-2"
+      }
+    ]
+  }
+}

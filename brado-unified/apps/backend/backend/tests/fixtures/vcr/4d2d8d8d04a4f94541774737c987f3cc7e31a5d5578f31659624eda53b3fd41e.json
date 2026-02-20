@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601255-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601255-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:38:07",
+      "siglaOrgao": "CTRAB",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "idOrgao": 2015,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80995",
+      "idEvento": 80995,
+      "descricao": "Aprovado o Requerimento, com incluisão de convidado (DIEESE).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 2/2026 (Requerimento de Audiência Pública), pela Deputada Flávia Morais (PDT/GO), que \"Requer realização de Audiência Pública para discussão do tema: Trabalho Remoto - Contexto pós-pandemia e novas dinâmicas laborais\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601255,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601255",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 2,
+          "ano": 2026,
+          "ementa": "Requer realização de Audiência Pública para discussão do tema: Trabalho Remoto - Contexto pós-pandemia e novas dinâmicas laborais.",
+          "dataApresentacao": "2026-02-05T09:32"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601255-2"
+      }
+    ]
+  }
+}

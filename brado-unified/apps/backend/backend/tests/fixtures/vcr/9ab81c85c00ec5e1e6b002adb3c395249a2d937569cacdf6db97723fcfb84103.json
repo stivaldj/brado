@@ -1,0 +1,576 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2566155-60",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2566155-60",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T15:13:55",
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "idOrgao": 4,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Retirado o REQ n. 5237/2025, em razão do deferimento do Requerimento n. REQ 5305/2025, nos termos do artigo 104, caput, combinado com o artigo 114, VII, ambos do RICD.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 4128/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado André Figueiredo (PDT/CE), que \"Solicito a retirada de minha assinatura da proposição EMC 6 PEC01825 => PEC 18/2025, de autoria da Deputada Laura Carneiro \".",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567266"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2567389,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567389",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4133,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°06 à PEC 18/2025",
+          "dataApresentacao": "2025-10-03T16:16"
+        },
+        {
+          "id": 2567266,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567266",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4128,
+          "ano": 2025,
+          "ementa": "Solicito a retirada de minha assinatura da proposição EMC 6 PEC01825 => PEC 18/2025, de autoria da Deputada Laura Carneiro .",
+          "dataApresentacao": "2025-10-03T10:15"
+        },
+        {
+          "id": 2567255,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567255",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4127,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T20:28"
+        },
+        {
+          "id": 2567246,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567246",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4125,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T18:38"
+        },
+        {
+          "id": 2567245,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567245",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4124,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura da Emenda de Comissão nº 6 à PEC nº 18, de 2025, que altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+          "dataApresentacao": "2025-10-02T18:32"
+        },
+        {
+          "id": 2567244,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567244",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4123,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T18:21"
+        },
+        {
+          "id": 2567238,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567238",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4121,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à emenda n.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T17:55"
+        },
+        {
+          "id": 2567232,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567232",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4120,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA nº 06 (CD254321700300) à PEC nº 18 de 2025.",
+          "dataApresentacao": "2025-10-02T17:46"
+        },
+        {
+          "id": 2567229,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567229",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4118,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T16:58"
+        },
+        {
+          "id": 2567212,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567212",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4115,
+          "ano": 2025,
+          "ementa": "Requerimento de Retirada de Assinatura - EMC-6 - PEC 18/2025",
+          "dataApresentacao": "2025-10-02T15:49"
+        },
+        {
+          "id": 2567211,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567211",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4114,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T15:46"
+        },
+        {
+          "id": 2567210,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567210",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4113,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T15:46"
+        },
+        {
+          "id": 2567209,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567209",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4112,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T15:38"
+        },
+        {
+          "id": 2567200,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567200",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4110,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T15:35"
+        },
+        {
+          "id": 2567197,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567197",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4108,
+          "ano": 2025,
+          "ementa": "Requerimento de Retirada de Assinatura - EMC-6 - PEC 18/2025",
+          "dataApresentacao": "2025-10-02T15:30"
+        },
+        {
+          "id": 2567193,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567193",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4107,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 (CD254321700300) à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T15:22"
+        },
+        {
+          "id": 2567143,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567143",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4104,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T14:20"
+        },
+        {
+          "id": 2567126,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567126",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4101,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025",
+          "dataApresentacao": "2025-10-02T13:41"
+        },
+        {
+          "id": 2567115,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567115",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4100,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T13:32"
+        },
+        {
+          "id": 2567110,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567110",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4099,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025",
+          "dataApresentacao": "2025-10-02T13:21"
+        },
+        {
+          "id": 2567075,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567075",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4096,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à “Emenda n° 06” à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T12:09"
+        },
+        {
+          "id": 2567064,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567064",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4095,
+          "ano": 2025,
+          "ementa": "Requer a retirada de assinatura das Emendas 3, 5, 6  à PEC 18/2025",
+          "dataApresentacao": "2025-10-02T12:02"
+        },
+        {
+          "id": 2567059,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567059",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4094,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T11:57"
+        },
+        {
+          "id": 2567057,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567057",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4093,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T11:54"
+        },
+        {
+          "id": 2567019,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567019",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4091,
+          "ano": 2025,
+          "ementa": "Solicita a retirada de apoiamento à EMC nº 06 à Proposta de Emenda à Constituição (PEC) nº 18/2025.",
+          "dataApresentacao": "2025-10-02T11:42"
+        },
+        {
+          "id": 2567010,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567010",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4089,
+          "ano": 2025,
+          "ementa": "Requer retirada de assinatura em apoio a emenda n. 06 à PEC 18/2025.",
+          "dataApresentacao": "2025-10-02T11:31"
+        },
+        {
+          "id": 2567006,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567006",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4088,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA nº 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T11:30"
+        },
+        {
+          "id": 2566985,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566985",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4087,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 (EMC 6) à PEC nº 18 de 2025.",
+          "dataApresentacao": "2025-10-02T11:10"
+        },
+        {
+          "id": 2566984,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566984",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4086,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T11:02"
+        },
+        {
+          "id": 2566983,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566983",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4085,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T11:02"
+        },
+        {
+          "id": 2566978,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566978",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4083,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.º 06, à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T10:48"
+        },
+        {
+          "id": 2566968,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566968",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4081,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.º 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T10:40"
+        },
+        {
+          "id": 2566954,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566954",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4079,
+          "ano": 2025,
+          "ementa": "Requer a retirada de assinatura da Emenda 6 (EMC 6) da PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T10:19"
+        },
+        {
+          "id": 2566952,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566952",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4078,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T10:07"
+        },
+        {
+          "id": 2566947,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566947",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4077,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T10:06"
+        },
+        {
+          "id": 2566946,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566946",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4076,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA nº 06 à PEC 18/2025.",
+          "dataApresentacao": "2025-10-02T10:00"
+        },
+        {
+          "id": 2566944,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566944",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4075,
+          "ano": 2025,
+          "ementa": "Requerimento de Retirada de Assinatura - PEC 18/2025-CD254321700300",
+          "dataApresentacao": "2025-10-02T09:53"
+        },
+        {
+          "id": 2566940,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566940",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4074,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025",
+          "dataApresentacao": "2025-10-02T09:42"
+        },
+        {
+          "id": 2566939,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566939",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4073,
+          "ano": 2025,
+          "ementa": "Requer retirada de assinatura em apoio a emenda n. 06 à PEC 18/2025.",
+          "dataApresentacao": "2025-10-02T09:17"
+        },
+        {
+          "id": 2566935,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566935",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4072,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T09:15"
+        },
+        {
+          "id": 2566934,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566934",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4071,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-02T09:11"
+        },
+        {
+          "id": 2566928,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566928",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4070,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025",
+          "dataApresentacao": "2025-10-01T23:24"
+        },
+        {
+          "id": 2566927,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566927",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4069,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N. 06 à PEC 18 de 2025",
+          "dataApresentacao": "2025-10-01T23:12"
+        },
+        {
+          "id": 2566923,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566923",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4068,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-01T22:54"
+        },
+        {
+          "id": 2566919,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566919",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4067,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025",
+          "dataApresentacao": "2025-10-01T22:31"
+        },
+        {
+          "id": 2566918,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566918",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4066,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-01T22:11"
+        },
+        {
+          "id": 2566914,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566914",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4065,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-01T21:38"
+        },
+        {
+          "id": 2566912,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566912",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4064,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-01T21:25"
+        },
+        {
+          "id": 2566911,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566911",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4063,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA N.° 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-01T21:24"
+        },
+        {
+          "id": 2566907,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566907",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4062,
+          "ano": 2025,
+          "ementa": "Requerimento de Retirada de Assinatura – Emenda nº 6 - PEC 18/2025, que dispõe sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+          "dataApresentacao": "2025-10-01T21:12"
+        },
+        {
+          "id": 2566792,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566792",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4059,
+          "ano": 2025,
+          "ementa": "Requer  a retirada de assinatura da Emenda 6 (EMC 6) da PEC 18 de 2005",
+          "dataApresentacao": "2025-10-01T20:22"
+        },
+        {
+          "id": 2566617,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566617",
+          "siglaTipo": "REQ",
+          "codTipo": 310,
+          "numero": 4039,
+          "ano": 2025,
+          "ementa": "Requerimento de retirada de assinatura em apoio à EMENDA n°. 06 à PEC 18 de 2025.",
+          "dataApresentacao": "2025-10-01T17:44"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2500080,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2500080",
+          "siglaTipo": "PEC",
+          "codTipo": 136,
+          "numero": 18,
+          "ano": 2025,
+          "ementa": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+          "dataApresentacao": "2025-04-24T08:51"
+        },
+        {
+          "id": 2566155,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566155",
+          "siglaTipo": "EMC",
+          "codTipo": 130,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+          "dataApresentacao": "2025-09-30T22:03"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2566155-60"
+      }
+    ]
+  }
+}

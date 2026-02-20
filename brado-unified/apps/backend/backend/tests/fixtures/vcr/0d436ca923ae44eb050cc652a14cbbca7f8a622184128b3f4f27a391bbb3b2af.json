@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601048-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601048-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:48:21",
+      "siglaOrgao": "CPD",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/537480",
+      "idOrgao": 537480,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80998",
+      "idEvento": 80998,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 1/2026 (Requerimento para realização ou participação em Seminário, Visita Técnica ou outro Evento), pelos Deputada Silvia Cristina (PP/RO) e Deputado Geraldo Resende PSDB      , que \"Requer a realização de Seminário, com o tema “Pacientes com câncer: Como tratar com humanidade?” no âmbito desta Comissão de Defesa dos Direitos das Pessoas com Deficiência em conjunto com a Comissão de Saúde.    \".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601048,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601048",
+          "siglaTipo": "REQ",
+          "codTipo": 686,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Requer a realização de Seminário, com o tema “Pacientes com câncer: Como tratar com humanidade?” no âmbito desta Comissão de Defesa dos Direitos das Pessoas com Deficiência em conjunto com a Comissão de Saúde.",
+          "dataApresentacao": "2026-02-05T10:00"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601048-2"
+      }
+    ]
+  }
+}

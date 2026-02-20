@@ -1,0 +1,81 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601510-8",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601510-8",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T19:24:07",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600089",
+          "tituloProposicao": "PL 41/2026",
+          "descResultado": "Aprovado o requerimento nº 305/2026,da Sra. Rosana Valle, que solicita urgência (art. 155) para o PL 41/2026.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600089",
+          "tituloProposicao": "PL 41/2026",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 305/2026.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2601510,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601510",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 305,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime de urgência do Projeto de Lei nº 41, de 2026.",
+          "dataApresentacao": "2026-02-09T14:18"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2600089,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600089",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 41,
+          "ano": 2026,
+          "ementa": "Altera o art. 122 da Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para prever a possibilidade de aplicação da medida socioeducativa de internação nos casos de ato infracional praticado com extrema crueldade contra a vida de animal não humano.",
+          "dataApresentacao": "2026-02-02T11:19"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601510-8"
+      }
+    ]
+  }
+}

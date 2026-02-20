@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 204416,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204416",
+      "nomeCivil": "UBIRATAN ANTUNES SANDERSON",
+      "ultimoStatus": {
+        "id": 204416,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204416",
+        "nome": "Sanderson",
+        "siglaPartido": "PL",
+        "uriPartido": null,
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
+        "email": null,
+        "data": "2023-02-01",
+        "nomeEleitoral": "Sanderson",
+        "gabinete": {
+          "nome": "354",
+          "predio": "4",
+          "sala": "354",
+          "andar": "3",
+          "telefone": "3215-5354",
+          "email": "dep.sanderson@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": null
+      },
+      "cpf": "49941720053",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/DepSanderson",
+        "https://www.facebook.com/deputadosanderson",
+        "https://www.instagram.com/deputadosanderson",
+        "https://youtube.com/channel/UC3bESW2nMM1EW-in7OwlKwg?view_as=subscriber"
+      ],
+      "dataNascimento": "1969-12-01",
+      "dataFalecimento": null,
+      "ufNascimento": "RS",
+      "municipioNascimento": "Erechim",
+      "escolaridade": "Pós-Graduação"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204416"
+      }
+    ]
+  }
+}

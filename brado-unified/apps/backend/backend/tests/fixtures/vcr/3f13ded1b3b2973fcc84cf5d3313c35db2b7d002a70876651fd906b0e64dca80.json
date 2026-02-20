@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "body": {
+    "dados": [],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601808-2/votos"
+      }
+    ]
+  }
+}

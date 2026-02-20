@@ -1,0 +1,105 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601246-7",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601246-7",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T19:12:55",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2485911",
+          "tituloProposicao": "PL 756/2025",
+          "descResultado": "Aprovado o requerimento nº 289/2026,do Sr. Rodrigo Gambale e outros, que solicita urgência (art. 155) para o PL 756/2025.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2485911",
+          "tituloProposicao": "PL 756/2025",
+          "descResultado": "Realizar o encaminhamento do PL-756/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2485911",
+          "tituloProposicao": "PL 756/2025",
+          "descResultado": "Realizar o encaminhamento do PL-756/2025 à CTUR (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2485911",
+          "tituloProposicao": "PL 756/2025",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 289/2026.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2601246,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601246",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 289,
+          "ano": 2026,
+          "ementa": "Requer urgência para o PL 756/2025, que institui e reconhece o município de Campina Grande, no Estado da Paraíba, como a cidade que reúne o maior número de famílias cristãs no período do Carnaval no Brasil, em razão de eventos cristãos.",
+          "dataApresentacao": "2026-02-06T12:48"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2485911,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2485911",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 756,
+          "ano": 2025,
+          "ementa": "Institui e reconhece o município de Campina Grande, no Estado da Paraíba, como a cidade que reúne o maior número de famílias cristãs no período do Carnaval no Brasil, em razão de eventos cristãos.",
+          "dataApresentacao": "2025-03-06T13:02"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601246-7"
+      }
+    ]
+  }
+}

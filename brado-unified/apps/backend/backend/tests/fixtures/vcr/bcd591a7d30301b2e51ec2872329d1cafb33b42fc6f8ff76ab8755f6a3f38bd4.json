@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601104-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601104-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:46:53",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 1/2026 (Requerimento de Voto de regozijo ou louvor), pelo Deputado Cabo Gilberto Silva (PL/PB), que \"Voto de Louvor ao Cabo Jonatas Randolph de Lima Diniz, matrícula 528937-8, da Polícia Militar da Paraíba\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601104,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601104",
+          "siglaTipo": "REQ",
+          "codTipo": 354,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Voto de Louvor ao Cabo Jonatas Randolph de Lima Diniz, matrícula 528937-8, da Polícia Militar da Paraíba.",
+          "dataApresentacao": "2026-02-04T13:36"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601104-2"
+      }
+    ]
+  }
+}

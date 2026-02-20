@@ -1,0 +1,186 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2482665-25",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482665-25",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T17:37:38",
+      "siglaOrgao": "CREDN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+      "idOrgao": 2018,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80990",
+      "idEvento": 80990,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-11-06T17:38:20",
+        "descricao": "Parecer do Relator, Dep. General Girão (PL-RN), pela aprovação, com Emenda.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582494"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601994,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601994",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2601995,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601995",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2601997,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601997",
+          "siglaTipo": "RPD",
+          "codTipo": 329,
+          "numero": 11,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão - PL 206/2025",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2601998,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601998",
+          "siglaTipo": "RPD",
+          "codTipo": 336,
+          "numero": 12,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação",
+          "dataApresentacao": "2026-02-10T15:03"
+        },
+        {
+          "id": 2594807,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594807",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2594828,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594828",
+          "siglaTipo": "RPD",
+          "codTipo": 329,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão - PL 206/2025",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2594844,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594844",
+          "siglaTipo": "RPD",
+          "codTipo": 336,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2594872,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594872",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal",
+          "dataApresentacao": "2025-12-10T08:30"
+        },
+        {
+          "id": 2588145,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588145",
+          "siglaTipo": "RPD",
+          "codTipo": 329,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão - PL 206/2025",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2588152,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588152",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2588160,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588160",
+          "siglaTipo": "RPD",
+          "codTipo": 336,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação - PL 206/2025",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2588165,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588165",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal",
+          "dataApresentacao": "2025-11-26T08:57"
+        },
+        {
+          "id": 2587808,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2587808",
+          "siglaTipo": "EMR",
+          "codTipo": 257,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "",
+          "dataApresentacao": "2025-11-25T20:42"
+        },
+        {
+          "id": 2582494,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2582494",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. General Girão (PL-RN), pela aprovação, com Emenda.",
+          "dataApresentacao": "2025-11-05T12:26"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2482665,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2482665",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 206,
+          "ano": 2025,
+          "ementa": "Institui a Lei de Garantia Operacional dos Agentes de Segurança Pública, alterando o Código de Processo Penal para disciplinar a decretação de prisão preventiva ou medidas cautelares contra integrantes das Forças Armadas, das forças de segurança pública, do sistema prisional e da Força Nacional de Segurança Pública, nos casos de crimes praticados no exercício da função ou em razão dela.",
+          "dataApresentacao": "2025-02-04T11:01"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482665-25"
+      }
+    ]
+  }
+}

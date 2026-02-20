@@ -1,0 +1,55 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 226708,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+      "nomeCivil": "ALLAN QUADROS GARCÊS",
+      "ultimoStatus": {
+        "id": 226708,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708",
+        "nome": "Allan Garcês",
+        "siglaPartido": "PP",
+        "uriPartido": null,
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226708.jpg",
+        "email": null,
+        "data": "2025-11-17",
+        "nomeEleitoral": "Allan Garcês",
+        "gabinete": {
+          "nome": "558",
+          "predio": "4",
+          "sala": "558",
+          "andar": "5",
+          "telefone": "3215-5558",
+          "email": "dep.allangarces@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "29222001249",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/AllanGarcs1",
+        "https://www.facebook.com/AllanGarcês",
+        "https://www.facebook.com/allangarcesoficial",
+        "https://www.instagram.com/allan.garces",
+        "https://youtube.com/channel/UCarcImE3nnhmisi8RRbdm-w"
+      ],
+      "dataNascimento": "1969-08-30",
+      "dataFalecimento": null,
+      "ufNascimento": "PA",
+      "municipioNascimento": "Belém",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/226708"
+      }
+    ]
+  }
+}

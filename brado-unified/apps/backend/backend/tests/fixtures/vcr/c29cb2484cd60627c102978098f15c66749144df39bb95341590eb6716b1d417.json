@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 204374,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204374",
+      "nomeCivil": "BEATRIZ KICIS TORRENTS DE SORDI",
+      "ultimoStatus": {
+        "id": 204374,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204374",
+        "nome": "Bia Kicis",
+        "siglaPartido": "PL",
+        "uriPartido": null,
+        "siglaUf": "DF",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
+        "email": null,
+        "data": "2023-02-01",
+        "nomeEleitoral": "Bia Kicis",
+        "gabinete": {
+          "nome": "309",
+          "predio": "4",
+          "sala": "309",
+          "andar": "3",
+          "telefone": "3215-5309",
+          "email": "dep.biakicis@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": null
+      },
+      "cpf": "38567792134",
+      "sexo": "F",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/biakicis",
+        "https://www.facebook.com/biakicis",
+        "https://www.instagram.com/biakicis",
+        "https://youtube.com/biakicis"
+      ],
+      "dataNascimento": "1961-09-19",
+      "dataFalecimento": null,
+      "ufNascimento": "RJ",
+      "municipioNascimento": "Resende",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204374"
+      }
+    ]
+  }
+}

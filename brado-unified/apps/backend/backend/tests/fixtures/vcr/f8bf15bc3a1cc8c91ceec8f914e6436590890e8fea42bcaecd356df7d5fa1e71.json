@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 74283,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74283",
+      "nomeCivil": "VICENTE PAULO DA SILVA",
+      "ultimoStatus": {
+        "id": 74283,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74283",
+        "nome": "Vicentinho",
+        "siglaPartido": "PT",
+        "uriPartido": null,
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74283.jpg",
+        "email": null,
+        "data": "2025-02-03",
+        "nomeEleitoral": "Vicentinho",
+        "gabinete": {
+          "nome": "684",
+          "predio": "3",
+          "sala": "684",
+          "andar": null,
+          "telefone": "3215-5684",
+          "email": "dep.vicentinho@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "12995398404",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/Vicentinhopt",
+        "https://www.facebook.com/DeputadoFederalVicentinho",
+        "https://www.instagram.com/vicentinho_pt",
+        "https://youtube.com/DeputadoFederalVicentinhoPTSP"
+      ],
+      "dataNascimento": "1956-04-08",
+      "dataFalecimento": null,
+      "ufNascimento": "RN",
+      "municipioNascimento": "Santa Cruz",
+      "escolaridade": "Pós-Graduação"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74283"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 234310,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234310",
+      "nomeCivil": "RICARDO MAGNUS OSÓRIO GALVÃO",
+      "ultimoStatus": {
+        "id": 234310,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234310",
+        "nome": "Ricardo Galvão",
+        "siglaPartido": "REDE",
+        "uriPartido": null,
+        "siglaUf": "SP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234310.jpg",
+        "email": null,
+        "data": "2025-10-29",
+        "nomeEleitoral": "Ricardo Galvão",
+        "gabinete": {
+          "nome": "935",
+          "predio": "4",
+          "sala": "935",
+          "andar": "9",
+          "telefone": "3215-5935",
+          "email": "dep.ricardogalvao@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "34059784834",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/ricardogalvaosp",
+        "https://www.instagram.com/ricardogalvaosp"
+      ],
+      "dataNascimento": "1947-12-21",
+      "dataFalecimento": null,
+      "ufNascimento": "MG",
+      "municipioNascimento": "Itajubá",
+      "escolaridade": "Doutorado"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/234310"
+      }
+    ]
+  }
+}

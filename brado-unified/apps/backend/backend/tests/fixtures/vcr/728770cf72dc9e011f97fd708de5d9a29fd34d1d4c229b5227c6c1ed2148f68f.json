@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2194583-51",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2194583-51",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:38:50",
+      "siglaOrgao": "CDU",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006",
+      "idOrgao": 2006,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80997",
+      "idEvento": 80997,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-12-08T17:13:27",
+        "descricao": "Parecer da Relatora, Dep. Luiza Erundina (PSOL-SP), pela rejeição do Projeto de Lei nº 1.592/2019, e da Emenda Adotada pela Comissão de Viação e Transportes.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593682"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2593682,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593682",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer da Relatora, Dep. Luiza Erundina (PSOL-SP), pela rejeição do Projeto de Lei nº 1.592/2019, e da Emenda Adotada pela Comissão de Viação e Transportes.",
+          "dataApresentacao": "2025-12-08T17:08"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2194583,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194583",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 1592,
+          "ano": 2019,
+          "ementa": "Dispõe sobre a fixação de obstáculos nos limites nas quadras ou conjuntos residenciais dos Estados e do Distrito Federal.",
+          "dataApresentacao": "2019-03-19T19:07"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2194583-51"
+      }
+    ]
+  }
+}

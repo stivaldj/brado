@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2593628-19",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2593628-19",
+      "data": "2026-02-03",
+      "dataHoraRegistro": "2026-02-03T14:04:55",
+      "siglaOrgao": "CCP",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+      "idOrgao": 186,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Realizar o encaminhamento do PL-6070/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [],
+      "proposicoesAfetadas": [
+        {
+          "id": 2593628,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593628",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6070,
+          "ano": 2025,
+          "ementa": "Altera a Lei nº 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+          "dataApresentacao": "2025-12-08T14:53"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2593628-19"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2596339-8",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2596339-8",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T19:57:38",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; Não: 113; Total: 417.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2481715",
+          "tituloProposicao": "PL 3278/2021",
+          "descResultado": "Aprovado o requerimento nº 5788/2025,dos Srs. José Priante e Doutor Luizinho, que solicita urgência (art. 155) para o PL 3278/2021.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": "Apresentação do PL n. 3278/2021 (Projeto de Lei), pelo Senado Federal, que \"Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana)\".",
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2481715",
+          "tituloProposicao": "PL 3278/2021",
+          "descResultado": "Realizar o encaminhamento do PL-3278/2021 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2481715",
+          "tituloProposicao": "PL 3278/2021",
+          "descResultado": "Realizar o encaminhamento do PL-3278/2021 à CFT (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2481715",
+          "tituloProposicao": "PL 3278/2021",
+          "descResultado": "Realizar o encaminhamento do PL-3278/2021 à CFT (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2481715",
+          "tituloProposicao": "PL 3278/2021",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 5788/2025.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": "Apresentação do PL n. 3278/2021 (Projeto de Lei), pelo Senado Federal, que \"Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana)\".",
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2596339,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596339",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 5788,
+          "ano": 2025,
+          "ementa": "Urgência, para o Projeto de Lei nº. 3278 de 2021, que institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
+          "dataApresentacao": "2025-12-12T12:03"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2481715,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2481715",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 3278,
+          "ano": 2021,
+          "ementa": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
+          "dataApresentacao": "2024-12-19T10:52"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2596339-8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601390-3",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601390-3",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:50:17",
+      "siglaOrgao": "CPOVOS",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539384",
+      "idOrgao": 539384,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80992",
+      "idEvento": 80992,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação da REQ n. 1/2026 (Requerimento de Moção), pela Deputada Célia Xakriabá (PSOL/MG -Fdr PSOL-REDE), que \"Requer Moção de Aplausos à Ministra de Estado dos Povos Indígenas, Sra. Sônia Guajajara, por sua inestimável atuação que garantiu uma presença e participação histórica dos povos indígenas na 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP 30), sediada no Brasil\n\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601390,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601390",
+          "siglaTipo": "REQ",
+          "codTipo": 441,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Requer Moção de Aplausos à Ministra de Estado dos Povos Indígenas, Sra. Sônia Guajajara, por sua inestimável atuação que garantiu uma presença e participação histórica dos povos indígenas na 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP 30), sediada no Brasil.",
+          "dataApresentacao": "2026-02-08T10:31"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601390-3"
+      }
+    ]
+  }
+}

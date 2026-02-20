@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 128760,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/128760",
+      "nomeCivil": "PAULO CELSO FONSECA MARINHO JÚNIOR",
+      "ultimoStatus": {
+        "id": 128760,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/128760",
+        "nome": "Paulo Marinho Jr",
+        "siglaPartido": "PL",
+        "uriPartido": null,
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/128760.jpg",
+        "email": null,
+        "data": "2026-02-09",
+        "nomeEleitoral": "Paulo Marinho Jr",
+        "gabinete": {
+          "nome": "715",
+          "predio": "4",
+          "sala": "715",
+          "andar": "7",
+          "telefone": "3215-5715",
+          "email": "dep.paulomarinhojr@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "66488737368",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1985-02-09",
+      "dataFalecimento": null,
+      "ufNascimento": "MA",
+      "municipioNascimento": "Caxias",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/128760"
+      }
+    ]
+  }
+}

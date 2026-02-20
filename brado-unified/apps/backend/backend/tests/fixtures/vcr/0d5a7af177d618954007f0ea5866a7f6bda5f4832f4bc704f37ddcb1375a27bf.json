@@ -1,0 +1,168 @@
+{
+  "status": 200,
+  "body": {
+    "dados": [
+      {
+        "id": 74043,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+        "nome": "Wellington Roberto",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+        "email": "dep.wellingtonroberto@camara.leg.br"
+      },
+      {
+        "id": 224333,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/224333",
+        "nome": "Welter",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/224333.jpg",
+        "email": "dep.welter@camara.leg.br"
+      },
+      {
+        "id": 74044,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74044",
+        "nome": "Wilson Santiago",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "PB",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74044.jpg",
+        "email": "dep.wilsonsantiago@camara.leg.br"
+      },
+      {
+        "id": 220564,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220564",
+        "nome": "Yandra Moura",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "SE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
+        "email": "dep.yandramoura@camara.leg.br"
+      },
+      {
+        "id": 230768,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/230768",
+        "nome": "Zé Adriano",
+        "siglaPartido": "PP",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+        "siglaUf": "AC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/230768.jpg",
+        "email": "dep.zeadriano@camara.leg.br"
+      },
+      {
+        "id": 220536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220536",
+        "nome": "Zé Haroldo Cathedral",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "RR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220536.jpg",
+        "email": "dep.zeharoldocathedral@camara.leg.br"
+      },
+      {
+        "id": 204559,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204559",
+        "nome": "Zé Neto",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "BA",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
+        "email": "dep.zeneto@camara.leg.br"
+      },
+      {
+        "id": 160632,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160632",
+        "nome": "Zé Silva",
+        "siglaPartido": "SOLIDARIEDADE",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37904",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
+        "email": "dep.zesilva@camara.leg.br"
+      },
+      {
+        "id": 220558,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220558",
+        "nome": "Zé Trovão",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "SC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
+        "email": "dep.zetrovao@camara.leg.br"
+      },
+      {
+        "id": 204517,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+        "nome": "Zé Vitor",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+        "email": "dep.zevitor@camara.leg.br"
+      },
+      {
+        "id": 160592,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160592",
+        "nome": "Zeca Dirceu",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "PR",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
+        "email": "dep.zecadirceu@camara.leg.br"
+      },
+      {
+        "id": 220592,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220592",
+        "nome": "Zezinho Barbary",
+        "siglaPartido": "PP",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+        "siglaUf": "AC",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg",
+        "email": "dep.zezinhobarbary@camara.leg.br"
+      },
+      {
+        "id": 220552,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220552",
+        "nome": "Zucco",
+        "siglaPartido": "PL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220552.jpg",
+        "email": "dep.zucco@camara.leg.br"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados?itens=100&pagina=6"
+      },
+      {
+        "rel": "first",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados?pagina=1&itens=100"
+      },
+      {
+        "rel": "last",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados?pagina=6&itens=100"
+      },
+      {
+        "rel": "previous",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados?pagina=5&itens=100"
+      }
+    ]
+  }
+}

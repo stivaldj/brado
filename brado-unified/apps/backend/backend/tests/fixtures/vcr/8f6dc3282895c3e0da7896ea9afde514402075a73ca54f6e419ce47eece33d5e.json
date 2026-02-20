@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 74065,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74065",
+      "nomeCivil": "FÁTIMA LÚCIA PELAES",
+      "ultimoStatus": {
+        "id": 74065,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74065",
+        "nome": "Fatima Pelaes",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": null,
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74065.jpg",
+        "email": null,
+        "data": "2025-10-09",
+        "nomeEleitoral": "Fatima Pelaes",
+        "gabinete": {
+          "nome": "403",
+          "predio": "4",
+          "sala": "403",
+          "andar": "4",
+          "telefone": "3215-5403",
+          "email": "dep.fatimapelaes@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "07019858287",
+      "sexo": "F",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1959-02-13",
+      "dataFalecimento": null,
+      "ufNascimento": "AP",
+      "municipioNascimento": "Macapá",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74065"
+      }
+    ]
+  }
+}

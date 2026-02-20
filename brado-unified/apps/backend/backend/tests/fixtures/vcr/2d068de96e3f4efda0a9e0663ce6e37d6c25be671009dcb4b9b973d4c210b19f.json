@@ -1,0 +1,53 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 74299,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74299",
+      "nomeCivil": "JOSÉ LEÔNIDAS DE MENEZES CRISTINO",
+      "ultimoStatus": {
+        "id": 74299,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74299",
+        "nome": "Leônidas Cristino",
+        "siglaPartido": "PDT",
+        "uriPartido": null,
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74299.jpg",
+        "email": null,
+        "data": "2025-01-03",
+        "nomeEleitoral": "Leônidas Cristino",
+        "gabinete": {
+          "nome": "948",
+          "predio": "4",
+          "sala": "948",
+          "andar": "9",
+          "telefone": "3215-5948",
+          "email": "dep.leonidascristino@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "12105961304",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/joseleonidas",
+        "https://www.facebook.com/leonidascristinooficial",
+        "https://www.instagram.com/leonidas.cristino"
+      ],
+      "dataNascimento": "1957-06-03",
+      "dataFalecimento": null,
+      "ufNascimento": "CE",
+      "municipioNascimento": "Coreaú",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74299"
+      }
+    ]
+  }
+}

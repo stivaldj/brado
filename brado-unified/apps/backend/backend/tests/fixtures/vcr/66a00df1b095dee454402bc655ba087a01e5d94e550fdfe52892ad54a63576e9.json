@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2526893-28",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2526893-28",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T16:13:48",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Iniciada a Votação da Matéria.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-10T18:23:50",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-12-08T10:59:02",
+        "descricao": "Parecer do Relator, Dep. Zucco (PL-RS), pela aprovação deste, com substitutivo, e pela rejeição do PL 2961/2025, apensado.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593336"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2593337,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593337",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Institui o Programa Minha Primeira Arma, destinado a promover o acesso subsidiado e responsável à primeira arma de fogo de uso permitido por cidadãos brasileiros habilitados, nos termos da legislação vigente, e dá outras providências.",
+          "dataApresentacao": "2025-12-05T16:16"
+        },
+        {
+          "id": 2593336,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593336",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Zucco (PL-RS), pela aprovação deste, com substitutivo, e pela rejeição do PL 2961/2025, apensado.",
+          "dataApresentacao": "2025-12-05T16:16"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2526893,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2526893",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 2959,
+          "ano": 2025,
+          "ementa": "Institui o Programa Minha Primeira Arma, destinado a promover o acesso subsidiado e responsável à primeira arma de fogo de uso permitido por cidadãos brasileiros habilitados, nos termos da legislação vigente, e dá outras providências.",
+          "dataApresentacao": "2025-06-17T19:46"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2526893-28"
+      }
+    ]
+  }
+}

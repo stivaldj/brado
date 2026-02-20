@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2481978-25",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2481978-25",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T14:39:10",
+      "siglaOrgao": "CCOM",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539385",
+      "idOrgao": 539385,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80772",
+      "idEvento": 80772,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-12-16T15:18:04",
+        "descricao": "Parecer do Relator, Dep. Cleber Verde (MDB-MA), pela aprovação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597324"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2597324,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2597324",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Cleber Verde (MDB-MA), pela aprovação.",
+          "dataApresentacao": "2025-12-16T10:02"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2481978,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2481978",
+          "siglaTipo": "TVR",
+          "codTipo": 429,
+          "numero": 37,
+          "ano": 2025,
+          "ementa": "Submete à apreciação do Congresso Nacional o ato constante da Portaria nº 14.455, de 10 de setembro de 2024, publicada no Diário Oficial da União de 26 de setembro de 2024, que renova, a partir de 17 de novembro de 2023, a permissão outorgada à Fundação Nagib Haickel, para executar, pelo prazo de dez anos, o serviço de radiodifusão sonora em frequência modulada, com fins exclusivamente educativos, no Município de Imperatriz, Estado do Maranhão.",
+          "dataApresentacao": "2025-01-22T15:16"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2481978-25"
+      }
+    ]
+  }
+}

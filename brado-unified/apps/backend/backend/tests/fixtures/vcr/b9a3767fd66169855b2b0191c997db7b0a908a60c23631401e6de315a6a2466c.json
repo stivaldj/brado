@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601808-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601808-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:26:36",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 2/2026 (Requerimento), pelo Deputado Joaquim Passarinho (PL/PA), que \"Requer a realização de Mesa Redonda no Estado do Pará para debater a governança da CFEM e os desafios regulatórios e econômicos da exploração de petróleo na Margem Equatorial\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601808,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601808",
+          "siglaTipo": "REQ",
+          "codTipo": 147,
+          "numero": 2,
+          "ano": 2026,
+          "ementa": "Requer a realização de Mesa Redonda no Estado do Pará para debater a governança da CFEM e os desafios regulatórios e econômicos da exploração de petróleo na Margem Equatorial.",
+          "dataApresentacao": "2026-02-10T09:40"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601808-2"
+      }
+    ]
+  }
+}

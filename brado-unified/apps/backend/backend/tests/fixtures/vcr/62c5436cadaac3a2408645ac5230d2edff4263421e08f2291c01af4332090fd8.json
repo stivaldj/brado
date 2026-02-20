@@ -1,0 +1,69 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601409-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601409-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:30:19",
+      "siglaOrgao": "CDU",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2006",
+      "idOrgao": 2006,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80997",
+      "idEvento": 80997,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 1/2026 (Requerimento de Audiência Pública), pelo Deputado Hildo Rocha (MDB/MA), que \"Requer a realização de Audiência Pública para debater o Projeto de Lei nº 4.757, de 2025, no âmbito da Comissão de Desenvolvimento Urbano\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2564402",
+          "tituloProposicao": "PL 4757/2025",
+          "descResultado": "Aprovado o requerimento nº 1/2026,do Sr. Hildo Rocha que requer a realização de Audiência Pública para debater o Projeto de Lei nº 4.757, de 2025, no âmbito da Comissão de Desenvolvimento Urbano.",
+          "dataHoraResultado": "2026-02-11T10:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": "Apresentação do REQ n. 1/2026 (Requerimento de Audiência Pública), pelo Deputado Hildo Rocha (MDB/MA), que \"Requer a realização de Audiência Pública para debater o Projeto de Lei nº 4.757, de 2025, no âmbito da Comissão de Desenvolvimento Urbano\".",
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601409",
+          "tituloProposicaoCitada": "REQ 1/2026 CDU"
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2601409,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601409",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Requer a realização de Audiência Pública para debater o Projeto de Lei nº 4.757, de 2025, no âmbito da Comissão de Desenvolvimento Urbano.",
+          "dataApresentacao": "2026-02-09T09:29"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2564402,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2564402",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 4757,
+          "ano": 2025,
+          "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, e a Lei nº 14.620, de 13 de julho de 2023, para incluir penalidades pelo descumprimento de prazos contratuais de entrega de empreendimentos do Programa Minha Casa, Minha Vida (PMCMV) e dá outras providências",
+          "dataApresentacao": "2025-09-24T17:32"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601409-2"
+      }
+    ]
+  }
+}

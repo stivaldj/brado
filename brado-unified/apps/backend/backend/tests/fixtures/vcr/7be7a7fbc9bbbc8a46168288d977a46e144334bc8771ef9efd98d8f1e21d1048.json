@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2566032-3",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2566032-3",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:27:46",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 123/2025 (Requerimento), pelo Deputado Silas Câmara (REPUBLIC/AM), que \"Requer nos termos do art. 29, inciso II, do Regimento Interno da Câmara dos Deputados (RICD), a criação de uma Subcomissão Especial no âmbito desta Comissão, com finalidade de debater uma solução definitiva sobre a concessão e geração de energia no Amazonas.  \".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2566032,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2566032",
+          "siglaTipo": "REQ",
+          "codTipo": 147,
+          "numero": 123,
+          "ano": 2025,
+          "ementa": "Requer nos termos do art. 29, inciso II, do Regimento Interno da Câmara dos Deputados (RICD), a criação de uma Subcomissão Especial no âmbito desta Comissão, com finalidade de debater uma solução definitiva sobre a concessão e geração de energia no Amazonas.",
+          "dataApresentacao": "2025-04-23T15:12"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2566032-3"
+      }
+    ]
+  }
+}

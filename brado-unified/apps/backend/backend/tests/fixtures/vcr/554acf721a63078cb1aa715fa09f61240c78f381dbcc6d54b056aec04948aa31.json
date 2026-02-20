@@ -1,0 +1,266 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2557414-35",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2557414-35",
+      "data": "2026-02-02",
+      "dataHoraRegistro": "2026-02-02T19:44:47",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80872",
+      "idEvento": 80872,
+      "descricao": "Mantido o texto.",
+      "aprovacao": null,
+      "descUltimaAberturaVotacao": "Votação do DTQ 2 (PL): Destaque para Votação em Separado do inciso II do artigo 1º-A da Lei nº 14.237/2021, alterada pelo artigo 3º do Projeto de Lei de conversão 12/2025, apresentado à MPV 1313/2025, com vistas à sua supressão (161, I).",
+      "dataHoraUltimaAberturaVotacao": "2026-02-02T19:36:22",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2600289,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600289",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 16,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T19:01"
+        },
+        {
+          "id": 2600274,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600274",
+          "siglaTipo": "RPD",
+          "codTipo": 890,
+          "numero": 15,
+          "ano": 0,
+          "ementa": "Requerimento Procedimental Genérico - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:38"
+        },
+        {
+          "id": 2600264,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600264",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:30"
+        },
+        {
+          "id": 2600265,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600265",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - MPV 1313/2025-Requerimento de Adiamento da Discussão Matéria Urgente - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:30"
+        },
+        {
+          "id": 2600266,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600266",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:30"
+        },
+        {
+          "id": 2600267,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600267",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 11,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - MPV 1313/2025-Requerimento de Adiamento da Votação Matéria Urgente - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:30"
+        },
+        {
+          "id": 2600268,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600268",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 12,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:30"
+        },
+        {
+          "id": 2600269,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600269",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 13,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - MPV 1313/2025-Requerimento de Retirada de Matéria da Pauta - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:30"
+        },
+        {
+          "id": 2600270,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600270",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 14,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T18:30"
+        },
+        {
+          "id": 2600252,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600252",
+          "siglaTipo": "DTQ",
+          "codTipo": 846,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T17:36"
+        },
+        {
+          "id": 2600253,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600253",
+          "siglaTipo": "RPD",
+          "codTipo": 1053,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque para Votação em Separado - MPV 1313/2025-Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T17:36"
+        },
+        {
+          "id": 2600243,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600243",
+          "siglaTipo": "DTQ",
+          "codTipo": 846,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T17:13"
+        },
+        {
+          "id": 2600244,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600244",
+          "siglaTipo": "RPD",
+          "codTipo": 1053,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque para Votação em Separado - MPV 1313/2025-Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T17:13"
+        },
+        {
+          "id": 2600245,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600245",
+          "siglaTipo": "DTQ",
+          "codTipo": 846,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T17:13"
+        },
+        {
+          "id": 2600246,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600246",
+          "siglaTipo": "RPD",
+          "codTipo": 1053,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque para Votação em Separado - MPV 1313/2025-Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T17:13"
+        },
+        {
+          "id": 2600230,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600230",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T16:44"
+        },
+        {
+          "id": 2600231,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600231",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - MPV 1313/2025-Requerimento de Retirada de Matéria da Pauta - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T16:44"
+        },
+        {
+          "id": 2600232,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600232",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T16:44"
+        },
+        {
+          "id": 2600217,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600217",
+          "siglaTipo": "DTQ",
+          "codTipo": 846,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T16:26"
+        },
+        {
+          "id": 2600219,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600219",
+          "siglaTipo": "RPD",
+          "codTipo": 1053,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Votação Nominal do Destaque para Votação em Separado - MPV 1313/2025-Destaque para Votação em Separado - MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T16:26"
+        },
+        {
+          "id": 2600192,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600192",
+          "siglaTipo": "ERD",
+          "codTipo": 872,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo, criar modalidades de operacionalização do auxílio e instituir o Programa de Acesso ao Cozimento Limpo; e altera as Leis nº 8.176, de 8 de fevereiro de 1991, nº 9.478, de 6 de agosto de 1997, nº 13.203, de 8 de dezembro de 2015, nº 14.601, de 19 de junho de 2023, e Lei nº 14.871, de 28 de maio de 2024.",
+          "dataApresentacao": "2026-02-02T15:48"
+        },
+        {
+          "id": 2601418,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601418",
+          "siglaTipo": "RDF",
+          "codTipo": 197,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Redação Final ao MPV 1313/2025",
+          "dataApresentacao": "2026-02-02T00:00"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2557414,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2557414",
+          "siglaTipo": "MPV",
+          "codTipo": 291,
+          "numero": 1313,
+          "ano": 2025,
+          "ementa": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+          "dataApresentacao": "2025-09-04T00:00"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2557414-35"
+      }
+    ]
+  }
+}

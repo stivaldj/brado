@@ -1,0 +1,106 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2472872-40",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2472872-40",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:31:07",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2025-10-08T16:00:58",
+        "descricao": "Parecer do Relator, Dep. Hugo Leal (PSD-RJ), pela aprovação deste, com substitutivo.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2570025"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2602357,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602357",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4574/2024",
+          "dataApresentacao": "2026-02-11T09:56"
+        },
+        {
+          "id": 2594913,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2594913",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4574/2024",
+          "dataApresentacao": "2025-12-10T09:02"
+        },
+        {
+          "id": 2591554,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591554",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4574/2024",
+          "dataApresentacao": "2025-12-03T09:24"
+        },
+        {
+          "id": 2588306,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2588306",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 4574/2024",
+          "dataApresentacao": "2025-11-26T10:07"
+        },
+        {
+          "id": 2570027,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2570027",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Altera a Lei nº 9.998, de 17 de agosto de 2000, para permitir a destinação de recursos do Fundo de Universalização dos Serviços de Telecomunicações (Fust) para viabilizar soluções de suprimento que envolvam fontes renováveis de geração de energia elétrica, com a finalidade de garantir a usabilidade e a qualidade dos serviços de telecomunicações em escolas públicas situadas em áreas não atendidas pela rede elétrica.",
+          "dataApresentacao": "2025-10-08T12:36"
+        },
+        {
+          "id": 2570025,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2570025",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Hugo Leal (PSD-RJ), pela aprovação deste, com substitutivo.",
+          "dataApresentacao": "2025-10-08T12:36"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2472872,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2472872",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 4574,
+          "ano": 2024,
+          "ementa": "Cria o Programa Luz na Escola, altera a Lei nº 9.998, de 17 de agosto de 2000, para incluir a utilização de fontes de energia renovável, preferencialmente fotovoltaica, no âmbito do Fundo de Universalização dos Serviços de Telecomunicações (Fust), com a finalidade de garantir a usabilidade e a qualidade dos serviços de telecomunicações em escolas públicas da educação básica situadas em áreas não atendidas pela rede elétrica, e dá outras providências.",
+          "dataApresentacao": "2024-11-27T19:48"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2472872-40"
+      }
+    ]
+  }
+}

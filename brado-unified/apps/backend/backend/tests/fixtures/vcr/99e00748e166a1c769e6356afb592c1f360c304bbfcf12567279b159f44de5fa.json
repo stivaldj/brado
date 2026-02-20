@@ -1,0 +1,53 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 204422,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204422",
+      "nomeCivil": "OSSESIO JOSE DA SILVA",
+      "ultimoStatus": {
+        "id": 204422,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204422",
+        "nome": "Ossesio Silva",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": null,
+        "siglaUf": "PE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204422.jpg",
+        "email": null,
+        "data": "2025-10-09",
+        "nomeEleitoral": "Ossesio Silva",
+        "gabinete": {
+          "nome": "402",
+          "predio": "4",
+          "sala": "402",
+          "andar": "4",
+          "telefone": "3215-5402",
+          "email": "dep.ossesiosilva@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "39806464753",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [
+        "https://twitter.com/ossesio_silva",
+        "https://www.facebook.com/ossesio.silva",
+        "https://www.instagram.com/ossesio.silva"
+      ],
+      "dataNascimento": "1954-12-09",
+      "dataFalecimento": null,
+      "ufNascimento": "RJ",
+      "municipioNascimento": "Rio de Janeiro",
+      "escolaridade": "Superior Incompleto"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204422"
+      }
+    ]
+  }
+}

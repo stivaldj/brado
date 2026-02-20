@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2484092-46",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2484092-46",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T19:33:41",
+      "siglaOrgao": "CCP",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+      "idOrgao": 186,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Realizar o encaminhamento do PL-481/2025 à CFT (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [],
+      "proposicoesAfetadas": [
+        {
+          "id": 2484092,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484092",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 481,
+          "ano": 2025,
+          "ementa": "Dispõe sobre a obrigatoriedade de campanhas informativas e educativas permanentes sobre Violência Doméstica e Familiar contra a Mulher, nos termos da Lei nº 11.340, de 2006 (Lei Maria da Penha), e dá outras providências.",
+          "dataApresentacao": "2025-02-17T13:38"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2484092-46"
+      }
+    ]
+  }
+}

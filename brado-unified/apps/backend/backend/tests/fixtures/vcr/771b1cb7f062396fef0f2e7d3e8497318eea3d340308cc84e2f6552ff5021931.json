@@ -1,0 +1,126 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2377564-56",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2377564-56",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T14:52:24",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Iniciada a Votação da Matéria.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-10T15:13:48",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2024-11-05T18:08:15",
+        "descricao": "Parecer do Relator, Dep. Aluisio Mendes (REPUBLIC-MA), pela aprovação, na forma do substitutivo.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467274"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601926,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601926",
+          "siglaTipo": "RPD",
+          "codTipo": 876,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento de Inversão da Pauta - PL 3874/2023",
+          "dataApresentacao": "2026-02-10T13:02"
+        },
+        {
+          "id": 2467274,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467274",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Aluisio Mendes (REPUBLIC-MA), pela aprovação, na forma do substitutivo.",
+          "dataApresentacao": "2024-11-05T13:49"
+        },
+        {
+          "id": 2467276,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2467276",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Dispõe sobre a proibição de aquisição de posse e porte de armas de fogo e munições por indivíduo que tenha registro de agressão contra mulher em inquérito e processo judicial.",
+          "dataApresentacao": "2024-11-05T13:49"
+        },
+        {
+          "id": 2423553,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2423553",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3874/2023",
+          "dataApresentacao": "2024-03-26T13:41"
+        },
+        {
+          "id": 2423510,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2423510",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 3874/2023",
+          "dataApresentacao": "2024-03-26T13:35"
+        },
+        {
+          "id": 2423512,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2423512",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal-Requerimento de Retirada de Matéria da Pauta - PL 3874/2023",
+          "dataApresentacao": "2024-03-26T13:35"
+        },
+        {
+          "id": 2420257,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2420257",
+          "siglaTipo": "RPD",
+          "codTipo": 876,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Inversão da Pauta - PL 3874/2023",
+          "dataApresentacao": "2024-03-12T13:35"
+        },
+        {
+          "id": 2420034,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2420034",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer da Relatora, Dep. Mariana Carvalho (REPUBLIC-MA), pela aprovação.",
+          "dataApresentacao": "2024-03-11T11:12"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2377564,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2377564",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 3874,
+          "ano": 2023,
+          "ementa": "Dispõe sobre a proibição de aquisição de posse e porte de armas de fogo e munições por indivíduo que tenha registro de agressão contra mulher em inquérito e processo judicial.",
+          "dataApresentacao": "2023-08-10T12:19"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2377564-56"
+      }
+    ]
+  }
+}

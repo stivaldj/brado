@@ -1,0 +1,116 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2487262-384",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487262-384",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T15:20:16",
+      "siglaOrgao": "SECAP(SGM)",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100001",
+      "idOrgao": 100001,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Deferido o requerimento REQ 5786/2025 , nos termos do artigo 104, caput, do RICD",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2596302,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2596302",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 5785,
+          "ano": 2025,
+          "ementa": "Requer a apensação, para tramitação conjunta, do Projeto de Lei nº 6.237/2025 e do Projeto de Lei nº 2.338/2023.",
+          "dataApresentacao": "2025-12-11T18:05"
+        },
+        {
+          "id": 2573607,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2573607",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 4330,
+          "ano": 2025,
+          "ementa": "Requer a apensação do Projeto de Lei nº 1.473/2023 (que restringe o uso de inteligência artificial para preservar os direitos autorais) ao Projeto de Lei nº 2.338/2023 (dispõe sobre a inteligência artificial), por tratarem de matérias correlatas e se encontrarem em fase que permite a apensação destes, nos termos regimentais.",
+          "dataApresentacao": "2025-10-21T12:02"
+        },
+        {
+          "id": 2539480,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2539480",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 3063,
+          "ano": 2025,
+          "ementa": "Requer o apensamento dos Projetos de Lei 759 de 2023; 1465 de 2024; 2775 de 2024; 1290 de  2025; e 2688 de 2025, ao Projeto de Lei nº 2338/2023.",
+          "dataApresentacao": "2025-08-05T12:43"
+        },
+        {
+          "id": 2534447,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2534447",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 2714,
+          "ano": 2025,
+          "ementa": "Requer a apensação para tramitação conjunta do PL n° 1.465/2024 “que estabelece princípios, garantias, direitos e deveres para o desenvolvimento, a implementação e a aplicação da inteligência artificial no Brasil, visando promover sua utilização segura, ética e responsável”, ao PL 2.338/2023 “que dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana”.",
+          "dataApresentacao": "2025-07-09T21:19"
+        },
+        {
+          "id": 2512329,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2512329",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 2041,
+          "ano": 2025,
+          "ementa": "Requer nos termos regimentais, a tramitação conjunta das proposições que dispõe sobre a regulamentação do uso da inteligência artificial, quais sejam; PL nº 759/2023 ao PL 2338/2023.",
+          "dataApresentacao": "2025-05-20T19:10"
+        },
+        {
+          "id": 2495514,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2495514",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 1345,
+          "ano": 2025,
+          "ementa": "Requer nos termos regimentais, a tramitação conjunta das proposições que dispõe sobre a regulamentação do uso da inteligência artificial, quais sejam os Projetos de Lei nºs 4025/2023, 1465/2021, 1473/2023 e PL 2338/2023.",
+          "dataApresentacao": "2025-04-08T15:50"
+        },
+        {
+          "id": 2489143,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2489143",
+          "siglaTipo": "REQ",
+          "codTipo": 304,
+          "numero": 1085,
+          "ano": 2025,
+          "ementa": "Requer nos termos regimentais, a tramitação conjunta das proposições que dispõe sobre a regulamentação do uso da inteligência artificial, quais sejam os Projetos de Lei nºs 759/2023, 5303/2023, 2775/2024 e PL 2338/2023.",
+          "dataApresentacao": "2025-03-25T14:39"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2487262,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2487262",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 2338,
+          "ano": 2023,
+          "ementa": "Dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana.",
+          "dataApresentacao": "2025-03-17T17:21"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487262-384"
+      }
+    ]
+  }
+}

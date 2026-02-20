@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2565424-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2565424-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:21:15",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 120/2025 (Requerimento para envio de Requerimento de Informação pela Comissão), pelo Deputado General Pazuello (PL/RJ), que \"Solicito seja encaminhado Requerimento de Informação ao Ministério de Minas e para que preste a esta CME informações sobre a OPERAÇÃO REJEITO\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2565424,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2565424",
+          "siglaTipo": "REQ",
+          "codTipo": 1017,
+          "numero": 120,
+          "ano": 2025,
+          "ementa": "Solicito seja encaminhado Requerimento de Informação ao Ministério de Minas e para que preste a esta CME informações sobre a OPERAÇÃO REJEITO.",
+          "dataApresentacao": "2025-09-30T09:14"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2565424-2"
+      }
+    ]
+  }
+}

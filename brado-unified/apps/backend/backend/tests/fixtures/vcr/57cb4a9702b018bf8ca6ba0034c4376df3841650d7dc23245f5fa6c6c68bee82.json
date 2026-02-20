@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 129618,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/129618",
+      "nomeCivil": "MARIA GORETE PEREIRA",
+      "ultimoStatus": {
+        "id": 129618,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/129618",
+        "nome": "Gorete Pereira",
+        "siglaPartido": "MDB",
+        "uriPartido": null,
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/129618.jpg",
+        "email": null,
+        "data": "2025-12-29",
+        "nomeEleitoral": "Gorete Pereira",
+        "gabinete": {
+          "nome": "545",
+          "predio": "4",
+          "sala": "545",
+          "andar": "5",
+          "telefone": "3215-5545",
+          "email": "dep.goretepereira@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "08187452315",
+      "sexo": "F",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1952-04-10",
+      "dataFalecimento": null,
+      "ufNascimento": "CE",
+      "municipioNascimento": "Juazeiro do Norte",
+      "escolaridade": "Pós-Graduação"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/129618"
+      }
+    ]
+  }
+}

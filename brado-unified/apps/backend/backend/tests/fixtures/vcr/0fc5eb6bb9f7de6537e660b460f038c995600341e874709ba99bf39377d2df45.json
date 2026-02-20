@@ -1,0 +1,236 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2591974-26",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2591974-26",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T19:35:20",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81011",
+      "idEvento": 81011,
+      "descricao": "Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390.",
+      "aprovacao": 0,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-10T19:07:14",
+        "descricao": "Parecer proferido em Plenário pelo Relator, Dep. Julio Cesar Ribeiro (REPUBLIC-DF) pela:\r\n• Comissão do Esporte, que conclui pela aprovação do Projeto de Lei nº 6.133, de 2025, na forma do Substitutivo adotado.\r\n• Comissão de Educação, que conclui pela aprovação do Projeto de Lei nº 6.133, de 2025, na forma do Substitutivo adotado pelo relator da Comissão do Esporte.\r\n• Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do Projeto de Lei nº 6.133, de 2025, e do Substitutivo adotado pelo relator da Comissão do Esporte.\r\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 6.133, de 2025, e do Substitutivo adotado pelo relator da Comissão do Esporte.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602254"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2602253,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602253",
+          "siglaTipo": "SBT",
+          "codTipo": 255,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "",
+          "dataApresentacao": "2026-02-10T19:06"
+        },
+        {
+          "id": 2602254,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602254",
+          "siglaTipo": "PPP",
+          "codTipo": 192,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Julio Cesar Ribeiro (REPUBLIC-DF) pela: • Comissão do Esporte, que conclui pela aprovação do Projeto de Lei nº 6.133, de 2025, na forma do Substitutivo adotado. • Comissão de Educação, que conclui pela aprovação do Projeto de Lei nº 6.133, de 2025, na forma do Substitutivo adotado pelo relator da Comissão do Esporte. • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do Projeto de Lei nº 6.133, de 2025, e do Substitutivo adotado pelo relator da Comissão do Esporte. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 6.133, de 2025, e do Substitutivo adotado pelo relator da Comissão do Esporte.",
+          "dataApresentacao": "2026-02-10T16:00"
+        },
+        {
+          "id": 2601960,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601960",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 12,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6133/2025",
+          "dataApresentacao": "2026-02-10T14:19"
+        },
+        {
+          "id": 2601961,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601961",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 13,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 6133/2025",
+          "dataApresentacao": "2026-02-10T14:19"
+        },
+        {
+          "id": 2601862,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601862",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 10,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6133/2025",
+          "dataApresentacao": "2026-02-10T11:33"
+        },
+        {
+          "id": 2601863,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601863",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 11,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6133/2025-Requerimento de Retirada de Matéria da Pauta - PL 6133/2025",
+          "dataApresentacao": "2026-02-10T11:33"
+        },
+        {
+          "id": 2603083,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2603083",
+          "siglaTipo": "RDF",
+          "codTipo": 197,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Redação Final ao PL 6133/2025",
+          "dataApresentacao": "2026-02-10T00:00"
+        },
+        {
+          "id": 2601764,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601764",
+          "siglaTipo": "PRLP",
+          "codTipo": 891,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Cria a Universidade Federal do Esporte.",
+          "dataApresentacao": "2026-02-09T19:53"
+        },
+        {
+          "id": 2601657,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601657",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 8,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T17:20"
+        },
+        {
+          "id": 2601659,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601659",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 9,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6133/2025-Requerimento de Retirada de Matéria da Pauta - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T17:20"
+        },
+        {
+          "id": 2601611,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601611",
+          "siglaTipo": "RPD",
+          "codTipo": 892,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Discussão Matéria Urgente - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T16:36"
+        },
+        {
+          "id": 2601613,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601613",
+          "siglaTipo": "RPD",
+          "codTipo": 1041,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Discussão Matéria Urgente - PL 6133/2025-Requerimento de Adiamento da Discussão Matéria Urgente - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T16:36"
+        },
+        {
+          "id": 2601614,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601614",
+          "siglaTipo": "RPD",
+          "codTipo": 467,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Adiamento da Votação Matéria Urgente - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T16:36"
+        },
+        {
+          "id": 2601619,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601619",
+          "siglaTipo": "RPD",
+          "codTipo": 1043,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Adiamento da Votação Matéria Urgente - PL 6133/2025-Requerimento de Adiamento da Votação Matéria Urgente - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T16:36"
+        },
+        {
+          "id": 2601622,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601622",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T16:36"
+        },
+        {
+          "id": 2601624,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601624",
+          "siglaTipo": "RPD",
+          "codTipo": 1051,
+          "numero": 6,
+          "ano": 0,
+          "ementa": "Votação Nominal do Requerimento de Retirada de Pauta - PL 6133/2025-Requerimento de Retirada de Matéria da Pauta - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T16:36"
+        },
+        {
+          "id": 2601626,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601626",
+          "siglaTipo": "RPD",
+          "codTipo": 332,
+          "numero": 7,
+          "ano": 0,
+          "ementa": "Requerimento de Votação Nominal - PL 6133/2025",
+          "dataApresentacao": "2026-02-09T16:36"
+        },
+        {
+          "id": 2600278,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600278",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 96,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei nº 6.133, de 2025.",
+          "dataApresentacao": "2026-02-02T18:39"
+        },
+        {
+          "id": 2592007,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2592007",
+          "siglaTipo": "MSC",
+          "codTipo": 134,
+          "numero": 1797,
+          "ano": 2025,
+          "ementa": "Submete à deliberação do Congresso Nacional o texto do projeto de lei que \"Cria a Universidade Federal do Esporte.\".",
+          "dataApresentacao": "2025-12-03T13:57"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2591974,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2591974",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6133,
+          "ano": 2025,
+          "ementa": "Cria a Universidade Federal do Esporte.",
+          "dataApresentacao": "2025-12-03T12:53"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2591974-26"
+      }
+    ]
+  }
+}

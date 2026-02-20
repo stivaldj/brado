@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601391-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601391-2",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T15:07:34",
+      "siglaOrgao": "CPOVOS",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539384",
+      "idOrgao": 539384,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80992",
+      "idEvento": 80992,
+      "descricao": "Aprovado o Requerimento, com alteração para incluir os senhores Daniel Bertolini e Erick Jennings, a pedido do Deputado Airton Faleiro.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 2/2026 (Requerimento de Audiência Pública), pelos Deputada Célia Xakriabá (PSOL/MG -Fdr PSOL-REDE) e Deputado Airton Faleiro PT        , que \"Requer a realização de Audiência Pública, no âmbito da Comissão da Amazônia e dos Povos Originários e Tradicionais, para debater o Projeto de Decreto Legislativo 942/2025 que pretende sustar os efeitos do Decreto nº 12.600, de 28 de agosto de 2025 sobre a inclusão de três hidrovias brasileiras no Programa Nacional de Desestatização, sendo elas: a Hidrovia do Rio Madeira, a Hidrovia do Rio Tocantins e a Hidrovia do Rio Tapajós. \".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601391,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601391",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 2,
+          "ano": 2026,
+          "ementa": "Requer a realização de Audiência Pública, no âmbito da Comissão da Amazônia e dos Povos Originários e Tradicionais, para debater o Projeto de Decreto Legislativo 942/2025 que pretende sustar os efeitos do Decreto nº 12.600, de 28 de agosto de 2025 sobre a inclusão de três hidrovias brasileiras no Programa Nacional de Desestatização, sendo elas: a Hidrovia do Rio Madeira, a Hidrovia do Rio Tocantins e a Hidrovia do Rio Tapajós.",
+          "dataApresentacao": "2026-02-08T10:47"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601391-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+<html lang="pt-BR" vid="0"><head vid="1">
+    <meta charset="UTF-8" vid="2">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" vid="3">
+    <title vid="4">Bancada Paulista - Transparência™</title>
+    <style vid="5">
+        :root {
+            --bg-body: #1E1A16;
+            --bg-sidebar: #29231E;
+            --bg-card: #362D26;
+            --bg-card-alt: #453930;
+            --text-main: #FFF8F0;
+            --text-muted: #D9C5B2;
+            --accent-color: #FF8C42; 
+            --border-color: #544538;
+            --border-width: 1.5px;
+            --radius-outer: 12px;
+            --radius-inner: 4px;
+            --font-stack: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            --sidebar-width: 280px;
+            --sidebar-collapsed-width: 64px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            font-family: var(--font-stack);
+            font-size: 14px;
+            line-height: 1.4;
+            display: flex;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        
+        #sidebar-toggle { display: none; }
+        
+        .sidebar {
+            width: var(--sidebar-width);
+            background: var(--bg-sidebar);
+            border-right: var(--border-width) solid var(--border-color);
+            height: 100vh;
+            position: fixed;
+            left: 0;
+            top: 0;
+            display: flex;
+            flex-direction: column;
+            transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            z-index: 100;
+            overflow: hidden;
+        }
+
+        #sidebar-toggle:checked ~ .sidebar {
+            width: var(--sidebar-collapsed-width);
+        }
+
+        #sidebar-toggle:checked ~ .main-view {
+            margin-left: var(--sidebar-collapsed-width);
+        }
+
+        .sidebar-header {
+            padding: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            min-height: 80px;
+        }
+
+        .brand {
+            font-weight: 700;
+            color: var(--accent-color);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            white-space: nowrap;
+            transition: opacity 0.2s;
+        }
+
+        #sidebar-toggle:checked ~ .sidebar .brand {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .toggle-btn {
+            cursor: pointer;
+            color: var(--text-muted);
+            padding: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .sidebar-section {
+            padding: 1rem 1.5rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .sidebar-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+            display: block;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+
+        #sidebar-toggle:checked ~ .sidebar .sidebar-label {
+            display: none;
+        }
+
+        .nav-item {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            border-radius: var(--radius-inner);
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: all 0.2s;
+            margin-bottom: 4px;
+            white-space: nowrap;
+        }
+
+        .nav-icon {
+            min-width: 24px;
+            text-align: center;
+            margin-right: 12px;
+            font-style: normal;
+        }
+
+        #sidebar-toggle:checked ~ .sidebar .nav-item span:not(.nav-icon) {
+            display: none;
+        }
+
+        .nav-item.active {
+            background: var(--bg-card);
+            color: var(--accent-color);
+            box-shadow: inset 3px 0 0 var(--accent-color);
+        }
+
+        
+        .main-view {
+            margin-left: var(--sidebar-width);
+            flex-grow: 1;
+            padding: 2.5rem;
+            background: var(--bg-body);
+            transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .header-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            gap: 2rem;
+        }
+
+        .page-title h2 {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text-main);
+        }
+
+        .page-title p {
+            color: var(--text-muted);
+            font-size: 13px;
+        }
+
+        .search-container {
+            flex-shrink: 0;
+        }
+
+        .search-bar {
+            background: var(--bg-card);
+            border: var(--border-width) solid var(--border-color);
+            padding: 10px 16px;
+            border-radius: var(--radius-inner);
+            width: 320px;
+            color: var(--text-muted);
+            font-size: 13px;
+        }
+
+        
+        .table-container {
+            background: var(--bg-card);
+            border: var(--border-width) solid var(--border-color);
+            border-radius: var(--radius-outer);
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        thead {
+            background: var(--bg-card-alt);
+        }
+
+        th {
+            padding: 1rem 1.5rem;
+            font-size: 11px;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+            font-weight: 600;
+            border-bottom: 1px solid var(--border-color);
+            cursor: pointer;
+            user-select: none;
+        }
+
+        th:hover {
+            color: var(--accent-color);
+        }
+
+        th .sort-icon {
+            margin-left: 4px;
+            font-size: 9px;
+            opacity: 0.5;
+        }
+
+        td {
+            padding: 0.75rem 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: middle;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover td {
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        
+        .deputy-cell {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            border: 1.5px solid var(--accent-color);
+            object-fit: cover;
+        }
+
+        .deputy-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .name {
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .party {
+            font-size: 10px;
+            color: var(--accent-color);
+            font-weight: 700;
+        }
+
+        .stat-value {
+            font-weight: 700;
+            color: #FFB347;
+            font-family: monospace;
+            font-size: 14px;
+        }
+
+        .tag-status {
+            font-size: 9px;
+            padding: 2px 6px;
+            border-radius: 3px;
+            background: rgba(255, 140, 66, 0.1);
+            color: var(--accent-color);
+            border: 1px solid rgba(255, 140, 66, 0.3);
+        }
+
+        .action-link {
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--accent-color);
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+
+        .action-link:hover {
+            text-decoration: underline;
+        }
+
+    </style>
+</head>
+<body vid="6">
+
+    <input type="checkbox" id="sidebar-toggle" vid="7">
+    
+    <aside class="sidebar" vid="8">
+        <div class="sidebar-header" vid="9">
+            <span class="brand" vid="10">Transparência™</span>
+            <label for="sidebar-toggle" class="toggle-btn" vid="11">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vid="12"><line x1="3" y1="12" x2="21" y2="12" vid="13"></line><line x1="3" y1="6" x2="21" y2="6" vid="14"></line><line x1="3" y1="18" x2="21" y2="18" vid="15"></line></svg>
+            </label>
+        </div>
+
+        <section class="sidebar-section" vid="16">
+            <span class="sidebar-label" vid="17">Navegação</span>
+            <nav vid="18">
+                <a href="#" class="nav-item" vid="19"><i class="nav-icon" vid="20">⊚</i><span vid="21">Resumo Geral</span></a>
+                <a href="#" class="nav-item active" vid="22"><i class="nav-icon" vid="23">⊛</i><span vid="24">Bancada Paulista</span></a>
+                <a href="#" class="nav-item" vid="25"><i class="nav-icon" vid="26">⊜</i><span vid="27">Projetos em Pauta</span></a>
+                <a href="#" class="nav-item" vid="28"><i class="nav-icon" vid="29">⊞</i><span vid="30">Ranking de Gastos</span></a>
+            </nav>
+        </section>
+
+        <section class="sidebar-section" vid="31" style="margin-top: auto; border-top: 1px solid var(--border-color);">
+            <div style="display: flex; justify-content: space-between; align-items: center; white-space: nowrap;" vid="32">
+                <span class="sidebar-label" style="margin: 0;" vid="33">Total (SP)</span>
+                <span style="font-weight: 700; color: #FFB347; font-size: 12px;" vid="34">70</span>
+            </div>
+        </section>
+    </aside>
+
+    <main class="main-view" vid="35">
+        <header class="header-row" vid="36">
+            <div class="page-title" vid="37">
+                <h2 vid="38">Deputados Federais — São Paulo</h2>
+                <p vid="39">Métricas de produtividade e transparência da bancada.</p>
+            </div>
+            <div class="search-container" vid="40">
+                <div class="search-bar" vid="41">
+                    Buscar por nome ou partido...
+                </div>
+            </div>
+        </header>
+
+        <div class="table-container" vid="42">
+            <table vid="43">
+                <thead vid="44">
+                    <tr vid="45">
+                        <th style="width: 30%;" vid="46">Deputado <span class="sort-icon" vid="47">▼</span></th>
+                        <th style="width: 15%;" vid="48">Status</th>
+                        <th style="width: 15%; text-align: center;" vid="49">Presença <span class="sort-icon" vid="50">↕</span></th>
+                        <th style="width: 15%; text-align: center;" vid="51">Projetos <span class="sort-icon" vid="52">↕</span></th>
+                        <th style="width: 15%; text-align: center;" vid="53">Gastos/Mês <span class="sort-icon" vid="54">↕</span></th>
+                        <th style="width: 10%; text-align: right;" vid="55">Ações</th>
+                    </tr>
+                </thead>
+                <tbody vid="56">
+                    <tr vid="57">
+                        <td vid="58">
+                            <div class="deputy-cell" vid="59">
+                                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&amp;w=200&amp;auto=format&amp;fit=crop" class="avatar" vid="60">
+                                <div class="deputy-info" vid="61">
+                                    <span class="name" vid="62">Carlos Mendes</span>
+                                    <span class="party" vid="63">SOLIDARIEDADE</span>
+                                </div>
+                            </div>
+                        </td>
+                        <td vid="64"><span class="tag-status" vid="65">Titular</span></td>
+                        <td style="text-align: center;" vid="66"><span class="stat-value" vid="67">94%</span></td>
+                        <td style="text-align: center;" vid="68"><span class="stat-value" vid="69">12</span></td>
+                        <td style="text-align: center;" vid="70"><span class="stat-value" vid="71">R$ 42k</span></td>
+                        <td style="text-align: right;" vid="72"><a href="#" class="action-link" vid="73">Perfil</a></td>
+                    </tr>
+                    <tr vid="74">
+                        <td vid="75">
+                            <div class="deputy-cell" vid="76">
+                                <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&amp;w=200&amp;auto=format&amp;fit=crop" class="avatar" vid="77">
+                                <div class="deputy-info" vid="78">
+                                    <span class="name" vid="79">Roberto Silva</span>
+                                    <span class="party" vid="80">PSDB</span>
+                                </div>
+                            </div>
+                        </td>
+                        <td vid="81"><span class="tag-status" vid="82">Titular</span></td>
+                        <td style="text-align: center;" vid="83"><span class="stat-value" vid="84">88%</span></td>
+                        <td style="text-align: center;" vid="85"><span class="stat-value" vid="86">08</span></td>
+                        <td style="text-align: center;" vid="87"><span class="stat-value" vid="88">R$ 38k</span></td>
+                        <td style="text-align: right;" vid="89"><a href="#" class="action-link" vid="90">Perfil</a></td>
+                    </tr>
+                    <tr vid="91">
+                        <td vid="92">
+                            <div class="deputy-cell" vid="93">
+                                <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&amp;w=200&amp;auto=format&amp;fit=crop" class="avatar" vid="94">
+                                <div class="deputy-info" vid="95">
+                                    <span class="name" vid="96">Ana Clara Costa</span>
+                                    <span class="party" vid="97">PT</span>
+                                </div>
+                            </div>
+                        </td>
+                        <td vid="98"><span class="tag-status" vid="99">Titular</span></td>
+                        <td style="text-align: center;" vid="100"><span class="stat-value" vid="101">91%</span></td>
+                        <td style="text-align: center;" vid="102"><span class="stat-value" vid="103">15</span></td>
+                        <td style="text-align: center;" vid="104"><span class="stat-value" vid="105">R$ 45k</span></td>
+                        <td style="text-align: right;" vid="106"><a href="#" class="action-link" vid="107">Perfil</a></td>
+                    </tr>
+                    <tr vid="108">
+                        <td vid="109">
+                            <div class="deputy-cell" vid="110">
+                                <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&amp;w=200&amp;auto=format&amp;fit=crop" class="avatar" vid="111">
+                                <div class="deputy-info" vid="112">
+                                    <span class="name" vid="113">Marcos Rocha</span>
+                                    <span class="party" vid="114">PL</span>
+                                </div>
+                            </div>
+                        </td>
+                        <td vid="115"><span class="tag-status" style="border-color: rgba(217, 197, 178, 0.3); color: var(--text-muted); background: rgba(217, 197, 178, 0.05);" vid="116">Suplente</span></td>
+                        <td style="text-align: center;" vid="117"><span class="stat-value" vid="118">98%</span></td>
+                        <td style="text-align: center;" vid="119"><span class="stat-value" vid="120">04</span></td>
+                        <td style="text-align: center;" vid="121"><span class="stat-value" vid="122">R$ 29k</span></td>
+                        <td style="text-align: right;" vid="123"><a href="#" class="action-link" vid="124">Perfil</a></td>
+                    </tr>
+                    <tr vid="125">
+                        <td vid="126">
+                            <div class="deputy-cell" vid="127">
+                                <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&amp;w=200&amp;auto=format&amp;fit=crop" class="avatar" vid="128">
+                                <div class="deputy-info" vid="129">
+                                    <span class="name" vid="130">Helena Souza</span>
+                                    <span class="party" vid="131">MDB</span>
+                                </div>
+                            </div>
+                        </td>
+                        <td vid="132"><span class="tag-status" vid="133">Titular</span></td>
+                        <td style="text-align: center;" vid="134"><span class="stat-value" vid="135">82%</span></td>
+                        <td style="text-align: center;" vid="136"><span class="stat-value" vid="137">21</span></td>
+                        <td style="text-align: center;" vid="138"><span class="stat-value" vid="139">R$ 51k</span></td>
+                        <td style="text-align: right;" vid="140"><a href="#" class="action-link" vid="141">Perfil</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+</body></html>

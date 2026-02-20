@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2564194-22",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2564194-22",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T15:13:29",
+      "siglaOrgao": "CSPCCO",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/5503",
+      "idOrgao": 5503,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80994",
+      "idEvento": 80994,
+      "descricao": "Aprovado o Parecer.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": "Iniciada a Votação da Matéria.",
+      "dataHoraUltimaAberturaVotacao": "2026-02-10T15:13:14",
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2026-02-05T14:37:10",
+        "descricao": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601135"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601135,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601135",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação.",
+          "dataApresentacao": "2026-02-03T20:00"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2564194,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2564194",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 4746,
+          "ano": 2025,
+          "ementa": "Altera a Lei nº 12.850, de 2 de agosto de 2013, para dispor sobre o enfrentamento ao tráfico de crianças e adolescentes e à prostituição ou exploração sexual infantojuvenil, prever a infiltração de agentes, proteger seus familiares e ampliar a cooperação internacional no combate a organizações criminosas.",
+          "dataApresentacao": "2025-09-24T13:39"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2564194-22"
+      }
+    ]
+  }
+}

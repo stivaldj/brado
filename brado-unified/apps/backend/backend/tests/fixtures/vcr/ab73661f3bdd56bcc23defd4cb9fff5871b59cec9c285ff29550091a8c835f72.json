@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2585316-26",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2585316-26",
+      "data": "2026-02-02",
+      "dataHoraRegistro": "2026-02-02T14:38:11",
+      "siglaOrgao": "CCP",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+      "idOrgao": 186,
+      "uriEvento": null,
+      "idEvento": null,
+      "descricao": "Realizar o encaminhamento do PL-5874/2025 à CASP (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [],
+      "proposicoesAfetadas": [
+        {
+          "id": 2585316,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2585316",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 5874,
+          "ano": 2025,
+          "ementa": "Cria cargos de provimento efetivo no âmbito do Ministério da Educação e do Ministério da Gestão e da Inovação em Serviços Públicos.",
+          "dataApresentacao": "2025-11-17T11:08"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2585316-26"
+      }
+    ]
+  }
+}

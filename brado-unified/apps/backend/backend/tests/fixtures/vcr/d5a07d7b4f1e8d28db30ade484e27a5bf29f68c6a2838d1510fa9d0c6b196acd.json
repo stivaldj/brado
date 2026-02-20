@@ -1,0 +1,81 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2600122-8",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600122-8",
+      "data": "2026-02-09",
+      "dataHoraRegistro": "2026-02-09T20:42:47",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/81002",
+      "idEvento": 81002,
+      "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 307; Não: 113; Abstenção: 3; Total: 423.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598651",
+          "tituloProposicao": "PL 6601/2025",
+          "descResultado": "Aprovado o requerimento nº 50/2026,do Sr. Gilberto Abramo, que solicita urgência (art. 155) para o PL 6601/2025.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598651",
+          "tituloProposicao": "PL 6601/2025",
+          "descResultado": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 50/2026.",
+          "dataHoraResultado": "2026-02-09T17:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2600122,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600122",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 50,
+          "ano": 2026,
+          "ementa": "Requer regime de urgência para apreciação do Projeto de Lei nº 6.601, de 2025, que “dispõe sobre a regulamentação da profissão de Trabalhador em Refeições Coletivas e dá outras providências.”",
+          "dataApresentacao": "2026-02-02T12:34"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2598651,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2598651",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6601,
+          "ano": 2025,
+          "ementa": "Dispõe sobre a regulamentação da profissão de Trabalhador em Refeições Coletivas e dá outras providências",
+          "dataApresentacao": "2025-12-18T17:25"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600122-8"
+      }
+    ]
+  }
+}

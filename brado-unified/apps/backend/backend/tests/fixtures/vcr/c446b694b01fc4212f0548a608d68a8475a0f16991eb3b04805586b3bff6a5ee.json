@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601257-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601257-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T10:38:28",
+      "siglaOrgao": "CTRAB",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "idOrgao": 2015,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80995",
+      "idEvento": 80995,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 4/2026 (Requerimento de Audiência Pública), pela Deputada Erika Kokay (PT/DF -Fdr PT-PCdoB-PV), que \"Requer a realização de Audiência Pública para discussão do tema: Déficit histórico no número de Auditores-Fiscais do Trabalho e o impacto negativo para diferentes setores da sociedade.\n\n\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601257,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601257",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 4,
+          "ano": 2026,
+          "ementa": "Requer a realização de Audiência Pública para discussão do tema: Déficit histórico no número de Auditores-Fiscais do Trabalho e o impacto negativo para diferentes setores da sociedade.",
+          "dataApresentacao": "2026-02-06T12:40"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601257-2"
+      }
+    ]
+  }
+}

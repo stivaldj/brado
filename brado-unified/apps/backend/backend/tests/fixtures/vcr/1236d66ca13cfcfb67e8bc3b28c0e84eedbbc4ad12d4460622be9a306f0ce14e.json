@@ -1,0 +1,106 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2309796-33",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2309796-33",
+      "data": "2026-02-10",
+      "dataHoraRegistro": "2026-02-10T20:10:53",
+      "siglaOrgao": "CREDN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+      "idOrgao": 2018,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80990",
+      "idEvento": 80990,
+      "descricao": "Aprovado o Parecer, com o voto contrário da Bancada do NOVO da Comissão.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": "2023-06-16T16:00:51",
+        "descricao": "Parecer do Relator, Dep. Claudio Cajado (PP-BA), pela aprovação.",
+        "uriProposicaoCitada": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2369916"
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2383912,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2383912",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 5,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MSC 638/2021",
+          "dataApresentacao": "2023-08-30T09:00"
+        },
+        {
+          "id": 2381832,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2381832",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 4,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MSC 638/2021",
+          "dataApresentacao": "2023-08-23T09:32"
+        },
+        {
+          "id": 2381694,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2381694",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 3,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MSC 638/2021",
+          "dataApresentacao": "2023-08-23T08:37"
+        },
+        {
+          "id": 2379765,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2379765",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 2,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MSC 638/2021",
+          "dataApresentacao": "2023-08-16T08:30"
+        },
+        {
+          "id": 2375018,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2375018",
+          "siglaTipo": "RPD",
+          "codTipo": 328,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Requerimento de Retirada de Matéria da Pauta - MSC 638/2021",
+          "dataApresentacao": "2023-08-02T10:12"
+        },
+        {
+          "id": 2369916,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2369916",
+          "siglaTipo": "PRL",
+          "codTipo": 190,
+          "numero": 1,
+          "ano": 0,
+          "ementa": "Parecer do Relator, Dep. Claudio Cajado (PP-BA), pela aprovação.",
+          "dataApresentacao": "2023-06-15T15:39"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2309796,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309796",
+          "siglaTipo": "MSC",
+          "codTipo": 411,
+          "numero": 638,
+          "ano": 2021,
+          "ementa": "Submete à apreciação do Congresso Nacional o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia sobre a Proteção Mútua da Propriedade Intelectual e Outros Resultados da Atividade Intelectual Utilizados e Obtidos no Curso da Cooperação Técnico-Militar Bilateral, assinado em Moscou, em 14 de maio de 2010.",
+          "dataApresentacao": "2021-11-30T20:52"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2309796-33"
+      }
+    ]
+  }
+}

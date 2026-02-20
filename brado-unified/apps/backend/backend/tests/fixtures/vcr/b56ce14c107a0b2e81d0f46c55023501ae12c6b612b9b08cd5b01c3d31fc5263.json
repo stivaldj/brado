@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601493-2",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601493-2",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T14:45:17",
+      "siglaOrgao": "CPASF",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539387",
+      "idOrgao": 539387,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80982",
+      "idEvento": 80982,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 3/2026 (Requerimento), pela Deputada Flávia Morais (PDT/GO), que \"Requer aditamento ao Requerimento n.º 01/2026 CPASF, para inclusão de convidados na audiência pública para debater o Trabalho Infantil Digital, no intuito de promover e qualificar as discussões sobre o referido tema, bem como encaminhar possíveis soluções e proposituras cabíveis\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601493,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601493",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 3,
+          "ano": 2026,
+          "ementa": "Requer aditamento ao Requerimento n.º 01/2026 CPASF, para inclusão de convidados na audiência pública para debater o Trabalho Infantil Digital, no intuito de promover e qualificar as discussões sobre o referido tema, bem como encaminhar possíveis soluções e proposituras cabíveis.",
+          "dataApresentacao": "2026-02-09T11:30"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2601080,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601080",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Requer a realização de Audiência Pública em conjunto com a Comissão de Trabalho para debater o Trabalho Infantil Digital, no intuito de promover e qualificar as discussões sobre o referido tema, bem como encaminhar possíveis soluções e proposituras cabíveis.",
+          "dataApresentacao": "2026-02-05T09:20"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601493-2"
+      }
+    ]
+  }
+}

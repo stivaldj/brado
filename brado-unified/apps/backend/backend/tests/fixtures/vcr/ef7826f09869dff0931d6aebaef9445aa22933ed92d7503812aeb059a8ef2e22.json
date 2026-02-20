@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2601502-3",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601502-3",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:28:29",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 1/2026 (Requerimento de Audiência Pública), pela Deputada Greyce Elias (AVANTE/MG), que \"\nRequer a realização de Audiência Pública da Comissão de Minas e Energia para debater o impacto da regulação da proteção patrimonial mutualista no transporte de carga\n\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2601502,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601502",
+          "siglaTipo": "REQ",
+          "codTipo": 294,
+          "numero": 1,
+          "ano": 2026,
+          "ementa": "Requer a realização de Audiência Pública da Comissão de Minas e Energia para debater o impacto da regulação da proteção patrimonial mutualista no transporte de carga.",
+          "dataApresentacao": "2026-02-06T15:04"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2601502-3"
+      }
+    ]
+  }
+}

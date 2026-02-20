@@ -1,0 +1,93 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2600441-6",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600441-6",
+      "data": "2026-02-03",
+      "dataHoraRegistro": "2026-02-03T14:04:54",
+      "siglaOrgao": "PLEN",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "idOrgao": 180,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80928",
+      "idEvento": 80928,
+      "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": null,
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593628",
+          "tituloProposicao": "PL 6070/2025",
+          "descResultado": "Aprovado o requerimento nº 136/2026,do Sr. Antonio Brito, que solicita urgência (art. 155) para o PL 6070/2025.",
+          "dataHoraResultado": "2026-02-03T12:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593628",
+          "tituloProposicao": "PL 6070/2025",
+          "descResultado": "Realizar o encaminhamento do PL-6070/2025 à CCJC (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-03T12:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        },
+        {
+          "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593628",
+          "tituloProposicao": "PL 6070/2025",
+          "descResultado": "Realizar o encaminhamento do PL-6070/2025 à CFT (tramitação simultânea), em razão da aprovação de requerimento de urgência.",
+          "dataHoraResultado": "2026-02-03T12:00",
+          "descUltimaAberturaVotacao": null,
+          "dataHoraUltimaAberturaVotacao": null,
+          "descUltimaApresentacaoProposicao": null,
+          "dataHoraUltimaApresentacaoProposicao": null,
+          "uriProposicaoCitada": null,
+          "tituloProposicaoCitada": null
+        }
+      ],
+      "objetosPossiveis": [
+        {
+          "id": 2600441,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600441",
+          "siglaTipo": "REQ",
+          "codTipo": 392,
+          "numero": 136,
+          "ano": 2026,
+          "ementa": "Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime de urgência do Projeto de Lei n° 6.070, de 2025.",
+          "dataApresentacao": "2026-02-03T12:54"
+        }
+      ],
+      "proposicoesAfetadas": [
+        {
+          "id": 2593628,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2593628",
+          "siglaTipo": "PL",
+          "codTipo": 139,
+          "numero": 6070,
+          "ano": 2025,
+          "ementa": "Altera a Lei nº 12.300, de 28 de julho de 2010, para modificar o Plano de Carreira dos Servidores do Senado Federal, e dá outras providências.",
+          "dataApresentacao": "2025-12-08T14:53"
+        }
+      ]
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2600441-6"
+      }
+    ]
+  }
+}

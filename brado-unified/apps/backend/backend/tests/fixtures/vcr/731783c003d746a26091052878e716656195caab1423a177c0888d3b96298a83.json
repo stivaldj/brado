@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": 143942,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+      "nomeCivil": "CAIO SANTOS VIANNA",
+      "ultimoStatus": {
+        "id": 143942,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942",
+        "nome": "Caio Vianna",
+        "siglaPartido": "PSD",
+        "uriPartido": null,
+        "siglaUf": "RJ",
+        "idLegislatura": 57,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+        "email": null,
+        "data": "2026-02-06",
+        "nomeEleitoral": "Caio Vianna",
+        "gabinete": {
+          "nome": "975",
+          "predio": "3",
+          "sala": "975",
+          "andar": null,
+          "telefone": "3215-5975",
+          "email": "dep.caiovianna@camara.leg.br"
+        },
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": null
+      },
+      "cpf": "12305969767",
+      "sexo": "M",
+      "urlWebsite": null,
+      "redeSocial": [],
+      "dataNascimento": "1988-12-08",
+      "dataFalecimento": null,
+      "ufNascimento": "RJ",
+      "municipioNascimento": "Campos dos Goytacazes",
+      "escolaridade": "Superior"
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/143942"
+      }
+    ]
+  }
+}

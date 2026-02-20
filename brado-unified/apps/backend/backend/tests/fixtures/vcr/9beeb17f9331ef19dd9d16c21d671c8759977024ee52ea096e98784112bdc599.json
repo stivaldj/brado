@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "body": {
+    "dados": {
+      "id": "2488154-3",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2488154-3",
+      "data": "2026-02-11",
+      "dataHoraRegistro": "2026-02-11T11:15:50",
+      "siglaOrgao": "CME",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2012",
+      "idOrgao": 2012,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/80973",
+      "idEvento": 80973,
+      "descricao": "Aprovado o Requerimento.",
+      "aprovacao": 1,
+      "descUltimaAberturaVotacao": null,
+      "dataHoraUltimaAberturaVotacao": null,
+      "ultimaApresentacaoProposicao": {
+        "dataHoraRegistro": null,
+        "descricao": "Apresentação do REQ n. 4/2025 (Requerimento), pela Deputada Greyce Elias (AVANTE/MG), que \"Requeiro a Manutenção da Subcomissão Permanente de Mineração, bem como o mesmo quantitativo de membros e a continuidade da direção.\n\n\".",
+        "uriProposicaoCitada": null
+      },
+      "efeitosRegistrados": [],
+      "objetosPossiveis": [
+        {
+          "id": 2488154,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488154",
+          "siglaTipo": "REQ",
+          "codTipo": 448,
+          "numero": 4,
+          "ano": 2025,
+          "ementa": "Requeiro a Manutenção da Subcomissão Permanente de Mineração, bem como o mesmo quantitativo de membros e a continuidade da direção.",
+          "dataApresentacao": "2025-03-20T10:41"
+        }
+      ],
+      "proposicoesAfetadas": []
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2488154-3"
+      }
+    ]
+  }
+}
